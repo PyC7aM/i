@@ -1,0 +1,814 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="10kanal-novokuzneck" group-title="", 10 канал Новокузнецк
+http://kuzbass1.ru:8082/10kanal/10kanal_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="12-omsk" group-title="", 12 канал Омск
+http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-id="1hd" group-title="Music", 1HD Music Television
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="2na2" group-title="", 2x2
+https://bl.uma.media/live/317805/HLS/4614144_3,2883584/2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="360-podmoskovie" group-title="", 360° Подмосковье
+https://video1.in-news.ru/360/index.m3u8
+
+#EXTINF:-1 tvg-id="365-dnej" group-title="", 365 дней ТВ
+http://50.7.231.221:8081/108/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="9kanal-israel" group-title="", 9 канал Израиль
+http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="amedia-hit" group-title="Movies", A HOME OF HBO 1
+http://50.7.231.221:8081/183/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="amedia-premium" group-title="Movies", A HOME OF HBO 2
+http://50.7.231.221:8081/193/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="amedia1" group-title="Movies", A1
+http://50.7.231.221:8081/132/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="amedia2" group-title="Movies", A2
+http://50.7.231.221:8081/192/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="ani" group-title="Kids", Ani
+http://50.7.231.221:8081/190/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="animal-planet" group-title="", Animal Planet
+http://tv.streams.baikal-telecom.net/Animal_Planet/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", ATV Cineman
+http://ott-cdn.ucom.am/s66/04.m3u8
+
+#EXTINF:-1 tvg-id="atv-filmzone" group-title="Movies", ATV Filmzone
+http://ott-cdn.ucom.am/s48/04.m3u8
+
+#EXTINF:-1 tvg-id="atv-kinoman" group-title="Movies", ATV Kinoman
+http://ott-cdn.ucom.am/s94/04.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", AVD TV
+https://autopilot.catcast.tv/content/40791/index.m3u8
+
+#EXTINF:-1 tvg-id="baby-tv" group-title="Kids", Baby TV
+
+
+#EXTINF:-1 tvg-id="backustv" group-title="Movies", BackusTV
+http://stream.backustv.ru/live/btv/index.m3u8
+
+#EXTINF:-1 tvg-id="backustv-horror" group-title="Movies", BackusTV Страшное
+http://stream.backustv.ru/live/btv2/index.m3u8
+
+#EXTINF:-1 tvg-id="bbc" group-title="News", BBC World News
+http://50.7.231.221:8081/201/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="bollywood-hd" group-title="", Bollywood HD
+http://50.7.231.221:8081/184/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="bolt" group-title="", Bolt
+http://50.7.231.221:8081/215/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="bridge-tv" group-title="Music", Bridge TV
+https://livetv.mylifeisgood.ml/channels/bridgetv24h
+
+#EXTINF:-1 tvg-id="bridge-tv-classic" group-title="Music", Bridge TV Classic
+https://livetv.mylifeisgood.ml/channels/bridgeclassictv
+
+#EXTINF:-1 tvg-id="bridge-hd" group-title="Music", Bridge TV Deluxe
+https://livetv.mylifeisgood.ml/channels/bridgedeluxetv
+
+#EXTINF:-1 tvg-id="bridge-tv-dance" group-title="Music", Bridge TV Hits
+https://livetv.mylifeisgood.ml/channels/bridgehitstv
+
+#EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Music", Bridge TV Русский хит
+https://livetv.mylifeisgood.ml/channels/bridgerushittv
+
+#EXTINF:-1 tvg-id="bridge-tv-fresh" group-title="Music", Bridge TV Фрэш
+https://stream.sputnik24.tv/bridgef/index.m3u8
+
+#EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Music", Bridge TV Шлягер
+https://livetv.mylifeisgood.ml/channels/bridgetvshlyager
+
+#EXTINF:-1 tvg-id="cartoon-network" group-title="Kids", Cartoon Network
+http://tv.streams.baikal-telecom.net/Cartoon_Network/mpegts
+
+#EXTINF:-1 tvg-id="cinema-ru" group-title="Movies", Cinema
+https://sc.id-tv.kz/Cinema.m3u8
+
+#EXTINF:-1 tvg-id="cnn" group-title="News", CNN
+http://50.7.231.221:8081/211/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="da-vinci" group-title="Kids", Da Vinci
+https://sc.id-tv.kz/DaVinci_34_35.m3u8
+
+#EXTINF:-1 tvg-id="deutsche-welle-eu" group-title="News", Deutsche Welle Europe
+http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="discovery-channel-ce" group-title="", Discovery Channel
+https://livetv.mylifeisgood.ml/channels/discovery
+
+#EXTINF:-1 tvg-id="discovery-science" group-title="", Discovery Science
+https://livetv.mylifeisgood.ml/channels/discoveryscience
+
+#EXTINF:-1 tvg-id="disney" group-title="Kids", Disney
+http://50.7.231.221:8081/154/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="dtx" group-title="", DTX
+http://50.7.231.221:8081/228/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="euronews" group-title="News", EuroNews
+http://ott-cdn.ucom.am/s89/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" group-title="Sport", Eurosport 1
+http://tv.streams.baikal-telecom.net/Eurosport1/mpegts
+
+#EXTINF:-1 tvg-id="eurosport2" group-title="Sport", Eurosport 2
+https://livetv.mylifeisgood.ml/channels/eurosport2
+
+#EXTINF:-1 tvg-id="fashion-tv" group-title="Lifestyle", Fashion TV
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fastfunbox-hd" group-title="Lifestyle", Fast&Fun Box
+http://ott-cdn.ucom.am/s79/index.m3u8
+
+#EXTINF:-1 tvg-id="filmbox-ru" group-title="", FilmBox Russia
+http://50.7.231.221:8081/214/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="flux-hd" group-title="Movies", FLUX HD
+http://live.fluxhd.ru/FLUX_720P/video.m3u8
+
+#EXTINF:-1 tvg-id="fox" group-title="", Fox
+http://tv.streams.baikal-telecom.net/FOX/mpegts
+
+#EXTINF:-1 tvg-id="no_epg" group-title="", Fox Comedy
+
+
+#EXTINF:-1 tvg-id="foxlife" group-title="", Fox Life
+
+
+#EXTINF:-1 tvg-id="galaxy-tv" group-title="", Galaxy TV
+http://50.7.231.221:8081/205/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="gulli-girl" group-title="Kids", Gulli Girl
+http://50.7.231.221:8081/180/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="h2" group-title="", H2
+http://50.7.231.221:8081/224/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="hbo-hd" group-title="Movies", HBO
+
+
+#EXTINF:-1 tvg-id="hbo2-hd" group-title="Movies", HBO 2
+
+
+#EXTINF:-1 tvg-id="hbo3-hd" group-title="Movies", HBO 3
+
+
+#EXTINF:-1 tvg-id="hd-life" group-title="", HD Life
+http://50.7.231.221:8081/233/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="history-ru" group-title="", History
+http://50.7.231.221:8081/114/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="id-xtra-ru" group-title="", Investigation Discovery
+https://livetv.mylifeisgood.ml/channels/discoveryxtra
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Kronehit
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+#EXTINF:-1 tvg-id="kxl" group-title="Sport", KHL
+
+
+#EXTINF:-1 tvg-id="kxl-hd" group-title="Sport", KHL Prime
+http://tv.streams.baikal-telecom.net/KHL_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_mult" group-title="Kids", KINDER TV
+https://v2.catcast.tv/content/38144/index.m3u8
+
+#EXTINF:-1 tvg-id="vh1-european" group-title="Music", MTV 00s
+http://50.7.231.221:8081/175/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="vh1-classic" group-title="Music", MTV 80s
+http://50.7.231.221:8081/174/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="mtv-rocks" group-title="Music", MTV 90s
+http://50.7.231.221:8081/207/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="mtv-hits" group-title="Music", MTV Hits
+http://50.7.231.221:8081/204/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="mtv-russia" group-title="Music", MTV Russia
+http://50.7.231.221:8081/177/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Music Plus
+http://79.172.214.45:10190/stream.m3u8
+
+#EXTINF:-1 tvg-id="russian-musicbox" group-title="Music", MusicBox Russia
+http://50.7.231.221:8081/168/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="nat-geo-wild" group-title="", Nat Geo Wild
+https://sc.id-tv.kz:443/NatGeoWildHD_34_35.m3u8
+
+#EXTINF:-1 tvg-id="national-geographic" group-title="", National Geographic
+
+
+#EXTINF:-1 tvg-id="nick-jr" group-title="Kids", Nick Jr
+http://50.7.231.221:8081/210/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="nickelodeon-ru" group-title="Kids", Nickelodeon
+http://50.7.231.221:8081/155/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="nickelodeon-hd" group-title="Kids", Nickelodeon HD
+https://livetv.mylifeisgood.ml/channels/nickelodeon-hd
+
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", NorMax
+https://autopilot.catcast.tv/content/40660/index.m3u8
+
+#EXTINF:-1 tvg-id="oceon-tv" group-title="", Ocean TV
+
+
+#EXTINF:-1 tvg-id="paramount-channel" group-title="", Paramount Channel
+http://50.7.231.221:8081/182/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="paramount-comedy" group-title="", Paramount Comedy
+http://109.200.130.124:15500/paramountcomedy
+
+#EXTINF:-1 tvg-id="plan-b" group-title="", Plan B
+
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Portal FoxMix TV
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rtg-hd" group-title="", RTG HD 
+http://tv.streams.baikal-telecom.net/RTG_HD/mpegts
+
+#EXTINF:-1 tvg-id="rtg-tv" group-title="", RTG TV
+http://ott-cdn.ucom.am/s80/index.m3u8
+
+#EXTINF:-1 tvg-id="sony-enter" group-title="", Sony Entertainment
+
+
+#EXTINF:-1 tvg-id="sony-scifi" group-title="", Sony Sci-Fi
+http://31.40.148.98:8000/sony_sci_fi/index.m3u8
+
+#EXTINF:-1 tvg-id="sony-turbo" group-title="", Sony Turbo
+http://st1.astra-uk.ru:81/cc719f0f30037279d03bf2fd542a8088/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Alternative HD
+https://stirr.ott-channels.stingray.com/102/master.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Classic Rock HD
+https://stirr.ott-channels.stingray.com/101/master.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Classica HD
+https://stirr.ott-channels.stingray.com/iota-classica/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Exitos Del Momento HD
+https://stirr.ott-channels.stingray.com/190/master.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Flashback 70S HD
+https://stirr.ott-channels.stingray.com/115/master.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Greatest Hits HD
+https://stirr.ott-channels.stingray.com/155/master.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Hip-Hop/R&B HD
+https://stirr.ott-channels.stingray.com/133/master.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Hit List HD
+https://stirr.ott-channels.stingray.com/107/master.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Hot Country HD
+https://stirr.ott-channels.stingray.com/108/master.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Jazz HD
+https://stirr.ott-channels.stingray.com/djazz/master_1920x1080_4500kbps.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Karaoke HD
+https://stirr.ott-channels.stingray.com/karaoke/master_1920x1080_4500kbps.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Pop Adult HD
+https://stirr.ott-channels.stingray.com/104/master.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Qello TV HD
+https://stirr.ott-channels.stingray.com/qello/master_1280x720_2000kbps.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Remember The 80S HD
+https://stirr.ott-channels.stingray.com/128/master.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Soul Storm STORM HD
+https://stirr.ott-channels.stingray.com/134/master.m3u8
+
+#EXTINF:-1 tvg-id="tiji" group-title="Kids", TiJi
+http://50.7.231.221:8081/202/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="tlc" group-title="", TLC
+http://tv.streams.baikal-telecom.net/TLC/mpegts
+
+#EXTINF:-1 tvg-id="travel-channel" group-title="", Travel Channel
+http://50.7.231.221:8081/113/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="travel-adventure" group-title="", Travel+Adventure
+http://50.7.231.221:8081/112/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="tvxxi" group-title="", TV XXI
+http://50.7.231.221:8081/133/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="tv1000" group-title="Movies", TV1000
+http://tv.streams.baikal-telecom.net/TV1000/mpegts
+
+#EXTINF:-1 tvg-id="tv1000-action" group-title="Movies", TV1000 Action
+http://tv.streams.baikal-telecom.net/TV1000_Action/mpegts
+
+#EXTINF:-1 tvg-id="tv1000-worldkino" group-title="Movies", TV1000 World Kino
+http://152.70.49.253:8080/channel/n6671f844/index.m3u8?q=104c0d2277462a117ba608bec5675ed1
+
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Movies", TV1000 Русское кино
+http://50.7.231.221:8081/139/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="ufc" group-title="Sport", UFC ТВ
+http://50.7.231.221:8081/232/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="viasat-explore" group-title="", Viasat Explore
+http://50.7.231.221:8081/109/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="viasat-history" group-title="", Viasat History
+http://50.7.231.221:8081/111/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="viasat-nature" group-title="", Viasat Nature
+http://50.7.231.221:8081/110/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="viasat-sport" group-title="Sport", Viasat Sport
+https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vip-comedy" group-title="Movies", VIP Comedy
+http://50.7.231.221:8081/142/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="vip-megahit" group-title="Movies", VIP Megahit
+http://50.7.231.221:8081/141/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="vip-premiere" group-title="Movies", VIP Premiere
+http://50.7.231.221:8081/140/index.m3u8?wmsAuthSign=okadk
+
+#EXTINF:-1 tvg-id="vip-serial" group-title="Movies", VIP Serial
+
+
+#EXTINF:-1 tvg-id="viva-rus" group-title="Music", VIVA Russia
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+
+#EXTINF:-1 tvg-id="avto24" group-title="", Авто 24
+http://50.7.231.221:8081/146/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="arsenaltv" group-title="", Арсенал
+https://stream.sputnik24.tv/arsenal/index.m3u8
+
+#EXTINF:-1 tvg-id="bobior" group-title="", Бобёр
+http://50.7.231.221:8081/189/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" group-title="", В мире животных HD
+http://50.7.231.221:8081/221/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="detsky" group-title="Kids", Детский
+http://50.7.231.221:8081/156/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="detsky-mir" group-title="Kids", Детский мир
+http://ott-cdn.ucom.am/s58/index.m3u8
+
+#EXTINF:-1 tvg-id="detkinoint-tviksel" group-title="Kids", Детское кино International
+http://v2.catcast.me/content/38720/index.m3u8
+
+#EXTINF:-1 tvg-id="dialogi-o-rybalke" group-title="", Диалоги о рыбалке
+https://2serv.mylifeisgood.ml/channels/dialogiorybalke
+
+#EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="", Дикая охота HD
+
+
+#EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="", Дикая рыбалка HD
+
+
+#EXTINF:-1 tvg-id="dikiy" group-title="", Дикий
+
+
+#EXTINF:-1 tvg-id="doktor" group-title="", Доктор
+http://50.7.231.221:8081/120/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Доку
+https://ed-nl-01.mycdn.video/docu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="domkino" group-title="Movies", Дом кино
+http://50.7.231.221:8081/186/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="domkino-premium" group-title="", Дом кино Премиум HD
+http://50.7.231.221:8081/187/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="domashny" group-title="", Домашний
+http://185.252.249.83:8000/play/a017
+
+#EXTINF:-1 tvg-id="dushevnoe" group-title="", Душевное
+http://50.7.231.221:8081/172/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="evrokino" group-title="Movies", Еврокино
+http://50.7.231.221:8081/126/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="eda-hd" group-title="", Еда Премиум
+http://50.7.231.221:8081/198/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="enisey-region" group-title="", Енисей регион
+http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="zhara" group-title="Music", Жара Kids TV
+http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
+
+#EXTINF:-1 tvg-id="zhara" group-title="Music", Жара
+http://50.7.231.221:8081/144/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="zagorodnaya-zhizn" group-title="", Загородная жизнь
+http://50.7.231.221:8081/195/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="zvezda" group-title="Movies", Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+
+#EXTINF:-1 tvg-id="zootv" group-title="", Зоо ТВ
+http://ott-cdn.ucom.am/s92/index.m3u8
+
+#EXTINF:-1 tvg-id="izvestia" group-title="News", Известия
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+
+#EXTINF:-1 tvg-id="illuzion-plus" group-title="", Иллюзион +
+http://50.7.231.221:8081/130/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="indiyskoe-kino" group-title="Movies", Индийское кино
+http://50.7.231.221:8081/128/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="istoria" group-title="", История
+http://ott-cdn.ucom.am/s40/index.m3u8
+
+#EXTINF:-1 tvg-id="kvn-tv" group-title="Entertainment", КВН ТВ
+
+#EXTINF:-1 tvg-id="no_epg" group-title="Religion", Каббала ТВ
+
+
+#EXTINF:-1 tvg-id="kaleydoskop-tv" group-title="", Калейдоскоп ТВ
+http://cdn-01.bonus-tv.ru:8080/Kaleidoskop_edge/index.m3u8
+
+#EXTINF:-1 tvg-id="ginger-hd" group-title="Kids", Капитан Фантастика
+http://50.7.231.221:8081/222/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="karapuz-tv" group-title="Kids", Карапуз ТВ
+http://online.karapuztv.ru/content/33418/index.m3u8?token=karapuztv2018
+
+#EXTINF:-1 tvg-id="karusel" group-title="Kids", Карусель
+http://50.7.231.221:8081/157/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="kino1int-tviksel" group-title="Movies", Кино 1 International
+https://autopilot.catcast.tv/content/38617/index.m3u8
+
+#EXTINF:-1 tvg-id="kino-tv-pl7" group-title="Movies", КиноТВ
+http://1hdru-hls-otcnet.cdnvideo.ru/kinosem/index.m3u8
+
+#EXTINF:-1 tvg-id="kinokomedia" group-title="Movies", Кинокомедия
+http://50.7.231.221:8081/129/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="kinomiks" group-title="Movies", Киномикс
+https://sc.id-tv.kz/Kinomix_hd.m3u8
+
+#EXTINF:-1 tvg-id="kinopokaz" group-title="Movies", Кинопоказ
+http://50.7.231.221:8081/161/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="kinopremiera-hd" group-title="Movies", Кинопремьера
+http://50.7.231.221:8081/203/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="kinosvidanie" group-title="Movies", Киносвидание
+https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
+
+#EXTINF:-1 tvg-id="kinosemiya" group-title="Movies", Киносемья
+https://sc.id-tv.kz/Kinosemiya_hd.m3u8
+
+#EXTINF:-1 tvg-id="kinoseria" group-title="Movies", Киносерия
+https://sc.id-tv.kz/Kinoseriya_hd.m3u8
+
+#EXTINF:-1 tvg-id="kinosat" group-title="", Киносат
+http://50.7.231.221:8081/124/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="kinouzhas" group-title="Movies", Киноужас
+http://50.7.231.221:8081/227/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="kinoxit" group-title="Movies", Кинохит
+http://50.7.231.221:8081/200/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="komedijnoe" group-title="", Комедийное
+http://50.7.231.221:8081/170/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="russkaya-komedia" group-title="", Комедия
+
+
+#EXTINF:-1 tvg-id="konny-mir" group-title="", Конный мир
+http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="kuxnia-tv" group-title="", Кухня ТВ
+https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
+
+#EXTINF:-1 tvg-id="nashe-lubimoe" group-title="", Любимое
+http://50.7.231.221:8081/236/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="la-minor" group-title="Music", Ля-минор
+http://50.7.231.221:8081/199/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="m1-ua" group-title="Music", М1
+http://live.m2.tv/hls2/720/stream.m3u8
+
+#EXTINF:-1 tvg-id="m2-ua" group-title="Music", М2
+http://live.m2.tv/hls3/720/stream.m3u8
+
+#EXTINF:-1 tvg-id="mama" group-title="", Мама
+http://50.7.231.221:8081/194/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="match-boets" group-title="Sport", Матч! Боец
+
+
+#EXTINF:-1 tvg-id="match-nash-sport" group-title="Sport", Матч! Наш спорт
+https://bl.uma.media/live/291661/HLS/4614144_3,2883584/2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="match-premier" group-title="Sport", Матч! Премьер
+
+
+#EXTINF:-1 tvg-id="match-tv" group-title="Sport", Матч! ТВ
+https://bl.uma.media/live/133529/HLS/4614144_3,2883584/2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="match-football1" group-title="Sport", Матч! Футбол 1
+
+
+#EXTINF:-1 tvg-id="match-football2" group-title="Sport", Матч! Футбол 2
+
+
+#EXTINF:-1 tvg-id="millet" group-title="", Миллет
+http://live.trkmillet.ru/millet/index.m3u8
+
+#EXTINF:-1 tvg-id="mir" group-title="", Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mir-24" group-title="", Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mir-basketbola" group-title="Sport", Мир баскетбола
+http://50.7.231.221:8081/234/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="mir-seriala" group-title="", Мир сериала
+http://109.200.130.124:7007/play/a01a
+
+#EXTINF:-1 tvg-id="mosfilm" group-title="", Мосфильм. Золотая коллекция
+http://50.7.231.221:8081/235/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="motorsportv-tv" group-title="Sport", Моторспорт ТВ
+http://50.7.231.221:8081/230/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="moya-planeta" group-title="", Моя Планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="muzhskoy" group-title="", Мужской
+http://50.7.231.221:8081/188/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="muzhskoe-kino" group-title="Movies", Мужское кино
+
+
+#EXTINF:-1 tvg-id="muztv" group-title="Music", Муз-ТВ
+http://50.7.231.221:8081/163/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="muzyka-pervogo" group-title="Music", Музыка Первого
+http://50.7.231.221:8081/225/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="mult" group-title="Kids", Мульт
+http://50.7.231.221:8081/178/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="multimania" group-title="Kids", Мультиландия
+http://50.7.231.221:8081/223/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="nst" group-title="", НСТ
+http://50.7.231.221:8081/127/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="ntv" group-title="", НТВ
+http://46.174.83.66/NTV/mpegts
+
+#EXTINF:-1 tvg-id="ntv-mir" group-title="", НТВ-Мир
+http://ott-cdn.ucom.am/s17/index.m3u8
+
+#EXTINF:-1 tvg-id="ntv-pravo" group-title="", НТВ Право
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=ntvpravo
+
+#EXTINF:-1 tvg-id="ntv-serial" group-title="", НТВ Сериал
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=ntvserial
+
+#EXTINF:-1 tvg-id="ntv-style" group-title="", НТВ Стиль
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=ntvstyle
+
+#EXTINF:-1 tvg-id="ntv-xit" group-title="", НТВ-Хит
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=ntvhit
+
+#EXTINF:-1 tvg-id="ntm" group-title="", НТМ
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nauka-20" group-title="", Наука 2.0
+http://ott-cdn.ucom.am/s98/index.m3u8
+
+#EXTINF:-1 tvg-id="nashehd" group-title="", Наше HD
+http://50.7.231.221:8081/171/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="", Наше новое кино
+http://50.7.231.221:8081/197/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Новое радио
+https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="novy-mir" group-title="", Новый мир
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="o_" group-title="Kids", О!
+https://sc.id-tv.kz/o_34_35.m3u8
+
+#EXTINF:-1 tvg-id="o-tv" group-title="Music", O-ТВ
+http://50.7.231.221:8081/166/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="oruzhie" group-title="", Оружие
+http://50.7.231.221:8081/117/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="oxota-i-rybalka" group-title="", Охота и рыбалка
+http://31.40.148.98:8000/ohota_i_rybalka/index.m3u8
+
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" group-title="", Охотник и рыболов HD
+
+
+#EXTINF:-1 tvg-id="pervy-vegetariansky" group-title="", Первый вегетарианский
+http://50.7.231.221:8081/143/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="onemuz" group-title="Music", Первый Музыкальный RU
+http://rtmp.one.by:2200
+
+#EXTINF:-1 tvg-id="onemuz" group-title="Music", Первый Музыкальный RU
+http://rtmp.one.by:2300
+
+#EXTINF:-1 tvg-id="pervy" group-title="", Первый канал
+http://185.252.249.83:8000/play/a01n
+
+#EXTINF:-1 tvg-id="no_epg" group-title="", Первый космическмй
+https://livetv.mylifeisgood.ml/channels/firstspace
+
+#EXTINF:-1 tvg-id="onemuz" group-title="Music", Первый музыкальный
+http://rtmp.one.by:1200
+
+#EXTINF:-1 tvg-id="onemuz" group-title="Music", Первый музыкальный
+http://rtmp.one.by:1300
+
+#EXTINF:-1 tvg-id="onemuz" group-title="Music", Первый музыкальный 4K
+http://rtmp.one.by:1499
+
+#EXTINF:-1 tvg-id="perec-int" group-title="", Перец Int
+http://85.92.120.101:8000/play/a016/index.m3u8
+
+#EXTINF:-1 tvg-id="pobeda" group-title="", Победа
+http://50.7.231.221:8081/218/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="poexali" group-title="", Поехали!
+https://sc.id-tv.kz/poehali.m3u8
+
+#EXTINF:-1 tvg-id="premialnoe-hd" group-title="", Премиальное HD
+http://188.190.222.55/Kino_Premium_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="prikluchenia-hd" group-title="", Приключения HD
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=adventureshd
+
+#EXTINF:-1 tvg-id="pro-lyubov" group-title="", Про Любовь
+http://50.7.231.221:8081/237/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="piatnica" group-title="", Пятница
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=friday
+
+#EXTINF:-1 tvg-id="piatnica-int" group-title="", Пятница International
+http://ott-cdn.ucom.am/s50/index.m3u8
+
+#EXTINF:-1 tvg-id="5kanal-ru" group-title="General", Пятый канал
+http://46.174.83.66/5Kanal/mpegts
+
+#EXTINF:-1 tvg-id="radio-shanson" group-title="Music", Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+
+#EXTINF:-1 tvg-id="rentv" group-title="General", Рен ТВ
+http://185.252.249.83:8000/play/a014
+
+#EXTINF:-1 tvg-id="rentv-int" group-title="", Рен ТВ International
+https://sc.id-tv.kz/RenTV_36_37.m3u8
+
+#EXTINF:-1 tvg-id="rodnoe-kino" group-title="Movies", Родное кино
+http://50.7.231.221:8081/179/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="rossia1" group-title="General", Россия
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1 tvg-id="rossia-24" group-title="News", Россия 24
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+
+#EXTINF:-1 tvg-id="kultura" group-title="", Россия К
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_2.m3u8
+
+#EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="", Россия РТР
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rostov-papa" group-title="", Ростов-папа
+http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="russky-bestseller" group-title="", Русский бестселлер
+http://50.7.231.221:8081/135/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="russky-detektiv" group-title="", Русский детектив
+http://50.7.231.221:8081/136/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="russky-illuzion" group-title="", Русский иллюзион
+https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
+
+#EXTINF:-1 tvg-id="russky-roman" group-title="", Русский роман
+http://109.171.45.109:81/udp/239.54.5.87:1224
+
+#EXTINF:-1 tvg-id="sts" group-title="", СТС
+http://185.252.249.83:8000/play/a016
+
+#EXTINF:-1 tvg-id="sts-kids-hd" group-title="Kids", СТС Kids HD
+http://152.70.49.253:8080/channel/n3a9061bd/index.m3u8?q=104c0d2277462a117ba608bec5675ed1
+
+#EXTINF:-1 tvg-id="sts-love" group-title="", СТС Love
+http://50.7.231.221:8081/123/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="sarafan" group-title="", Сарафан
+http://50.7.231.221:8081/209/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Свежаки
+https://ed-nl-01.mycdn.video/fresh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="sever" group-title="", Север
+https://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-id="spas" group-title="Religion", Спас
+
+
+#EXTINF:-1 tvg-id="radio-strana-fm-tv" group-title="Music", Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="strashnoe-hd" group-title="", Страшное HD
+http://50.7.231.221:8081/216/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="super" group-title="", Суббота!
+https://bl.uma.media/live/317845/HLS/4614144_3,2883584/2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv3-ru" group-title="", ТВ 3
+https://bl.uma.media/live/407373/HLS/6307840_7,4280320/2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tnt" group-title="Entertainment", ТНТ
+https://bl.uma.media/live/410338/HLS/6307840_7,4280320/2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tnt-int-cis" group-title="Entertainment", ТНТ-International
+http://ott-cdn.ucom.am/s19/index.m3u8
+
+#EXTINF:-1 tvg-id="tnt-music" group-title="Music", ТНТ-Music
+http://83.222.205.65:8080/tntmusic/index.m3u8
+
+#EXTINF:-1 tvg-id="tnt4" group-title="Entertainment", ТНТ4
+https://bl.uma.media/live/317849/HLS/4614144_3,2883584/2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvoyo-tv-hd" group-title="", Твоё ТВ HD
+http://stream-norst.cf:8080/tvoetv/index.m3u8
+
+#EXTINF:-1 tvg-id="texno-24" group-title="", Техно 24
+http://50.7.231.221:8081/116/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Ужас
+https://v2.catcast.tv/content/38896/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Ужастик
+http://edge-01.kino.watch/horror/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Уже видел
+https://ed-nl-01.mycdn.video/hit/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Фантастика Sci-Fi
+https://v2.catcast.tv/content/38801/index.m3u8
+
+#EXTINF:-1 tvg-id="feniks-plus-kino" group-title="Movies", Феникс+ Кино
+
+
+#EXTINF:-1 tvg-id="khit-hd" group-title="", Хит HD
+http://50.7.231.221:8081/219/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="che" group-title="Entertainment", Че
+http://tv.streams.baikal-telecom.net/CHE/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="shanson-tv" group-title="Music", Шансон-TB
+http://ott-cdn.ucom.am/s43/04.m3u8
+
+#EXTINF:-1 tvg-id="shokiruyushchee-hd" group-title="", Шокирующее HD
+http://50.7.231.221:8081/169/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="yu" group-title="Entertainment", Ю
+http://50.7.231.221:8081/107/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="yurgan" group-title="", Юрган
+http://yurgan.bonus-tv.ru/cdn/yurgan/playlist.m3u8
+
