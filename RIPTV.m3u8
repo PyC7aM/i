@@ -136,7 +136,7 @@ http://ott-cdn.ucom.am/s79/index.m3u8
 http://50.7.231.221:8081/214/index.m3u8?wmsAuthSign=okad
 
 #EXTINF:-1 tvg-id="flux-hd" group-title="Movies", FLUX HD
-http://live.fluxhd.ru/FLUX_720P/video.m3u8
+
 
 #EXTINF:-1 tvg-id="fox" group-title="", Fox
 http://tv.streams.baikal-telecom.net/FOX/mpegts
