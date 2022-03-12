@@ -9,7 +9,7 @@ http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="1hd" group-title="Music", 1HD Music Television
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="2na2" group-title="", 2x2
+#EXTINF:-1 tvg-id="2na2" group-title="Entertainment", 2x2
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="360-podmoskovie" group-title="Regional", 360° Подмосковье
@@ -794,7 +794,7 @@ https://v2.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 tvg-id="feniks-plus-kino" group-title="Movies", Феникс+ Кино
 
 
-#EXTINF:-1 tvg-id="khit-hd" group-title="", Хит HD
+#EXTINF:-1 tvg-id="khit-hd" group-title="Movies", Хит HD
 http://50.7.231.221:8081/219/index.m3u8?wmsAuthSign=okad
 
 #EXTINF:-1 tvg-id="che" group-title="Entertainment", Че
@@ -803,7 +803,7 @@ http://tv.streams.baikal-telecom.net/CHE/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" group-title="Music", Шансон-TB
 http://ott-cdn.ucom.am/s43/04.m3u8
 
-#EXTINF:-1 tvg-id="shokiruyushchee-hd" group-title="", Шокирующее HD
+#EXTINF:-1 tvg-id="shokiruyushchee-hd" group-title="Movies", Шокирующее HD
 http://50.7.231.221:8081/169/index.m3u8?wmsAuthSign=okad
 
 #EXTINF:-1 tvg-id="yu" group-title="Entertainment", Ю
