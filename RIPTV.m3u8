@@ -13,7 +13,7 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="360-podmoskovie" group-title="Regional", 360° Подмосковье
-https://video1.in-news.ru/360/index.m3u8
+https://sc.id-tv.kz/360_34_35.m3u8
 
 #EXTINF:-1 tvg-id="365-dnej" group-title="", 365 дней ТВ
 http://50.7.231.221:8081/108/index.m3u8?wmsAuthSign=okad
