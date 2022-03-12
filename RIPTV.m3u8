@@ -129,7 +129,7 @@ https://livetv.mylifeisgood.ml/channels/eurosport2
 #EXTINF:-1 tvg-id="fashion-tv" group-title="Lifestyle", Fashion TV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="fastfunbox-hd" group-title="Lifestyle", Fast&Fun Box
+#EXTINF:-1 tvg-id="fastfunbox-hd" group-title="Sport", Fast&Fun Box
 http://ott-cdn.ucom.am/s79/index.m3u8
 
 #EXTINF:-1 tvg-id="filmbox-ru" group-title="", FilmBox Russia
@@ -240,10 +240,10 @@ http://109.200.130.124:15500/paramountcomedy
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Portal FoxMix TV
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rtg-hd" group-title="", RTG HD 
+#EXTINF:-1 tvg-id="rtg-hd" group-title="Travel & Tourism", RTG HD 
 http://tv.streams.baikal-telecom.net/RTG_HD/mpegts
 
-#EXTINF:-1 tvg-id="rtg-tv" group-title="", RTG TV
+#EXTINF:-1 tvg-id="rtg-tv" group-title="Travel & Tourism", RTG TV
 http://ott-cdn.ucom.am/s80/index.m3u8
 
 #EXTINF:-1 tvg-id="sony-enter" group-title="", Sony Entertainment
@@ -306,10 +306,10 @@ http://50.7.231.221:8081/202/index.m3u8?wmsAuthSign=okad
 #EXTINF:-1 tvg-id="tlc" group-title="", TLC
 http://tv.streams.baikal-telecom.net/TLC/mpegts
 
-#EXTINF:-1 tvg-id="travel-channel" group-title="", Travel Channel
+#EXTINF:-1 tvg-id="travel-channel" group-title="Travel & Tourism", Travel Channel
 http://50.7.231.221:8081/113/index.m3u8?wmsAuthSign=okad
 
-#EXTINF:-1 tvg-id="travel-adventure" group-title="", Travel+Adventure
+#EXTINF:-1 tvg-id="travel-adventure" group-title="Travel & Tourism", Travel+Adventure
 http://50.7.231.221:8081/112/index.m3u8?wmsAuthSign=okad
 
 #EXTINF:-1 tvg-id="tvxxi" group-title="", TV XXI
@@ -668,13 +668,13 @@ http://85.92.120.101:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="pobeda" group-title="", Победа
 http://50.7.231.221:8081/218/index.m3u8?wmsAuthSign=okad
 
-#EXTINF:-1 tvg-id="poexali" group-title="", Поехали!
+#EXTINF:-1 tvg-id="poexali" group-title="Travel & Tourism", Поехали!
 https://sc.id-tv.kz/poehali.m3u8
 
 #EXTINF:-1 tvg-id="premialnoe-hd" group-title="", Премиальное HD
 http://188.190.222.55/Kino_Premium_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="prikluchenia-hd" group-title="", Приключения HD
+#EXTINF:-1 tvg-id="prikluchenia-hd" group-title="Travel & Tourism", Приключения HD
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=adventureshd
 
 #EXTINF:-1 tvg-id="pro-lyubov" group-title="", Про Любовь
