@@ -747,7 +747,7 @@ https://edge-01.kino.watch/fresh/index.m3u8
 https://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-id="spas" group-title="Religion", Спас
-http://46.164.241.156:1/udp/235.1.10.205:10000
+http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="radio-strana-fm-tv" group-title="Music", Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
