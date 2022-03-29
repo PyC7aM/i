@@ -16,7 +16,7 @@ https://bl.uma.media/live/317805/HLS/4614144_3,2883584/2/1/playlist.m3u8
 http://192.166.144.101:8008/playlist.m3u8
 
 #EXTINF:-1 tvg-id="360-podmoskovie" group-title="Regional", 360° Подмосковье
-https://sc.id-tv.kz/360_34_35.m3u8
+https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 
 #EXTINF:-1 tvg-id="365-dnej" group-title="", 365 дней ТВ
 http://50.7.231.221:8081/108/index.m3u8?wmsAuthSign=okad
