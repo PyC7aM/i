@@ -19,10 +19,10 @@ http://192.166.144.101:8008/play/a019/index.m3u8
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 
 #EXTINF:-1 tvg-id="365-dnej" group-title="", 365 дней ТВ
-http://50.7.231.221:8081/108/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="9kanal-israel" group-title="", 9 канал Израиль
-http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="amedia-hit" group-title="Movies", A HOME OF HBO 1
 https://sc.id-tv.kz/amedia_hit_hd.m3u8
@@ -37,7 +37,7 @@ http://ott-cdn.ucom.am/s45/index.m3u8
 https://sc.id-tv.kz/A2.m3u8
 
 #EXTINF:-1 tvg-id="ani" group-title="Kids", Ani
-http://50.7.231.221:8081/190/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="animal-planet" group-title="", Animal Planet
 http://tv.streams.baikal-telecom.net/Animal_Planet/tracks-v1a1/index.m3u8
@@ -70,7 +70,7 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 https://sc.id-tv.kz/bollywood_hd.m3u8
 
 #EXTINF:-1 tvg-id="bolt" group-title="", Bolt
-http://50.7.231.221:8081/215/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="bridge-tv" group-title="Music", Bridge TV
 https://livetv.mylifeisgood.ml/channels/bridgetv24h
@@ -100,7 +100,7 @@ http://tv.streams.baikal-telecom.net/Cartoon_Network/mpegts
 https://sc.id-tv.kz/Cinema.m3u8
 
 #EXTINF:-1 tvg-id="cnn" group-title="News", CNN
-http://50.7.231.221:8081/211/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="da-vinci" group-title="Kids", Da Vinci
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
@@ -118,7 +118,7 @@ https://livetv.mylifeisgood.ml/channels/discoveryscience
 http://tv.streams.baikal-telecom.net/Disney/mpegts
 
 #EXTINF:-1 tvg-id="dtx" group-title="", DTX
-http://50.7.231.221:8081/228/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="euronews" group-title="News", EuroNews
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
@@ -136,7 +136,7 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 http://ott-cdn.ucom.am/s79/index.m3u8
 
 #EXTINF:-1 tvg-id="filmbox-ru" group-title="", FilmBox Russia
-http://50.7.231.221:8081/214/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="flux-hd" group-title="Movies", FLUX HD
 
@@ -151,13 +151,13 @@ http://tv.streams.baikal-telecom.net/FOX/mpegts
 
 
 #EXTINF:-1 tvg-id="galaxy-tv" group-title="", Galaxy TV
-http://50.7.231.221:8081/205/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="gulli-girl" group-title="Kids", Gulli Girl
-http://50.7.231.221:8081/180/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="h2" group-title="", H2
-http://50.7.231.221:8081/224/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="hbo-hd" group-title="Movies", HBO
 
@@ -172,7 +172,7 @@ http://50.7.231.221:8081/224/index.m3u8?wmsAuthSign=okad
 https://sc.id-tv.kz/hdl.m3u8
 
 #EXTINF:-1 tvg-id="history-ru" group-title="", History
-http://50.7.231.221:8081/114/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="id-xtra-ru" group-title="", Investigation Discovery
 https://livetv.mylifeisgood.ml/channels/discoveryxtra
@@ -190,19 +190,19 @@ http://tv.streams.baikal-telecom.net/KHL_HD/tracks-v1a1/index.m3u8
 https://v2.catcast.tv/content/38144/index.m3u8
 
 #EXTINF:-1 tvg-id="vh1-european" group-title="Music", MTV 00s
-http://50.7.231.221:8081/175/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="vh1-classic" group-title="Music", MTV 80s
-http://50.7.231.221:8081/174/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="mtv-rocks" group-title="Music", MTV 90s
-http://50.7.231.221:8081/207/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="mtv-hits" group-title="Music", MTV Hits
-http://50.7.231.221:8081/204/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="mtv-russia" group-title="Music", MTV Russia
-http://50.7.231.221:8081/177/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Music Plus
 http://79.172.214.45:10190/stream.m3u8
@@ -211,7 +211,7 @@ http://79.172.214.45:10190/stream.m3u8
 http://192.166.144.101:8008/play/a004/index.m3u8
 
 #EXTINF:-1 tvg-id="russian-musicbox" group-title="Music", MusicBox Russia
-http://50.7.231.221:8081/168/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="", Nat Geo Wild
 https://sc.id-tv.kz:443/NatGeoWildHD_34_35.m3u8
@@ -220,7 +220,7 @@ https://sc.id-tv.kz:443/NatGeoWildHD_34_35.m3u8
 
 
 #EXTINF:-1 tvg-id="nick-jr" group-title="Kids", Nick Jr
-http://50.7.231.221:8081/210/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="nickelodeon-ru" group-title="Kids", Nickelodeon
 http://tv.streams.baikal-telecom.net/Nickelodeon/mpegts
@@ -238,7 +238,7 @@ http://192.166.144.101:8008/play/a01r/index.m3u8
 
 
 #EXTINF:-1 tvg-id="paramount-channel" group-title="", Paramount Channel
-http://50.7.231.221:8081/182/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="paramount-comedy" group-title="", Paramount Comedy
 http://109.200.130.124:15500/paramountcomedy
@@ -310,19 +310,19 @@ https://stirr.ott-channels.stingray.com/128/master.m3u8
 https://stirr.ott-channels.stingray.com/134/master.m3u8
 
 #EXTINF:-1 tvg-id="tiji" group-title="Kids", TiJi
-http://50.7.231.221:8081/202/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="tlc" group-title="", TLC
 http://tv.streams.baikal-telecom.net/TLC/mpegts
 
 #EXTINF:-1 tvg-id="travel-channel" group-title="Travel & Tourism", Travel Channel
-http://50.7.231.221:8081/113/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="travel-adventure" group-title="Travel & Tourism", Travel+Adventure
-http://50.7.231.221:8081/112/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="tvxxi" group-title="", TV XXI
-http://50.7.231.221:8081/133/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="tv1000" group-title="Movies", TV1000
 http://tv.streams.baikal-telecom.net/TV1000/mpegts
@@ -334,13 +334,13 @@ http://tv.streams.baikal-telecom.net/TV1000_Action/mpegts
 http://152.70.49.253:8080/channel/n6671f844/index.m3u8?q=104c0d2277462a117ba608bec5675ed1
 
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Movies", TV1000 Русское кино
-http://50.7.231.221:8081/139/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="tvmchannel" group-title="", TVMChannel
 http://192.166.144.101:8008/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-id="ufc" group-title="Sport", UFC ТВ
-http://50.7.231.221:8081/232/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="viasat-explore" group-title="", Viasat Explore
 http://tv.streams.baikal-telecom.net/Viasat_Explorer/mpegts
@@ -355,13 +355,13 @@ http://tv.streams.baikal-telecom.net/Viasat_Nature/mpegts
 https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vip-comedy" group-title="Movies", VIP Comedy
-http://50.7.231.221:8081/142/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="vip-megahit" group-title="Movies", VIP Megahit
-http://50.7.231.221:8081/141/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="vip-premiere" group-title="Movies", VIP Premiere
-http://50.7.231.221:8081/140/index.m3u8?wmsAuthSign=okadk
+
 
 #EXTINF:-1 tvg-id="vip-serial" group-title="Movies", VIP Serial
 
@@ -370,7 +370,7 @@ http://50.7.231.221:8081/140/index.m3u8?wmsAuthSign=okadk
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 
 #EXTINF:-1 tvg-id="avto24" group-title="", Авто 24
-http://50.7.231.221:8081/146/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="arsenaltv" group-title="", Арсенал
 https://stream.sputnik24.tv/arsenal/index.m3u8
@@ -379,10 +379,10 @@ https://stream.sputnik24.tv/arsenal/index.m3u8
 http://tv.streams.baikal-telecom.net/Bober/mpegts
 
 #EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" group-title="", В мире животных HD
-http://50.7.231.221:8081/221/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="detsky" group-title="Kids", Детский
-http://50.7.231.221:8081/156/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="detsky-mir" group-title="Kids", Детский мир
 http://ott-cdn.ucom.am/s58/index.m3u8
@@ -403,28 +403,28 @@ https://2serv.mylifeisgood.ml/channels/dialogiorybalke
 
 
 #EXTINF:-1 tvg-id="doktor" group-title="", Доктор
-http://50.7.231.221:8081/120/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Доку
 https://edge-01.kino.watch/docu/index.m3u8
 
 #EXTINF:-1 tvg-id="domkino" group-title="Movies", Дом кино
-http://50.7.231.221:8081/186/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="domkino-premium" group-title="", Дом кино Премиум HD
-http://50.7.231.221:8081/187/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="domashny" group-title="", Домашний
 http://185.252.249.83:8000/play/a017
 
 #EXTINF:-1 tvg-id="dushevnoe" group-title="", Душевное
-http://50.7.231.221:8081/172/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="evrokino" group-title="Movies", Еврокино
-http://50.7.231.221:8081/126/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="eda-hd" group-title="", Еда Премиум
-http://50.7.231.221:8081/198/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="enisey-region" group-title="Regional", Енисей регион
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
@@ -433,10 +433,10 @@ http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
 
 #EXTINF:-1 tvg-id="zhara" group-title="Music", Жара
-http://50.7.231.221:8081/144/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="zagorodnaya-zhizn" group-title="", Загородная жизнь
-http://50.7.231.221:8081/195/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="zvezda" group-title="Movies", Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
@@ -448,10 +448,10 @@ http://ott-cdn.ucom.am/s92/index.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 
 #EXTINF:-1 tvg-id="illuzion-plus" group-title="", Иллюзион +
-http://50.7.231.221:8081/130/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="indiyskoe-kino" group-title="Movies", Индийское кино
-http://50.7.231.221:8081/128/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="istoria" group-title="", История
 http://ott-cdn.ucom.am/s40/index.m3u8
@@ -465,13 +465,13 @@ http://ott-cdn.ucom.am/s40/index.m3u8
 http://cdn-01.bonus-tv.ru:8080/Kaleidoskop_edge/index.m3u8
 
 #EXTINF:-1 tvg-id="ginger-hd" group-title="Kids", Капитан Фантастика
-http://50.7.231.221:8081/222/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="karapuz-tv" group-title="Kids", Карапуз ТВ
 http://online.karapuztv.ru/content/33418/index.m3u8?token=karapuztv2018
 
 #EXTINF:-1 tvg-id="karusel" group-title="Kids", Карусель
-http://50.7.231.221:8081/157/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="kino1int-tviksel" group-title="Movies", Кино 1 International
 https://autopilot.catcast.tv/content/38617/index.m3u8
@@ -480,16 +480,16 @@ https://autopilot.catcast.tv/content/38617/index.m3u8
 http://1hdru-hls-otcnet.cdnvideo.ru/kinosem/index.m3u8
 
 #EXTINF:-1 tvg-id="kinokomedia" group-title="Movies", Кинокомедия
-http://50.7.231.221:8081/129/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="kinomiks" group-title="Movies", Киномикс
 https://sc.id-tv.kz/Kinomix_hd.m3u8
 
 #EXTINF:-1 tvg-id="kinopokaz-hd" group-title="Movies", Кинопоказ
-http://50.7.231.221:8081/161/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="kinopremiera-hd" group-title="Movies", Кинопремьера
-http://50.7.231.221:8081/203/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="kinosvidanie" group-title="Movies", Киносвидание
 https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
@@ -501,16 +501,16 @@ https://sc.id-tv.kz/Kinosemiya_hd.m3u8
 https://sc.id-tv.kz/Kinoseriya_hd.m3u8
 
 #EXTINF:-1 tvg-id="kinosat" group-title="", Киносат
-http://50.7.231.221:8081/124/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="kinouzhas" group-title="Movies", Киноужас
-http://50.7.231.221:8081/227/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="kinoxit" group-title="Movies", Кинохит
-http://50.7.231.221:8081/200/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="komedijnoe" group-title="", Комедийное
-http://50.7.231.221:8081/170/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="russkaya-komedia" group-title="", Комедия
 
@@ -522,10 +522,10 @@ http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8
 https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
 
 #EXTINF:-1 tvg-id="nashe-lubimoe" group-title="", Любимое
-http://50.7.231.221:8081/236/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="la-minor" group-title="Music", Ля-минор
-http://50.7.231.221:8081/199/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="m1-ua" group-title="Music", М1
 http://live.m2.tv/hls2/720/stream.m3u8
@@ -534,7 +534,7 @@ http://live.m2.tv/hls2/720/stream.m3u8
 http://live.m2.tv/hls3/720/stream.m3u8
 
 #EXTINF:-1 tvg-id="mama" group-title="", Мама
-http://50.7.231.221:8081/194/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="match-boets" group-title="Sport", Матч! Боец
 
@@ -564,40 +564,40 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mir-basketbola" group-title="Sport", Мир баскетбола
-http://50.7.231.221:8081/234/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="mir-seriala" group-title="", Мир сериала
 http://109.200.130.124:7007/play/a01a
 
 #EXTINF:-1 tvg-id="mosfilm" group-title="", Мосфильм. Золотая коллекция
-http://50.7.231.221:8081/235/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="motorsportv-tv" group-title="Sport", Моторспорт ТВ
-http://50.7.231.221:8081/230/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="moya-planeta" group-title="", Моя Планета
 http://tv.streams.baikal-telecom.net/Nauka20/mpegts
 
 #EXTINF:-1 tvg-id="muzhskoy" group-title="", Мужской
-http://50.7.231.221:8081/188/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="muzhskoe-kino" group-title="Movies", Мужское кино
 
 
 #EXTINF:-1 tvg-id="muztv" group-title="Music", Муз-ТВ
-http://50.7.231.221:8081/163/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="muzyka-pervogo" group-title="Music", Музыка Первого
-http://50.7.231.221:8081/225/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="mult" group-title="Kids", Мульт
-http://50.7.231.221:8081/178/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="multimania" group-title="Kids", Мультиландия
-http://50.7.231.221:8081/223/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="nst" group-title="", НСТ
-http://50.7.231.221:8081/127/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="ntv" group-title="", НТВ
 http://46.174.83.66/NTV/mpegts
@@ -627,10 +627,10 @@ http://192.166.144.101:8008/play/a003/index.m3u8
 http://ott-cdn.ucom.am/s98/index.m3u8
 
 #EXTINF:-1 tvg-id="nashehd" group-title="", Наше HD
-http://50.7.231.221:8081/171/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="", Наше новое кино
-http://50.7.231.221:8081/197/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Новое радио
 https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
@@ -642,10 +642,10 @@ http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 https://sc.id-tv.kz/o_34_35.m3u8
 
 #EXTINF:-1 tvg-id="o-tv" group-title="Music", O-ТВ
-http://50.7.231.221:8081/166/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="oruzhie" group-title="", Оружие
-http://50.7.231.221:8081/117/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="otkryty-mir" group-title="", Открытый мир
 http://192.166.144.101:8008/play/a01t/index.m3u8
@@ -657,7 +657,7 @@ http://31.40.148.98:8000/ohota_i_rybalka/index.m3u8
 http://ott-cdn.ucom.am/s62/index.m3u8
 
 #EXTINF:-1 tvg-id="pervy-vegetariansky" group-title="", Первый вегетарианский
-http://50.7.231.221:8081/143/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="onemuz" group-title="Music", Первый Музыкальный RU
 http://rtmp.one.by:2200
@@ -684,7 +684,7 @@ http://rtmp.one.by:1499
 http://85.92.120.101:8000/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-id="pobeda" group-title="", Победа
-http://50.7.231.221:8081/218/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="poexali" group-title="Travel & Tourism", Поехали!
 https://sc.id-tv.kz/poehali.m3u8
@@ -696,7 +696,7 @@ http://188.190.222.55/Kino_Premium_HD/index.m3u8
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=adventureshd
 
 #EXTINF:-1 tvg-id="pro-lyubov" group-title="", Про Любовь
-http://50.7.231.221:8081/237/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="prodvizhenie" group-title="", Продвижение
 http://192.166.144.101:8008/play/a00t/index.m3u8
@@ -723,7 +723,7 @@ https://sc.id-tv.kz/RenTV_36_37.m3u8
 http://tv.streams.baikal-telecom.net/RetroTV/mpegts
 
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="Movies", Родное кино
-http://50.7.231.221:8081/179/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="rossia1" group-title="General", Россия
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1200000.m3u8
@@ -741,10 +741,10 @@ http://ott-cdn.ucom.am/s15/index.m3u8
 http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="russky-bestseller" group-title="", Русский бестселлер
-http://50.7.231.221:8081/135/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="russky-detektiv" group-title="", Русский детектив
-http://50.7.231.221:8081/136/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="russky-illuzion" group-title="", Русский иллюзион
 https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
@@ -765,10 +765,10 @@ http://185.252.249.83:8000/play/a016
 http://152.70.49.253:8080/channel/n3a9061bd/index.m3u8?q=104c0d2277462a117ba608bec5675ed1
 
 #EXTINF:-1 tvg-id="sts-love" group-title="", СТС Love
-http://50.7.231.221:8081/123/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="sarafan" group-title="", Сарафан
-http://50.7.231.221:8081/209/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Свежаки
 https://edge-01.kino.watch/fresh/index.m3u8
@@ -783,7 +783,7 @@ http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="strashnoe-hd" group-title="", Страшное HD
-http://50.7.231.221:8081/216/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="super" group-title="", Суббота!
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584/2/1/playlist.m3u8
@@ -810,7 +810,7 @@ https://bl.uma.media/live/317849/HLS/4614144_3,2883584/2/1/playlist.m3u8
 http://stream-norst.cf:8080/tvoetv/index.m3u8
 
 #EXTINF:-1 tvg-id="texno-24" group-title="", Техно 24
-http://50.7.231.221:8081/116/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="" group-title="", Точка ТВ
 http://192.166.144.101:8008/play/a018/index.m3u8
@@ -831,7 +831,7 @@ https://v2.catcast.tv/content/38801/index.m3u8
 
 
 #EXTINF:-1 tvg-id="khit-hd" group-title="Movies", Хит HD
-http://50.7.231.221:8081/219/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="che" group-title="Entertainment", Че
 http://tv.streams.baikal-telecom.net/CHE/tracks-v1a1/index.m3u8
@@ -840,10 +840,10 @@ http://tv.streams.baikal-telecom.net/CHE/tracks-v1a1/index.m3u8
 http://ott-cdn.ucom.am/s43/04.m3u8
 
 #EXTINF:-1 tvg-id="shokiruyushchee-hd" group-title="Movies", Шокирующее HD
-http://50.7.231.221:8081/169/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="yu" group-title="Entertainment", Ю
-http://50.7.231.221:8081/107/index.m3u8?wmsAuthSign=okad
+
 
 #EXTINF:-1 tvg-id="yurgan" group-title="Regional", Юрган
 http://yurgan.bonus-tv.ru/cdn/yurgan/playlist.m3u8
