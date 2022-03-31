@@ -13,7 +13,7 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="360-news" group-title="News", 360° Новости
-http://192.166.144.101:8008/playlist.m3u8
+http://192.166.144.101:8008/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-id="360-podmoskovie" group-title="Regional", 360° Подмосковье
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
@@ -206,6 +206,9 @@ http://50.7.231.221:8081/177/index.m3u8?wmsAuthSign=okad
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Music Plus
 http://79.172.214.45:10190/stream.m3u8
+
+#EXTINF:-1 tvg-id="musicbox" group-title="Music", MusicBox Gold
+http://192.166.144.101:8008/play/a004/index.m3u8
 
 #EXTINF:-1 tvg-id="russian-musicbox" group-title="Music", MusicBox Russia
 http://50.7.231.221:8081/168/index.m3u8?wmsAuthSign=okad
@@ -635,6 +638,9 @@ http://50.7.231.221:8081/166/index.m3u8?wmsAuthSign=okad
 #EXTINF:-1 tvg-id="oruzhie" group-title="", Оружие
 http://50.7.231.221:8081/117/index.m3u8?wmsAuthSign=okad
 
+#EXTINF:-1 tvg-id="otkryty-mir" group-title="", Открытый мир
+http://192.166.144.101:8008/play/a01t/index.m3u8
+
 #EXTINF:-1 tvg-id="oxota-i-rybalka" group-title="", Охота и рыбалка
 http://31.40.148.98:8000/ohota_i_rybalka/index.m3u8
 
@@ -682,6 +688,9 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=adventureshd
 
 #EXTINF:-1 tvg-id="pro-lyubov" group-title="", Про Любовь
 http://50.7.231.221:8081/237/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="prodvizhenie" group-title="", Продвижение
+http://192.166.144.101:8008/play/a00t/index.m3u8
 
 #EXTINF:-1 tvg-id="piatnica" group-title="", Пятница
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=friday
@@ -770,6 +779,9 @@ http://50.7.231.221:8081/216/index.m3u8?wmsAuthSign=okad
 #EXTINF:-1 tvg-id="super" group-title="", Суббота!
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584/2/1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="tayna" group-title="", Тайна
+http://192.166.144.101:8008/play/a01h/index.m3u8
+
 #EXTINF:-1 tvg-id="tv3-ru" group-title="", ТВ 3
 https://bl.uma.media/live/407373/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
@@ -790,6 +802,9 @@ http://stream-norst.cf:8080/tvoetv/index.m3u8
 
 #EXTINF:-1 tvg-id="texno-24" group-title="", Техно 24
 http://50.7.231.221:8081/116/index.m3u8?wmsAuthSign=okad
+
+#EXTINF:-1 tvg-id="" group-title="", Точка ТВ
+http://192.166.144.101:8008/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Ужас
 https://v2.catcast.tv/content/38896/index.m3u8
