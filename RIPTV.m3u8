@@ -423,7 +423,7 @@ https://edge-01.kino.watch/docu/index.m3u8
 http://185.252.249.83:8000/play/a017
 
 #EXTINF:-1 tvg-id="dushevnoe" group-title="", Душевное
-
+http://50.7.222.90:8081/nashe/index.m3u8?wmsAuthSign=425a38910c1b663cf604b9b8d421c073-1649128708-402i891i711i89
 
 #EXTINF:-1 tvg-id="evrokino" group-title="Movies", Еврокино
 
@@ -491,7 +491,7 @@ http://1hdru-hls-otcnet.cdnvideo.ru/kinosem/index.m3u8
 https://sc.id-tv.kz/Kinomix_hd.m3u8
 
 #EXTINF:-1 tvg-id="kinopokaz-hd" group-title="Movies", Кинопоказ
-
+http://50.7.222.90:8081/kinopokaz/index.m3u8?wmsAuthSign=d027dcb5ae5f2f86d806569b00810199-1649129238-402i891i711i89
 
 #EXTINF:-1 tvg-id="kinopremiera-hd" group-title="Movies", Кинопремьера
 
@@ -729,6 +729,8 @@ http://tv.streams.baikal-telecom.net/RetroTV/mpegts
 
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="Movies", Родное кино
 
+#EXTINF:-1 tvg-id="romantichnoe-hd" group-title="", Романтичное HD
+http://50.7.222.90:8081/rom_hd/index.m3u8?wmsAuthSign=4a9fac6a513c9560aa3c77d305818f8f-1649128908-402i891i711i89
 
 #EXTINF:-1 tvg-id="rossia1" group-title="General", Россия
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1200000.m3u8
