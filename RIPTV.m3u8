@@ -97,7 +97,7 @@ https://livetv.mylifeisgood.ml/channels/bridgetvshlyager
 http://tv.streams.baikal-telecom.net/Cartoon_Network/mpegts
 
 #EXTINF:-1 tvg-id="cinema-ru" group-title="Movies", Cinema
-https://sc.id-tv.kz/Cinema.m3u8
+http://50.7.222.90:8081/cinema/index.m3u8?wmsAuthSign=585e4d7a2d6cbf26d2aba24bd76fcebd-1649124838-402i891i711i89
 
 #EXTINF:-1 tvg-id="cnn" group-title="News", CNN
 
@@ -358,7 +358,7 @@ http://tv.streams.baikal-telecom.net/Viasat_Nature/mpegts
 https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vip-comedy" group-title="Movies", VIP Comedy
-
+http://50.7.222.90:8081/1000comedy/index.m3u8?wmsAuthSign=73141005a71da319c02a2067ee42d926-1649126114-402i891i711i89
 
 #EXTINF:-1 tvg-id="vip-megahit" group-title="Movies", VIP Megahit
 
