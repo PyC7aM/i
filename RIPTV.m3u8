@@ -576,7 +576,7 @@ http://109.200.130.124:7007/play/a01a
 
 
 #EXTINF:-1 tvg-id="moya-planeta" group-title="", Моя Планета
-http://tv.streams.baikal-telecom.net/Nauka20/mpegts
+http://tv.streams.baikal-telecom.net/Moya_Planeta/mpegts
 
 #EXTINF:-1 tvg-id="muzhskoy" group-title="", Мужской
 
