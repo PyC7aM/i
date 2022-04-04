@@ -148,7 +148,7 @@ http://tv.streams.baikal-telecom.net/FOX/mpegts
 
 
 #EXTINF:-1 tvg-id="foxlife" group-title="", Fox Life
-
+http://50.7.222.90:8081/fox_l/index.m3u8?wmsAuthSign=e73d117e24344c53dbeb43ebb3589686-1649132164-402i891i711i89
 
 #EXTINF:-1 tvg-id="galaxy-tv" group-title="", Galaxy TV
 
@@ -217,7 +217,7 @@ http://192.166.144.101:8008/play/a004/index.m3u8
 https://sc.id-tv.kz:443/NatGeoWildHD_34_35.m3u8
 
 #EXTINF:-1 tvg-id="national-geographic" group-title="", National Geographic
-
+http://50.7.222.90:8081/nat_geogra/index.m3u8?wmsAuthSign=74823fce7d36c8ecc34444f64ec06907-1649133041-402i891i711i89
 
 #EXTINF:-1 tvg-id="nick-jr" group-title="Kids", Nick Jr
 
@@ -256,10 +256,10 @@ http://tv.streams.baikal-telecom.net/RTG_HD/mpegts
 http://ott-cdn.ucom.am/s80/index.m3u8
 
 #EXTINF:-1 tvg-id="sony-enter" group-title="", Sony Entertainment
-
+http://50.7.222.90:8081/set/index.m3u8?wmsAuthSign=897c100e9f2e038084410aa0ed02ebbd-1649132900-402i891i711i89
 
 #EXTINF:-1 tvg-id="sony-scifi" group-title="", Sony Sci-Fi
-http://31.40.148.98:8000/sony_sci_fi/index.m3u8
+http://50.7.222.90:8081/sony_sci_fi/index.m3u8?wmsAuthSign=a65ecdd482549f08fbc07d4d4e53a937-1649132747-402i891i711i89
 
 #EXTINF:-1 tvg-id="sony-turbo" group-title="", Sony Turbo
 http://st1.astra-uk.ru:81/cc719f0f30037279d03bf2fd542a8088/playlist.m3u8
@@ -748,7 +748,7 @@ http://ott-cdn.ucom.am/s15/index.m3u8
 http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="russky-bestseller" group-title="", Русский бестселлер
-
+http://50.7.222.90:8081/rys_bes/index.m3u8?wmsAuthSign=d02108299972043cf12568508631489c-1649132367-402i891i711i89
 
 #EXTINF:-1 tvg-id="russky-detektiv" group-title="", Русский детектив
 http://50.7.222.90:8081/rys_dete/index.m3u8?wmsAuthSign=1ba34cc7c0bba4b11039f92e37eb8a98-1649129919-402i891i711i89
