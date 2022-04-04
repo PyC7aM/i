@@ -70,7 +70,7 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 https://sc.id-tv.kz/bollywood_hd.m3u8
 
 #EXTINF:-1 tvg-id="bolt" group-title="", Bolt
-
+http://50.7.222.90:8081/bolt/index.m3u8?wmsAuthSign=1c612574da5f23586f51d0a76a8914a6-1649128441-402i891i711i89
 
 #EXTINF:-1 tvg-id="bridge-tv" group-title="Music", Bridge TV
 https://livetv.mylifeisgood.ml/channels/bridgetv24h
@@ -337,7 +337,7 @@ http://tv.streams.baikal-telecom.net/TV1000_Action/mpegts
 http://152.70.49.253:8080/channel/n6671f844/index.m3u8?q=104c0d2277462a117ba608bec5675ed1
 
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Movies", TV1000 Русское кино
-
+http://50.7.222.90:8081/tv1000rus/index.m3u8?wmsAuthSign=b0c61ffcb8738c0553f616bf2ad4ac15-1649127080-402i891i711i89
 
 #EXTINF:-1 tvg-id="tvmchannel" group-title="", TVMChannel
 http://192.166.144.101:8008/play/a01i/index.m3u8
@@ -361,7 +361,7 @@ https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
 http://50.7.222.90:8081/1000comedy/index.m3u8?wmsAuthSign=73141005a71da319c02a2067ee42d926-1649126114-402i891i711i89
 
 #EXTINF:-1 tvg-id="vip-megahit" group-title="Movies", VIP Megahit
-
+http://50.7.222.90:8081/1000megahit/index.m3u8?wmsAuthSign=603aa1865a166f66719f48947b6b5036-1649128254-402i891i711i89
 
 #EXTINF:-1 tvg-id="vip-premiere" group-title="Movies", VIP Premiere
 
@@ -632,7 +632,7 @@ http://192.166.144.101:8008/play/a003/index.m3u8
 http://ott-cdn.ucom.am/s98/index.m3u8
 
 #EXTINF:-1 tvg-id="nashehd" group-title="", Наше HD
-
+http://50.7.222.90:8081/semeinoe/index.m3u8?wmsAuthSign=ece7b2630c5b53cc4b66c4ee854c2934-1649127396-402i891i711i89
 
 #EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="", Наше новое кино
 
@@ -755,7 +755,7 @@ http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
 
 #EXTINF:-1 tvg-id="russky-roman" group-title="", Русский роман
-http://109.171.45.109:81/udp/239.54.5.87:1224
+http://50.7.222.90:8081/rys_roman/index.m3u8?wmsAuthSign=bc24585750ef3383ff5b6ed60601a6f3-1649128066-402i891i711i89
 
 #EXTINF:-1 tvg-id="no_epg" group-title="", Рыболов
 http://ott-cdn.ucom.am/s55/index.m3u8
@@ -845,7 +845,7 @@ http://tv.streams.baikal-telecom.net/CHE/tracks-v1a1/index.m3u8
 http://ott-cdn.ucom.am/s43/04.m3u8
 
 #EXTINF:-1 tvg-id="shokiruyushchee-hd" group-title="Movies", Шокирующее HD
-
+http://50.7.222.90:8081/kinopokaz1/index.m3u8?wmsAuthSign=de04963e00f82a121640a49dbb85c1da-1649128378-402i891i711i89
 
 #EXTINF:-1 tvg-id="yu" group-title="Entertainment", Ю
 
