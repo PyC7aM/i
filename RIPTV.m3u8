@@ -40,7 +40,7 @@ https://sc.id-tv.kz/A2.m3u8
 
 
 #EXTINF:-1 tvg-id="animal-planet" group-title="", Animal Planet
-http://tv.streams.baikal-telecom.net/Animal_Planet/tracks-v1a1/index.m3u8
+http://50.7.222.90:8081/animal_planet/index.m3u8?wmsAuthSign=85c3c535093f3a7f2e0bca7a018ae970-1649133501-402i891i711i89
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", ATV Cineman
 http://ott-cdn.ucom.am/s66/04.m3u8
