@@ -315,7 +315,7 @@ https://stirr.ott-channels.stingray.com/134/master.m3u8
 #EXTINF:-1 tvg-id="tlc" group-title="", TLC
 http://tv.streams.baikal-telecom.net/TLC/mpegts
 
-#EXTINF:-1 tvg-id="trashtv" group-title="", Trash
+#EXTINF:-1 tvg-id="trashtv" group-title="Movies", Trash
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=trash
 
 #EXTINF:-1 tvg-id="travel-channel" group-title="Travel & Tourism", Travel Channel
