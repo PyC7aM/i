@@ -118,7 +118,7 @@ https://livetv.mylifeisgood.ml/channels/discoveryscience
 http://tv.streams.baikal-telecom.net/Disney/mpegts
 
 #EXTINF:-1 tvg-id="dtx" group-title="", DTX
-
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoverydtx
 
 #EXTINF:-1 tvg-id="euronews" group-title="News", EuroNews
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
@@ -383,6 +383,8 @@ http://tv.streams.baikal-telecom.net/Bober/mpegts
 
 #EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" group-title="", В мире животных HD
 
+#EXTINF:-1 tvg-id="glazami-turista" group-title="", Глазами Туриста
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=glazamiturista
 
 #EXTINF:-1 tvg-id="detsky" group-title="Kids", Детский
 
@@ -546,7 +548,7 @@ http://live.m2.tv/hls3/720/stream.m3u8
 https://bl.uma.media/live/291661/HLS/4614144_3,2883584/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="match-premier" group-title="Sport", Матч! Премьер
-
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=matchpremiere_hd
 
 #EXTINF:-1 tvg-id="match-tv" group-title="Sport", Матч! ТВ
 https://bl.uma.media/live/133529/HLS/4614144_3,2883584/2/1/playlist.m3u8
