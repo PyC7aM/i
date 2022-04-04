@@ -22,7 +22,7 @@ https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m
 
 
 #EXTINF:-1 tvg-id="9kanal-israel" group-title="", 9 канал Израиль
-
+http://50.7.222.90:8081/9_izrail/index.m3u8?wmsAuthSign=61fab2a9a91634c8b954210c3972afb0-1649130221-402i891i711i89
 
 #EXTINF:-1 tvg-id="amedia-hit" group-title="Movies", A HOME OF HBO 1
 https://sc.id-tv.kz/amedia_hit_hd.m3u8
@@ -733,13 +733,13 @@ http://tv.streams.baikal-telecom.net/RetroTV/mpegts
 http://50.7.222.90:8081/rom_hd/index.m3u8?wmsAuthSign=4a9fac6a513c9560aa3c77d305818f8f-1649128908-402i891i711i89
 
 #EXTINF:-1 tvg-id="rossia1" group-title="General", Россия
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1200000.m3u8
+http://50.7.222.90:8081/ros_1/index.m3u8?wmsAuthSign=122034587e392f3ca722044fc816ae38-1649130320-402i891i711i89
 
 #EXTINF:-1 tvg-id="rossia-24" group-title="News", Россия 24
 https://gtrkchita.ru:8081/hls/r24-chita_576p.m3u8
 
 #EXTINF:-1 tvg-id="kultura" group-title="", Россия К
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_2.m3u8
+http://50.7.222.90:8081/ros_kyl/index.m3u8?wmsAuthSign=97f4fb167501310b32f76a06c998d6ed-1649131108-402i891i711i89
 
 #EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="", Россия РТР
 http://ott-cdn.ucom.am/s15/index.m3u8
@@ -751,7 +751,7 @@ http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="russky-detektiv" group-title="", Русский детектив
-
+http://50.7.222.90:8081/rys_dete/index.m3u8?wmsAuthSign=1ba34cc7c0bba4b11039f92e37eb8a98-1649129919-402i891i711i89
 
 #EXTINF:-1 tvg-id="russky-illuzion" group-title="", Русский иллюзион
 https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
