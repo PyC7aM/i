@@ -7,7 +7,7 @@ http://kuzbass1.ru:8082/10kanal/10kanal_720/playlist.m3u8
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-id="1hd" group-title="Music", 1HD Music Television
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=1hdmusic
 
 #EXTINF:-1 tvg-id="2na2" group-title="Entertainment", 2x2
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584/2/1/playlist.m3u8
@@ -314,6 +314,9 @@ https://stirr.ott-channels.stingray.com/134/master.m3u8
 
 #EXTINF:-1 tvg-id="tlc" group-title="", TLC
 http://tv.streams.baikal-telecom.net/TLC/mpegts
+
+#EXTINF:-1 tvg-id="trashtv" group-title="", Trash
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=trash
 
 #EXTINF:-1 tvg-id="travel-channel" group-title="Travel & Tourism", Travel Channel
 
