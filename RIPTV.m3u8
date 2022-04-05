@@ -55,7 +55,7 @@ http://ott-cdn.ucom.am/s94/04.m3u8
 https://autopilot.catcast.tv/content/40791/index.m3u8
 
 #EXTINF:-1 tvg-id="baby-tv" group-title="Kids", Baby TV
-
+http://87.246.54.125:4022/udp/239.2.1.41:4000
 
 #EXTINF:-1 tvg-id="backustv" group-title="Movies", BackusTV
 http://stream.backustv.ru/live/btv/index.m3u8
@@ -95,6 +95,9 @@ https://livetv.mylifeisgood.ml/channels/bridgetvshlyager
 
 #EXTINF:-1 tvg-id="cartoon-network" group-title="Kids", Cartoon Network
 http://tv.streams.baikal-telecom.net/Cartoon_Network/mpegts
+
+#EXTINF:-1 tvg-id="cbs-reality" group-title="", CBS Reality
+http://87.246.54.125:4022/udp/239.2.1.104:4000
 
 #EXTINF:-1 tvg-id="cinema-ru" group-title="Movies", Cinema
 http://50.7.222.90:8081/cinema/index.m3u8?wmsAuthSign=585e4d7a2d6cbf26d2aba24bd76fcebd-1649124838-402i891i711i89
@@ -201,6 +204,9 @@ https://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:-1 tvg-id="mtv-hits" group-title="Music", MTV Hits
 
 
+#EXTINF:-1 tvg-id="mtv-live-hd" group-title="Music", MTV Live
+http://87.246.54.125:4022/udp/239.2.1.151:4000
+
 #EXTINF:-1 tvg-id="mtv-russia" group-title="Music", MTV Russia
 
 
@@ -214,10 +220,10 @@ http://192.166.144.101:8008/play/a004/index.m3u8
 
 
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="", Nat Geo Wild
-https://sc.id-tv.kz:443/NatGeoWildHD_34_35.m3u8
+http://87.246.54.125:4022/udp/239.1.0.61:4000
 
 #EXTINF:-1 tvg-id="national-geographic" group-title="", National Geographic
-http://50.7.222.90:8081/nat_geogra/index.m3u8?wmsAuthSign=74823fce7d36c8ecc34444f64ec06907-1649133041-402i891i711i89
+http://87.246.54.125:4022/udp/239.1.0.68:4000
 
 #EXTINF:-1 tvg-id="nick-jr" group-title="Kids", Nick Jr
 
@@ -332,6 +338,9 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=trash
 
 #EXTINF:-1 tvg-id="tv1000" group-title="Movies", TV1000
 http://tv.streams.baikal-telecom.net/TV1000/mpegts
+
+#EXTINF:-1 tvg-id="tv1000-cee" group-title="Movies", TV1000 CEE
+http://87.246.54.125:4022/udp/239.2.1.33:4000
 
 #EXTINF:-1 tvg-id="tv1000-action" group-title="Movies", TV1000 Action
 http://tv.streams.baikal-telecom.net/TV1000_Action/mpegts
@@ -662,7 +671,7 @@ https://sc.id-tv.kz/o_34_35.m3u8
 http://192.166.144.101:8008/play/a01t/index.m3u8
 
 #EXTINF:-1 tvg-id="oxota-i-rybalka" group-title="", Охота и рыбалка
-http://31.40.148.98:8000/ohota_i_rybalka/index.m3u8
+http://87.246.54.125:4022/udp/239.2.1.85:4000
 
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" group-title="", Охотник и рыболов HD
 http://ott-cdn.ucom.am/s62/index.m3u8
@@ -739,7 +748,7 @@ http://tv.streams.baikal-telecom.net/RetroTV/mpegts
 http://50.7.222.90:8081/rom_hd/index.m3u8?wmsAuthSign=4a9fac6a513c9560aa3c77d305818f8f-1649128908-402i891i711i89
 
 #EXTINF:-1 tvg-id="rossia1" group-title="General", Россия
-http://50.7.222.90:8081/ros_1/index.m3u8?wmsAuthSign=122034587e392f3ca722044fc816ae38-1649130320-402i891i711i89
+http://195.3.252.117:8001/play/a00d
 
 #EXTINF:-1 tvg-id="rossia-24" group-title="News", Россия 24
 https://gtrkchita.ru:8081/hls/r24-chita_576p.m3u8
@@ -823,7 +832,7 @@ https://bl.uma.media/live/317849/HLS/4614144_3,2883584/2/1/playlist.m3u8
 http://stream-norst.cf:8080/tvoetv/index.m3u8
 
 #EXTINF:-1 tvg-id="texno-24" group-title="", Техно 24
-
+http://87.246.54.125:4022/udp/239.2.1.86:4000
 
 #EXTINF:-1 tvg-id="" group-title="", Точка ТВ
 http://192.166.144.101:8008/play/a018/index.m3u8
