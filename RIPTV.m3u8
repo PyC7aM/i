@@ -168,11 +168,26 @@ http://tv.streams.baikal-telecom.net/FOX/mpegts
 #EXTINF:-1 tvg-id="hbo-hd" group-title="Movies", HBO
 http://87.246.54.125:4022/udp/239.1.0.82:4000
 
+#EXTINF:-1 tvg-id="hbo-hd" group-title="Movies", HBO
+http://45.71.185.142:8500/play/a02v
+
 #EXTINF:-1 tvg-id="hbo2-hd" group-title="Movies", HBO 2
 http://87.246.54.125:4022/udp/239.1.5.43:4000
 
+#EXTINF:-1 tvg-id="hbo2-hd" group-title="Movies", HBO 2
+http://45.71.185.142:8500/play/a00z
+
 #EXTINF:-1 tvg-id="hbo3-hd" group-title="Movies", HBO 3
 http://87.246.54.125:4022/udp/239.1.0.83:4000
+
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", HBO Family
+http://45.71.185.142:8500/play/a012
+
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", HBO Plus
+http://45.71.185.142:8500/play/a010
+
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", HBO Xtreme
+http://45.71.185.142:8500/play/a011
 
 #EXTINF:-1 tvg-id="hd-life" group-title="", HD Life
 https://sc.id-tv.kz/hdl.m3u8
