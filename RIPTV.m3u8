@@ -22,7 +22,7 @@ https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m
 
 
 #EXTINF:-1 tvg-id="9kanal-israel" group-title="", 9 канал Израиль
-http://50.7.222.90:8081/9_izrail/index.m3u8?wmsAuthSign=61fab2a9a91634c8b954210c3972afb0-1649130221-402i891i711i89
+
 
 #EXTINF:-1 tvg-id="amedia-hit" group-title="Movies", A HOME OF HBO 1
 https://sc.id-tv.kz/amedia_hit_hd.m3u8
@@ -40,7 +40,7 @@ https://sc.id-tv.kz/A2.m3u8
 
 
 #EXTINF:-1 tvg-id="animal-planet" group-title="", Animal Planet
-http://50.7.222.90:8081/animal_planet/index.m3u8?wmsAuthSign=85c3c535093f3a7f2e0bca7a018ae970-1649133501-402i891i711i89
+
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", ATV Cineman
 http://ott-cdn.ucom.am/s66/04.m3u8
@@ -70,7 +70,7 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 https://sc.id-tv.kz/bollywood_hd.m3u8
 
 #EXTINF:-1 tvg-id="bolt" group-title="", Bolt
-http://50.7.222.90:8081/bolt/index.m3u8?wmsAuthSign=1c612574da5f23586f51d0a76a8914a6-1649128441-402i891i711i89
+
 
 #EXTINF:-1 tvg-id="bridge-tv" group-title="Music", Bridge TV
 https://livetv.mylifeisgood.ml/channels/bridgetv24h
@@ -88,7 +88,7 @@ https://livetv.mylifeisgood.ml/channels/bridgehitstv
 https://livetv.mylifeisgood.ml/channels/bridgerushittv
 
 #EXTINF:-1 tvg-id="bridge-tv-fresh" group-title="Music", Bridge TV Фрэш
-https://stream.sputnik24.tv/bridgef/index.m3u8
+
 
 #EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Music", Bridge TV Шлягер
 https://livetv.mylifeisgood.ml/channels/bridgetvshlyager
@@ -100,7 +100,7 @@ http://tv.streams.baikal-telecom.net/Cartoon_Network/mpegts
 http://87.246.54.125:4022/udp/239.2.1.104:4000
 
 #EXTINF:-1 tvg-id="cinema-ru" group-title="Movies", Cinema
-http://50.7.222.90:8081/cinema/index.m3u8?wmsAuthSign=585e4d7a2d6cbf26d2aba24bd76fcebd-1649124838-402i891i711i89
+
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="", Cinemax
 http://87.246.54.125:4022/udp/239.1.0.85:4000
@@ -127,10 +127,10 @@ http://tv.streams.baikal-telecom.net/Disney/mpegts
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoverydtx
 
 #EXTINF:-1 tvg-id="euronews" group-title="News", EuroNews
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
+
 
 #EXTINF:-1 tvg-id="eurosport1" group-title="Sport", Eurosport 1
-http://tv.streams.baikal-telecom.net/Eurosport1/mpegts
+https://kv-k21-mc02.ollcdn.net/trku-live/20/a5d0f259a48c6bef7e875a438724b9c6/61eb41f8/eurosport1/eurosport1.m3u8
 
 #EXTINF:-1 tvg-id="eurosport2" group-title="Sport", Eurosport 2
 https://livetv.mylifeisgood.ml/channels/eurosport2
@@ -154,7 +154,7 @@ http://tv.streams.baikal-telecom.net/FOX/mpegts
 
 
 #EXTINF:-1 tvg-id="foxlife" group-title="", Fox Life
-http://50.7.222.90:8081/fox_l/index.m3u8?wmsAuthSign=e73d117e24344c53dbeb43ebb3589686-1649132164-402i891i711i89
+
 
 #EXTINF:-1 tvg-id="galaxy-tv" group-title="", Galaxy TV
 
@@ -268,10 +268,10 @@ http://ott-cdn.ucom.am/s80/index.m3u8
 http://87.246.54.125:4022/udp/239.2.1.90:4000
 
 #EXTINF:-1 tvg-id="sony-enter" group-title="", Sony Entertainment
-http://50.7.222.90:8081/set/index.m3u8?wmsAuthSign=897c100e9f2e038084410aa0ed02ebbd-1649132900-402i891i711i89
+
 
 #EXTINF:-1 tvg-id="sony-scifi" group-title="", Sony Sci-Fi
-http://50.7.222.90:8081/sony_sci_fi/index.m3u8?wmsAuthSign=a65ecdd482549f08fbc07d4d4e53a937-1649132747-402i891i711i89
+
 
 #EXTINF:-1 tvg-id="sony-turbo" group-title="", Sony Turbo
 http://st1.astra-uk.ru:81/cc719f0f30037279d03bf2fd542a8088/playlist.m3u8
