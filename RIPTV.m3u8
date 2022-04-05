@@ -398,6 +398,7 @@ http://tv.streams.baikal-telecom.net/Bober/mpegts
 
 #EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" group-title="", В мире животных HD
 
+
 #EXTINF:-1 tvg-id="glazami-turista" group-title="", Глазами Туриста
 
 
@@ -435,10 +436,10 @@ https://edge-01.kino.watch/docu/index.m3u8
 
 
 #EXTINF:-1 tvg-id="domashny" group-title="", Домашний
-http://185.252.249.83:8000/play/a017
+
 
 #EXTINF:-1 tvg-id="dushevnoe" group-title="", Душевное
-http://50.7.222.90:8081/nashe/index.m3u8?wmsAuthSign=425a38910c1b663cf604b9b8d421c073-1649128708-402i891i711i89
+
 
 #EXTINF:-1 tvg-id="evrokino" group-title="Movies", Еврокино
 
@@ -478,6 +479,7 @@ http://ott-cdn.ucom.am/s40/index.m3u8
 
 #EXTINF:-1 tvg-id="kvn-tv" group-title="Entertainment", КВН ТВ
 
+
 #EXTINF:-1 tvg-id="no_epg" group-title="Religion", Каббала ТВ
 
 
@@ -497,7 +499,7 @@ http://online.karapuztv.ru/content/33418/index.m3u8?token=karapuztv2018
 https://autopilot.catcast.tv/content/38617/index.m3u8
 
 #EXTINF:-1 tvg-id="kino-tv-pl7" group-title="Movies", КиноТВ
-http://1hdru-hls-otcnet.cdnvideo.ru/kinosem/index.m3u8
+
 
 #EXTINF:-1 tvg-id="kinokomedia" group-title="Movies", Кинокомедия
 
@@ -506,7 +508,7 @@ http://1hdru-hls-otcnet.cdnvideo.ru/kinosem/index.m3u8
 https://sc.id-tv.kz/Kinomix_hd.m3u8
 
 #EXTINF:-1 tvg-id="kinopokaz-hd" group-title="Movies", Кинопоказ
-http://50.7.222.90:8081/kinopokaz/index.m3u8?wmsAuthSign=d027dcb5ae5f2f86d806569b00810199-1649129238-402i891i711i89
+
 
 #EXTINF:-1 tvg-id="kinopremiera-hd" group-title="Movies", Кинопремьера
 
@@ -650,13 +652,13 @@ http://192.166.144.101:8008/play/a003/index.m3u8
 http://ott-cdn.ucom.am/s98/index.m3u8
 
 #EXTINF:-1 tvg-id="nashehd" group-title="", Наше HD
-http://50.7.222.90:8081/semeinoe/index.m3u8?wmsAuthSign=ece7b2630c5b53cc4b66c4ee854c2934-1649127396-402i891i711i89
+
 
 #EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="", Наше новое кино
 
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Новое радио
-https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="novy-mir" group-title="", Новый мир
 http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
@@ -689,7 +691,7 @@ http://rtmp.one.by:2200
 http://rtmp.one.by:2300
 
 #EXTINF:-1 tvg-id="pervy" group-title="", Первый канал
-http://185.252.249.83:8000/play/a01n
+
 
 #EXTINF:-1 tvg-id="no_epg" group-title="", Первый космическмй
 https://livetv.mylifeisgood.ml/channels/firstspace
@@ -713,7 +715,7 @@ http://85.92.120.101:8000/play/a016/index.m3u8
 https://sc.id-tv.kz/poehali.m3u8
 
 #EXTINF:-1 tvg-id="premialnoe-hd" group-title="", Премиальное HD
-http://188.190.222.55/Kino_Premium_HD/index.m3u8
+
 
 #EXTINF:-1 tvg-id="prikluchenia-hd" group-title="Travel & Tourism", Приключения HD
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=adventureshd
@@ -737,7 +739,7 @@ http://46.174.83.66/5Kanal/mpegts
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 
 #EXTINF:-1 tvg-id="rentv" group-title="General", Рен ТВ
-http://185.252.249.83:8000/play/a014
+
 
 #EXTINF:-1 tvg-id="rentv-int" group-title="", Рен ТВ International
 https://sc.id-tv.kz/RenTV_36_37.m3u8
@@ -747,8 +749,9 @@ http://tv.streams.baikal-telecom.net/RetroTV/mpegts
 
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="Movies", Родное кино
 
+
 #EXTINF:-1 tvg-id="romantichnoe-hd" group-title="", Романтичное HD
-http://50.7.222.90:8081/rom_hd/index.m3u8?wmsAuthSign=4a9fac6a513c9560aa3c77d305818f8f-1649128908-402i891i711i89
+
 
 #EXTINF:-1 tvg-id="rossia1" group-title="General", Россия
 http://195.3.252.117:8001/play/a00d
@@ -757,7 +760,7 @@ http://195.3.252.117:8001/play/a00d
 https://gtrkchita.ru:8081/hls/r24-chita_576p.m3u8
 
 #EXTINF:-1 tvg-id="kultura" group-title="", Россия К
-http://50.7.222.90:8081/ros_kyl/index.m3u8?wmsAuthSign=97f4fb167501310b32f76a06c998d6ed-1649131108-402i891i711i89
+
 
 #EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="", Россия РТР
 http://ott-cdn.ucom.am/s15/index.m3u8
@@ -766,16 +769,16 @@ http://ott-cdn.ucom.am/s15/index.m3u8
 http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="russky-bestseller" group-title="", Русский бестселлер
-http://50.7.222.90:8081/rys_bes/index.m3u8?wmsAuthSign=d02108299972043cf12568508631489c-1649132367-402i891i711i89
+
 
 #EXTINF:-1 tvg-id="russky-detektiv" group-title="", Русский детектив
-http://50.7.222.90:8081/rys_dete/index.m3u8?wmsAuthSign=1ba34cc7c0bba4b11039f92e37eb8a98-1649129919-402i891i711i89
+
 
 #EXTINF:-1 tvg-id="russky-illuzion" group-title="", Русский иллюзион
 http://87.246.54.125:4022/udp/239.1.5.45:4000
 
 #EXTINF:-1 tvg-id="russky-roman" group-title="", Русский роман
-http://50.7.222.90:8081/rys_roman/index.m3u8?wmsAuthSign=bc24585750ef3383ff5b6ed60601a6f3-1649128066-402i891i711i89
+
 
 #EXTINF:-1 tvg-id="no_epg" group-title="", Рыболов
 http://ott-cdn.ucom.am/s55/index.m3u8
@@ -784,7 +787,7 @@ http://ott-cdn.ucom.am/s55/index.m3u8
 http://ott-cdn.ucom.am/s57/index.m3u8
 
 #EXTINF:-1 tvg-id="sts" group-title="", СТС
-http://185.252.249.83:8000/play/a016
+
 
 #EXTINF:-1 tvg-id="sts-kids-hd" group-title="Kids", СТС Kids HD
 
@@ -813,9 +816,6 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="super" group-title="", Суббота!
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584/2/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tayna" group-title="", Тайна
-http://192.166.144.101:8008/play/a01h/index.m3u8
-
 #EXTINF:-1 tvg-id="tv3-ru" group-title="", ТВ 3
 https://bl.uma.media/live/407373/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
@@ -830,6 +830,9 @@ http://83.222.205.65:8080/tntmusic/index.m3u8
 
 #EXTINF:-1 tvg-id="tnt4" group-title="Entertainment", ТНТ4
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584/2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tayna" group-title="", Тайна
+http://192.166.144.101:8008/play/a01h/index.m3u8
 
 #EXTINF:-1 tvg-id="tvoyo-tv-hd" group-title="", Твоё ТВ HD
 http://stream-norst.cf:8080/tvoetv/index.m3u8
