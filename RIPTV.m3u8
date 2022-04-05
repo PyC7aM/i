@@ -96,13 +96,13 @@ https://livetv.mylifeisgood.ml/channels/bridgetvshlyager
 #EXTINF:-1 tvg-id="cartoon-network" group-title="Kids", Cartoon Network
 http://tv.streams.baikal-telecom.net/Cartoon_Network/mpegts
 
-#EXTINF:-1 tvg-id="cbs-reality" group-title="", CBS Reality
+#EXTINF:-1 tvg-id="cbs-reality" group-title="Entertainment", CBS Reality
 http://87.246.54.125:4022/udp/239.2.1.104:4000
 
 #EXTINF:-1 tvg-id="cinema-ru" group-title="Movies", Cinema
 
 
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="", Cinemax
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Cinemax
 http://87.246.54.125:4022/udp/239.1.0.85:4000
 
 #EXTINF:-1 tvg-id="cnn" group-title="News", CNN
