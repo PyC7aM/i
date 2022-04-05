@@ -102,6 +102,9 @@ http://87.246.54.125:4022/udp/239.2.1.104:4000
 #EXTINF:-1 tvg-id="cinema-ru" group-title="Movies", Cinema
 http://50.7.222.90:8081/cinema/index.m3u8?wmsAuthSign=585e4d7a2d6cbf26d2aba24bd76fcebd-1649124838-402i891i711i89
 
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="", Cinemax
+http://87.246.54.125:4022/udp/239.1.0.85:4000
+
 #EXTINF:-1 tvg-id="cnn" group-title="News", CNN
 
 
