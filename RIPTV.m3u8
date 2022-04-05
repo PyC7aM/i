@@ -339,17 +339,17 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=trash
 #EXTINF:-1 tvg-id="tv1000" group-title="Movies", TV1000
 http://tv.streams.baikal-telecom.net/TV1000/mpegts
 
-#EXTINF:-1 tvg-id="tv1000-cee" group-title="Movies", TV1000 CEE
-http://87.246.54.125:4022/udp/239.2.1.33:4000
-
 #EXTINF:-1 tvg-id="tv1000-action" group-title="Movies", TV1000 Action
 http://tv.streams.baikal-telecom.net/TV1000_Action/mpegts
 
+#EXTINF:-1 tvg-id="tv1000-cee" group-title="Movies", TV1000 CEE
+http://87.246.54.125:4022/udp/239.2.1.33:4000
+
 #EXTINF:-1 tvg-id="tv1000-worldkino" group-title="Movies", TV1000 World Kino
-http://152.70.49.253:8080/channel/n6671f844/index.m3u8?q=104c0d2277462a117ba608bec5675ed1
+
 
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Movies", TV1000 Русское кино
-http://50.7.222.90:8081/tv1000rus/index.m3u8?wmsAuthSign=b0c61ffcb8738c0553f616bf2ad4ac15-1649127080-402i891i711i89
+
 
 #EXTINF:-1 tvg-id="tvmchannel" group-title="", TVMChannel
 http://192.166.144.101:8008/play/a01i/index.m3u8
@@ -370,10 +370,10 @@ http://tv.streams.baikal-telecom.net/Viasat_Nature/mpegts
 https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vip-comedy" group-title="Movies", VIP Comedy
-http://50.7.222.90:8081/1000comedy/index.m3u8?wmsAuthSign=73141005a71da319c02a2067ee42d926-1649126114-402i891i711i89
+
 
 #EXTINF:-1 tvg-id="vip-megahit" group-title="Movies", VIP Megahit
-http://50.7.222.90:8081/1000megahit/index.m3u8?wmsAuthSign=603aa1865a166f66719f48947b6b5036-1649128254-402i891i711i89
+
 
 #EXTINF:-1 tvg-id="vip-premiere" group-title="Movies", VIP Premiere
 
@@ -784,7 +784,7 @@ http://ott-cdn.ucom.am/s57/index.m3u8
 http://185.252.249.83:8000/play/a016
 
 #EXTINF:-1 tvg-id="sts-kids-hd" group-title="Kids", СТС Kids HD
-http://152.70.49.253:8080/channel/n3a9061bd/index.m3u8?q=104c0d2277462a117ba608bec5675ed1
+
 
 #EXTINF:-1 tvg-id="sts-love" group-title="", СТС Love
 
@@ -862,7 +862,7 @@ http://tv.streams.baikal-telecom.net/CHE/tracks-v1a1/index.m3u8
 http://ott-cdn.ucom.am/s43/04.m3u8
 
 #EXTINF:-1 tvg-id="shokiruyushchee-hd" group-title="Movies", Шокирующее HD
-http://50.7.222.90:8081/kinopokaz1/index.m3u8?wmsAuthSign=de04963e00f82a121640a49dbb85c1da-1649128378-402i891i711i89
+
 
 #EXTINF:-1 tvg-id="yu" group-title="Entertainment", Ю
 
