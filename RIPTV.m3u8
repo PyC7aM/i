@@ -30,6 +30,9 @@ https://sc.id-tv.kz/amedia_hit_hd.m3u8
 #EXTINF:-1 tvg-id="amedia-premium" group-title="Movies", A HOME OF HBO 2
 http://ott-cdn.ucom.am/s64/index.m3u8
 
+#EXTINF:-1 tvg-id="amc" group-title="", AMC
+http://185.222.23.219:9000/play/4248
+
 #EXTINF:-1 tvg-id="amedia1" group-title="Movies", A1
 http://ott-cdn.ucom.am/s45/index.m3u8
 
@@ -40,7 +43,7 @@ https://sc.id-tv.kz/A2.m3u8
 
 
 #EXTINF:-1 tvg-id="animal-planet" group-title="", Animal Planet
-
+http://185.222.23.219:9000/play/174
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", ATV Cineman
 http://ott-cdn.ucom.am/s66/04.m3u8
@@ -340,7 +343,7 @@ https://stirr.ott-channels.stingray.com/134/master.m3u8
 
 
 #EXTINF:-1 tvg-id="tlc" group-title="", TLC
-http://tv.streams.baikal-telecom.net/TLC/mpegts
+http://185.222.23.219:9000/play/301
 
 #EXTINF:-1 tvg-id="trashtv" group-title="Movies", Trash
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=trash
@@ -388,7 +391,7 @@ http://tv.streams.baikal-telecom.net/Viasat_Nature/mpegts
 https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vip-comedy" group-title="Movies", VIP Comedy
-
+http://185.222.23.219:9000/play/4000
 
 #EXTINF:-1 tvg-id="vip-megahit" group-title="Movies", VIP Megahit
 
