@@ -100,13 +100,13 @@ https://livetv.mylifeisgood.ml/channels/bridgetvshlyager
 http://tv.streams.baikal-telecom.net/Cartoon_Network/mpegts
 
 #EXTINF:-1 tvg-id="cbs-reality" group-title="Entertainment", CBS Reality
-http://87.246.54.125:4022/udp/239.2.1.104:4000
+
 
 #EXTINF:-1 tvg-id="cinema-ru" group-title="Movies", Cinema
 
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Cinemax
-http://87.246.54.125:4022/udp/239.1.0.85:4000
+http://79.113.40.234:9696/play/a01f
 
 #EXTINF:-1 tvg-id="cnn" group-title="News", CNN
 
@@ -169,19 +169,19 @@ http://tv.streams.baikal-telecom.net/FOX/mpegts
 
 
 #EXTINF:-1 tvg-id="hbo-hd" group-title="Movies", HBO
-http://87.246.54.125:4022/udp/239.1.0.82:4000
+
 
 #EXTINF:-1 tvg-id="hbo-hd" group-title="Movies", HBO
 http://45.71.185.142:8500/play/a02v
 
 #EXTINF:-1 tvg-id="hbo2-hd" group-title="Movies", HBO 2
-http://87.246.54.125:4022/udp/239.1.5.43:4000
+
 
 #EXTINF:-1 tvg-id="hbo2-hd" group-title="Movies", HBO 2
 http://45.71.185.142:8500/play/a00z
 
 #EXTINF:-1 tvg-id="hbo3-hd" group-title="Movies", HBO 3
-http://87.246.54.125:4022/udp/239.1.0.83:4000
+
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", HBO Family
 http://45.71.185.142:8500/play/a012
@@ -226,7 +226,7 @@ https://v2.catcast.tv/content/38144/index.m3u8
 
 
 #EXTINF:-1 tvg-id="mtv-live-hd" group-title="Music", MTV Live
-http://87.246.54.125:4022/udp/239.2.1.151:4000
+
 
 #EXTINF:-1 tvg-id="mtv-russia" group-title="Music", MTV Russia
 
@@ -241,10 +241,10 @@ http://192.166.144.101:8008/play/a004/index.m3u8
 
 
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="", Nat Geo Wild
-http://87.246.54.125:4022/udp/239.1.0.61:4000
+
 
 #EXTINF:-1 tvg-id="national-geographic" group-title="", National Geographic
-http://87.246.54.125:4022/udp/239.1.0.68:4000
+
 
 #EXTINF:-1 tvg-id="nick-jr" group-title="Kids", Nick Jr
 
@@ -283,7 +283,7 @@ http://tv.streams.baikal-telecom.net/RTG_HD/mpegts
 http://ott-cdn.ucom.am/s80/index.m3u8
 
 #EXTINF:-1 tvg-id="rtvi" group-title="", RTVi
-http://87.246.54.125:4022/udp/239.2.1.90:4000
+
 
 #EXTINF:-1 tvg-id="sony-enter" group-title="", Sony Entertainment
 
@@ -364,7 +364,7 @@ http://tv.streams.baikal-telecom.net/TV1000/mpegts
 http://tv.streams.baikal-telecom.net/TV1000_Action/mpegts
 
 #EXTINF:-1 tvg-id="tv1000-cee" group-title="Movies", TV1000 CEE
-http://87.246.54.125:4022/udp/239.2.1.33:4000
+
 
 #EXTINF:-1 tvg-id="tv1000-worldkino" group-title="Movies", TV1000 World Kino
 
@@ -589,13 +589,13 @@ https://bl.uma.media/live/291661/HLS/4614144_3,2883584/2/1/playlist.m3u8
 https://bl.uma.media/live/133529/HLS/4614144_3,2883584/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="match-football1" group-title="Sport", Матч! Футбол 1
-http://87.246.54.125:4022/udp/239.1.5.51:4000
+
 
 #EXTINF:-1 tvg-id="match-football2" group-title="Sport", Матч! Футбол 2
-http://87.246.54.125:4022/udp/239.1.5.52:4000
+
 
 #EXTINF:-1 tvg-id="match-football3" group-title="Sport", Матч! Футбол 3
-http://87.246.54.125:4022/udp/239.1.5.53:4000
+
 
 #EXTINF:-1 tvg-id="millet" group-title="", Миллет
 http://live.trkmillet.ru/millet/index.m3u8
@@ -694,7 +694,7 @@ https://sc.id-tv.kz/o_34_35.m3u8
 http://192.166.144.101:8008/play/a01t/index.m3u8
 
 #EXTINF:-1 tvg-id="oxota-i-rybalka" group-title="", Охота и рыбалка
-http://87.246.54.125:4022/udp/239.2.1.85:4000
+
 
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" group-title="", Охотник и рыболов HD
 http://ott-cdn.ucom.am/s62/index.m3u8
@@ -793,7 +793,7 @@ http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="russky-illuzion" group-title="", Русский иллюзион
-http://87.246.54.125:4022/udp/239.1.5.45:4000
+
 
 #EXTINF:-1 tvg-id="russky-roman" group-title="", Русский роман
 
@@ -856,7 +856,7 @@ http://192.166.144.101:8008/play/a01h/index.m3u8
 http://stream-norst.cf:8080/tvoetv/index.m3u8
 
 #EXTINF:-1 tvg-id="texno-24" group-title="", Техно 24
-http://87.246.54.125:4022/udp/239.2.1.86:4000
+
 
 #EXTINF:-1 tvg-id="" group-title="", Точка ТВ
 http://192.166.144.101:8008/play/a018/index.m3u8
