@@ -103,7 +103,7 @@ http://tv.streams.baikal-telecom.net/Cartoon_Network/mpegts
 
 
 #EXTINF:-1 tvg-id="cinema-ru" group-title="Movies", Cinema
-
+https://sc.id-tv.kz/Cinema.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Cinemax
 http://79.113.40.234:9696/play/a01f
