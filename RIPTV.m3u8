@@ -370,7 +370,7 @@ http://tv.streams.baikal-telecom.net/TV1000_Action/mpegts
 
 
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Movies", TV1000 Русское кино
-
+https://sc.id-tv.kz:443/TV1000RuKino.m3u8
 
 #EXTINF:-1 tvg-id="tvmchannel" group-title="", TVMChannel
 http://192.166.144.101:8008/play/a01i/index.m3u8
@@ -778,7 +778,7 @@ http://195.3.252.117:8001/play/a00d
 https://gtrkchita.ru:8081/hls/r24-chita_576p.m3u8
 
 #EXTINF:-1 tvg-id="kultura" group-title="", Россия К
-
+https://sc.id-tv.kz:443/RossiyaK.m3u8
 
 #EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="", Россия РТР
 http://ott-cdn.ucom.am/s15/index.m3u8
