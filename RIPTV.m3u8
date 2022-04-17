@@ -106,7 +106,7 @@ http://tv.streams.baikal-telecom.net/Cartoon_Network/mpegts
 https://sc.id-tv.kz/Cinema.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Cinemax
-http://79.113.40.234:9696/play/a01f
+
 
 #EXTINF:-1 tvg-id="cnn" group-title="News", CNN
 
@@ -169,19 +169,19 @@ http://tv.streams.baikal-telecom.net/FOX/mpegts
 
 
 #EXTINF:-1 tvg-id="hbo-hd" group-title="Movies", HBO
-http://79.113.40.234:9696/play/a00y
+
 
 #EXTINF:-1 tvg-id="hbo-hd" group-title="Movies", HBO
 http://45.71.185.142:8500/play/a02v
 
 #EXTINF:-1 tvg-id="hbo2-hd" group-title="Movies", HBO 2
-http://79.113.40.234:9696/play/a01c
+
 
 #EXTINF:-1 tvg-id="hbo2-hd" group-title="Movies", HBO 2
 http://45.71.185.142:8500/play/a00z
 
 #EXTINF:-1 tvg-id="hbo3-hd" group-title="Movies", HBO 3
-http://79.113.40.234:9696/play/a00t
+
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", HBO Family
 http://45.71.185.142:8500/play/a012
