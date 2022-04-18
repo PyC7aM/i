@@ -43,7 +43,7 @@ https://sc.id-tv.kz/A2.m3u8
 
 
 #EXTINF:-1 tvg-id="animal-planet" group-title="", Animal Planet
-
+http://194.58.42.152:8000/play/animalplanethd/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", ATV Cineman
 http://ott-cdn.ucom.am/s66/04.m3u8
@@ -130,7 +130,7 @@ http://tv.streams.baikal-telecom.net/Disney/mpegts
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoverydtx
 
 #EXTINF:-1 tvg-id="euronews" group-title="News", EuroNews
-
+http://194.58.42.152:8000/play/euronews/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1" group-title="Sport", Eurosport 1
 https://kv-k21-mc02.ollcdn.net/trku-live/20/a5d0f259a48c6bef7e875a438724b9c6/61eb41f8/eurosport1/eurosport1.m3u8
@@ -196,7 +196,7 @@ http://45.71.185.142:8500/play/a011
 https://sc.id-tv.kz/hdl.m3u8
 
 #EXTINF:-1 tvg-id="history-ru" group-title="", History
-
+http://194.58.42.152:8000/play/historyhd/index.m3u8
 
 #EXTINF:-1 tvg-id="id-xtra-ru" group-title="", Investigation Discovery
 https://livetv.mylifeisgood.ml/channels/discoveryxtra
@@ -378,6 +378,9 @@ http://192.166.144.101:8008/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="ufc" group-title="Sport", UFC ТВ
 
 
+#EXTINF:-1 tvg-id="ultra-hd-cinema" group-title="Movies", Ultra HD Cinema
+http://194.58.42.152:8000/play/ultrahdcinema/index.m3u8
+
 #EXTINF:-1 tvg-id="viasat-explore" group-title="", Viasat Explore
 http://tv.streams.baikal-telecom.net/Viasat_Explorer/mpegts
 
@@ -433,13 +436,16 @@ http://v2.catcast.me/content/38720/index.m3u8
 https://2serv.mylifeisgood.ml/channels/dialogiorybalke
 
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="", Дикая охота HD
-
+http://194.58.42.152:8000/play/dikayaohotahd/index.m3u8
 
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="", Дикая рыбалка HD
-
+http://194.58.42.152:8000/play/dikayaribalkahd/index.m3u8
 
 #EXTINF:-1 tvg-id="dikiy" group-title="", Дикий
 
+
+#EXTINF:-1 tvg-id="dozhd" group-title="", Дождь
+http://194.58.42.152:8000/play/dojhd/index.m3u8
 
 #EXTINF:-1 tvg-id="doktor" group-title="", Доктор
 
@@ -515,6 +521,9 @@ http://online.karapuztv.ru/content/33418/index.m3u8?token=karapuztv2018
 
 #EXTINF:-1 tvg-id="kino1int-tviksel" group-title="Movies", Кино 1 International
 https://autopilot.catcast.tv/content/38617/index.m3u8
+
+#EXTINF:-1 tvg-id="kino-ultra-hd" group-title="Movies", Кино UHD
+http://194.58.42.152:8000/play/kinouhd/index.m3u8
 
 #EXTINF:-1 tvg-id="kino-tv-pl7" group-title="Movies", КиноТВ
 
