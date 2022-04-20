@@ -19,7 +19,7 @@ http://192.166.144.101:8008/play/a019/index.m3u8
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 
 #EXTINF:-1 tvg-id="365-dnej" group-title="", 365 дней ТВ
-
+http://foreign-default.persik.by:82/live/Ch228/index.m3u8
 
 #EXTINF:-1 tvg-id="9kanal-israel" group-title="", 9 канал Израиль
 
@@ -364,19 +364,19 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=trash
 
 
 #EXTINF:-1 tvg-id="tv1000" group-title="Movies", TV1000
-http://37.29.5.138:45001/udp/239.255.1.19:2400
+http://cdnua06.hls.tv/476/hls/3m5p9lfdoycbhqtj74ku2iezrwn86gs1/311/stream.m3u8
 
 #EXTINF:-1 tvg-id="tv1000-action" group-title="Movies", TV1000 Action
-http://37.29.5.138:45001/udp/239.255.1.20:2400
+http://cdnua06.hls.tv/476/hls/xpgdtwukj3blyc7oz508vn2msi9ahf6q/308/stream.m3u8
 
 #EXTINF:-1 tvg-id="tv1000-cee" group-title="Movies", TV1000 CEE
 
 
 #EXTINF:-1 tvg-id="tv1000-worldkino" group-title="Movies", TV1000 World Kino
-
+http://cdnua06.hls.tv/476/hls/mwr8n6z0axeqbouj9l2fgkdvh5i4sp31/3684/stream.m3u8
 
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Movies", TV1000 Русское кино
-https://sc.id-tv.kz:443/TV1000RuKino.m3u8
+http://foreign-default.persik.by:82/live/Ch237/index.m3u8
 
 #EXTINF:-1 tvg-id="tvmchannel" group-title="", TVMChannel
 http://192.166.144.101:8008/play/a01i/index.m3u8
@@ -388,28 +388,28 @@ http://192.166.144.101:8008/play/a01i/index.m3u8
 http://194.58.42.152:8000/play/ultrahdcinema/index.m3u8
 
 #EXTINF:-1 tvg-id="viasat-explore" group-title="", Viasat Explore
-http://tv.streams.baikal-telecom.net/Viasat_Explorer/mpegts
+http://cdnua06.hls.tv/476/hls/q217m9tcwegfzyu5jph3s0davlx4rbk6/322/stream.m3u8
 
 #EXTINF:-1 tvg-id="viasat-history" group-title="", Viasat History
-http://tv.streams.baikal-telecom.net/Viasat_History/mpegts
+http://cdnua06.hls.tv/476/hls/p85r20j1xoais4bcf3mgyzdnhv9l6qwu/327/stream.m3u8
 
 #EXTINF:-1 tvg-id="viasat-nature" group-title="", Viasat Nature
-http://tv.streams.baikal-telecom.net/Viasat_Nature/mpegts
+http://cdnua06.hls.tv/476/hls/1nelpf6my7bz9qa5ji03rvgd8tcuxo2k/328/stream.m3u8
 
 #EXTINF:-1 tvg-id="viasat-sport" group-title="Sport", Viasat Sport
 https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vip-comedy" group-title="Movies", VIP Comedy
-http://37.29.5.138:45001/udp/239.255.1.122:2400
+http://cdnua06.hls.tv/476/hls/6xktvi9psazw7cr438j0u1nqbh2m5ged/309/stream.m3u8
 
 #EXTINF:-1 tvg-id="vip-megahit" group-title="Movies", VIP Megahit
-http://37.29.5.138:45001/udp/239.255.1.118:2400
+http://cdnua06.hls.tv/476/hls/ei5dxu67vb8wzcr4so3ql2f10mp9jakg/3981/stream.m3u8
 
 #EXTINF:-1 tvg-id="vip-premiere" group-title="Movies", VIP Premiere
-
+http://cdnua06.hls.tv/476/hls/vh3mwx4z7p1ekjqc2uil0osrtdg8by5n/3980/stream.m3u8
 
 #EXTINF:-1 tvg-id="vip-serial" group-title="Movies", VIP Serial
-
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="viva-rus" group-title="Music", VIVA Russia
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
@@ -655,7 +655,7 @@ http://tv.streams.baikal-telecom.net/Moya_Planeta/mpegts
 
 
 #EXTINF:-1 tvg-id="nst" group-title="", НСТ
-
+https://sc.id-tv.kz/NSTV.m3u8
 
 #EXTINF:-1 tvg-id="ntv" group-title="", НТВ
 http://46.174.83.66/NTV/mpegts
@@ -724,7 +724,7 @@ http://rtmp.one.by:2200
 http://rtmp.one.by:2300
 
 #EXTINF:-1 tvg-id="pervy" group-title="", Первый канал
-
+http://foreign-default.persik.by:82/live/Ch31/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" group-title="", Первый космическмй
 https://livetv.mylifeisgood.ml/channels/firstspace
@@ -739,7 +739,7 @@ http://rtmp.one.by:1300
 http://rtmp.one.by:1499
 
 #EXTINF:-1 tvg-id="perec-int" group-title="", Перец Int
-http://85.92.120.101:8000/play/a016/index.m3u8
+http://foreign-default.persik.by:82/live/Ch259/index.m3u8
 
 #EXTINF:-1 tvg-id="pobeda" group-title="", Победа
 
@@ -772,7 +772,7 @@ http://46.174.83.66/5Kanal/mpegts
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 
 #EXTINF:-1 tvg-id="rentv" group-title="General", Рен ТВ
-
+http://foreign-default.persik.by:82/live/Ch63/index.m3u8
 
 #EXTINF:-1 tvg-id="rentv-int" group-title="", Рен ТВ International
 https://sc.id-tv.kz/RenTV_36_37.m3u8
@@ -787,16 +787,16 @@ http://tv.streams.baikal-telecom.net/RetroTV/mpegts
 
 
 #EXTINF:-1 tvg-id="rossia1" group-title="General", Россия
-http://195.3.252.117:8001/play/a00d
+http://foreign-default.persik.by:82/live/Ch41/index.m3u8
 
 #EXTINF:-1 tvg-id="rossia-24" group-title="News", Россия 24
-https://gtrkchita.ru:8081/hls/r24-chita_576p.m3u8
+http://foreign-default.persik.by:82/live/Ch76/index.m3u8
 
 #EXTINF:-1 tvg-id="kultura" group-title="", Россия К
-https://sc.id-tv.kz:443/RossiyaK.m3u8
+http://foreign-default.persik.by:82/live/Ch21/index.m3u8
 
 #EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="", Россия РТР
-http://ott-cdn.ucom.am/s15/index.m3u8
+http://foreign-default.persik.by:82/live/Ch352/index.m3u8
 
 #EXTINF:-1 tvg-id="rostov-papa" group-title="Regional", Ростов-папа
 http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
@@ -895,7 +895,7 @@ https://v2.catcast.tv/content/38801/index.m3u8
 
 
 #EXTINF:-1 tvg-id="che" group-title="Entertainment", Че
-http://tv.streams.baikal-telecom.net/CHE/tracks-v1a1/index.m3u8
+http://146.158.0.56/Perec/mono.m3u8
 
 #EXTINF:-1 tvg-id="shanson-tv" group-title="Music", Шансон-TB
 http://ott-cdn.ucom.am/s43/04.m3u8
