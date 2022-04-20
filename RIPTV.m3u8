@@ -358,10 +358,10 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=trash
 
 
 #EXTINF:-1 tvg-id="tv1000" group-title="Movies", TV1000
-http://tv.streams.baikal-telecom.net/TV1000/mpegts
+http://37.29.5.138:45001/udp/239.255.1.19:2400
 
 #EXTINF:-1 tvg-id="tv1000-action" group-title="Movies", TV1000 Action
-http://tv.streams.baikal-telecom.net/TV1000_Action/mpegts
+http://37.29.5.138:45001/udp/239.255.1.20:2400
 
 #EXTINF:-1 tvg-id="tv1000-cee" group-title="Movies", TV1000 CEE
 
@@ -394,10 +394,10 @@ http://tv.streams.baikal-telecom.net/Viasat_Nature/mpegts
 https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vip-comedy" group-title="Movies", VIP Comedy
-
+http://37.29.5.138:45001/udp/239.255.1.122:2400
 
 #EXTINF:-1 tvg-id="vip-megahit" group-title="Movies", VIP Megahit
-
+http://37.29.5.138:45001/udp/239.255.1.118:2400
 
 #EXTINF:-1 tvg-id="vip-premiere" group-title="Movies", VIP Premiere
 
