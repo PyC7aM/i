@@ -13,10 +13,13 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=1hdmusic
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="360-news" group-title="News", 360° Новости
-http://192.166.144.101:8008/play/a019/index.m3u8
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
 
 #EXTINF:-1 tvg-id="360-podmoskovie" group-title="Regional", 360° Подмосковье
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
+
+#EXTINF:-1 tvg-id="360-tunebox" group-title="Music", 360 TuneBox
+http://cdnua06.hls.tv/476/hls/z1k0p9myotv8jq3suahei67x2c4w5rlf/166/stream.m3u8
 
 #EXTINF:-1 tvg-id="365-dnej" group-title="", 365 дней ТВ
 http://foreign-default.persik.by:82/live/Ch228/index.m3u8
