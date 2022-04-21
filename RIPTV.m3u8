@@ -18,7 +18,7 @@ https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
 #EXTINF:-1 tvg-id="360-podmoskovie" group-title="Regional", 360° Подмосковье
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 
-#EXTINF:-1 tvg-id="360-tunebox" group-title="Music", 360 TuneBox
+#EXTINF:-1 tvg-id="360-tunebox" group-title="Music", 360TuneBox
 http://cdnua06.hls.tv/476/hls/z1k0p9myotv8jq3suahei67x2c4w5rlf/166/stream.m3u8
 
 #EXTINF:-1 tvg-id="365-dnej" group-title="", 365 дней ТВ
