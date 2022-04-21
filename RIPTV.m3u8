@@ -141,7 +141,7 @@ https://livetv.mylifeisgood.ml/channels/eurosport2
 #EXTINF:-1 tvg-id="fashion-tv" group-title="Lifestyle", Fashion TV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="fastfunbox-hd" group-title="Sport", Fast&Fun Box
+#EXTINF:-1 tvg-id="fastfunbox-hd" group-title="Sport", Fast&FunBox
 http://ott-cdn.ucom.am/s79/index.m3u8
 
 #EXTINF:-1 tvg-id="filmbox-arthouse" group-title="", FilmBox ArtHouse
