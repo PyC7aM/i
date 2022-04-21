@@ -403,12 +403,21 @@ http://cdnua06.hls.tv/476/hls/1nelpf6my7bz9qa5ji03rvgd8tcuxo2k/328/stream.m3u8
 https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vip-comedy" group-title="Movies", VIP Comedy
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vip-comedy-cee" group-title="Movies", ViP Comedy CEE
 http://cdnua06.hls.tv/476/hls/6xktvi9psazw7cr438j0u1nqbh2m5ged/309/stream.m3u8
 
 #EXTINF:-1 tvg-id="vip-megahit" group-title="Movies", VIP Megahit
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vip-megahit-cee" group-title="Movies", VIP Megahit CEE
 http://cdnua06.hls.tv/476/hls/ei5dxu67vb8wzcr4so3ql2f10mp9jakg/3981/stream.m3u8
 
 #EXTINF:-1 tvg-id="vip-premiere" group-title="Movies", VIP Premiere
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vip-premiere-cee" group-title="Movies", VIP Premiere CEE
 http://cdnua06.hls.tv/476/hls/vh3mwx4z7p1ekjqc2uil0osrtdg8by5n/3980/stream.m3u8
 
 #EXTINF:-1 tvg-id="vip-serial" group-title="Movies", VIP Serial
