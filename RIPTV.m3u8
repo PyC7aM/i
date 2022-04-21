@@ -6,7 +6,7 @@ http://kuzbass1.ru:8082/10kanal/10kanal_720/playlist.m3u8
 #EXTINF:-1 tvg-id="12-omsk" group-title="Regional", 12 канал Омск
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 
-#EXTINF:-1 tvg-id="1hd" group-title="Music", 1HD Music Television
+#EXTINF:-1 tvg-id="1hd" group-title="Music", 1HD
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=1hdmusic
 
 #EXTINF:-1 tvg-id="2na2" group-title="Entertainment", 2x2
@@ -40,7 +40,7 @@ http://ott-cdn.ucom.am/s45/index.m3u8
 https://sc.id-tv.kz/A2.m3u8
 
 #EXTINF:-1 tvg-id="ani" group-title="Kids", Ani
-
+https://bsttv.bonus-tv.ru/cdn/ani/playlist.m3u8
 
 #EXTINF:-1 tvg-id="animal-planet" group-title="", Animal Planet
 http://194.58.42.152:8000/play/animalplanethd/index.m3u8
@@ -55,7 +55,7 @@ http://ott-cdn.ucom.am/s48/04.m3u8
 http://ott-cdn.ucom.am/s94/04.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", AVD TV
-https://autopilot.catcast.tv/content/40791/index.m3u8
+
 
 #EXTINF:-1 tvg-id="baby-tv" group-title="Kids", Baby TV
 http://87.246.54.125:4022/udp/239.2.1.41:4000
@@ -66,10 +66,10 @@ http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-id="backustv-horror" group-title="Movies", BackusTV Страшное
 http://stream.backustv.ru/live/btv2/index.m3u8
 
-#EXTINF:-1 tvg-id="bbc" group-title="News", BBC World News
+#EXTINF:-1 tvg-id="bbc" group-title="News", BBC
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
-#EXTINF:-1 tvg-id="bollywood-hd" group-title="Movies", Bollywood HD
+#EXTINF:-1 tvg-id="bollywood-hd" group-title="Movies", Bollywood
 https://sc.id-tv.kz/bollywood_hd.m3u8
 
 #EXTINF:-1 tvg-id="bolt" group-title="", Bolt
@@ -81,23 +81,23 @@ https://livetv.mylifeisgood.ml/channels/bridgetv24h
 #EXTINF:-1 tvg-id="bridge-tv-classic" group-title="Music", Bridge TV Classic
 https://livetv.mylifeisgood.ml/channels/bridgeclassictv
 
+#EXTINF:-1 tvg-id="bridge-tv-dance" group-title="Music", Bridge TV Dance
+https://livetv.mylifeisgood.ml/channels/bridgehitstv
+
 #EXTINF:-1 tvg-id="bridge-hd" group-title="Music", Bridge TV Deluxe
 https://livetv.mylifeisgood.ml/channels/bridgedeluxetv
 
-#EXTINF:-1 tvg-id="bridge-tv-dance" group-title="Music", Bridge TV Hits
-https://livetv.mylifeisgood.ml/channels/bridgehitstv
+#EXTINF:-1 tvg-id="bridge-tv-fresh" group-title="Music", Bridge TV Fresh
+
 
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Music", Bridge TV Русский хит
 https://livetv.mylifeisgood.ml/channels/bridgerushittv
-
-#EXTINF:-1 tvg-id="bridge-tv-fresh" group-title="Music", Bridge TV Фрэш
-
 
 #EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Music", Bridge TV Шлягер
 https://livetv.mylifeisgood.ml/channels/bridgetvshlyager
 
 #EXTINF:-1 tvg-id="cartoon-network" group-title="Kids", Cartoon Network
-
+http://saveukraine.only4.tv/802/video.m3u8?token=saveUkrain
 
 #EXTINF:-1 tvg-id="cbs-reality" group-title="Entertainment", CBS Reality
 
@@ -111,7 +111,7 @@ https://sc.id-tv.kz/Cinema.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="News", CNN
 
 
-#EXTINF:-1 tvg-id="da-vinci" group-title="Kids", Da Vinci
+#EXTINF:-1 tvg-id="da-vinci" group-title="Kids", Da Vinci Learning
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
 
 #EXTINF:-1 tvg-id="deutsche-welle-eu" group-title="News", Deutsche Welle Europe
