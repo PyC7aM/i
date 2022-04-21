@@ -654,8 +654,7 @@ http://tv.streams.baikal-telecom.net/Moya_Planeta/mpegts
 #EXTINF:-1 tvg-id="multimania" group-title="Kids", Мультиландия
 
 
-#EXTINF:-1 tvg-id="nst" group-title="Movies
-", НСТ
+#EXTINF:-1 tvg-id="nst" group-title="Movies", НСТ
 https://sc.id-tv.kz/NSTV.m3u8
 
 #EXTINF:-1 tvg-id="ntv" group-title="", НТВ
