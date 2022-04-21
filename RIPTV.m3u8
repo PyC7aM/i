@@ -69,7 +69,7 @@ http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 tvg-id="bbc" group-title="News", BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
-#EXTINF:-1 tvg-id="bollywood-hd" group-title="", Bollywood HD
+#EXTINF:-1 tvg-id="bollywood-hd" group-title="Movies", Bollywood HD
 https://sc.id-tv.kz/bollywood_hd.m3u8
 
 #EXTINF:-1 tvg-id="bolt" group-title="", Bolt
@@ -258,9 +258,6 @@ https://livetv.mylifeisgood.ml/channels/nickelodeon-hd
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", NorMax
 https://autopilot.catcast.tv/content/40660/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="", О2ТВ
-http://192.166.144.101:8008/play/a01r/index.m3u8
-
 #EXTINF:-1 tvg-id="oceon-tv" group-title="", Ocean TV
 
 
@@ -297,7 +294,7 @@ http://194.58.42.152:8000/play/setantasports2hd/index.m3u8
 #EXTINF:-1 tvg-id="sony-scifi" group-title="", Sony Sci-Fi
 
 
-#EXTINF:-1 tvg-id="sony-turbo" group-title="", Sony Turbo
+#EXTINF:-1 tvg-id="sony-turbo" group-title="Movies", Sony Turbo
 http://st1.astra-uk.ru:81/cc719f0f30037279d03bf2fd542a8088/playlist.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Alternative HD
@@ -573,7 +570,7 @@ https://sc.id-tv.kz/Kinoseriya_hd.m3u8
 #EXTINF:-1 tvg-id="russkaya-komedia" group-title="", Комедия
 
 
-#EXTINF:-1 tvg-id="konny-mir" group-title="", Конный мир
+#EXTINF:-1 tvg-id="konny-mir" group-title="Sport", Конный мир
 http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="kuxnia-tv" group-title="", Кухня ТВ
@@ -627,10 +624,10 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-basketbola" group-title="Sport", Мир баскетбола
 
 
-#EXTINF:-1 tvg-id="mir-seriala" group-title="", Мир сериала
+#EXTINF:-1 tvg-id="mir-seriala" group-title="Movies", Мир сериала
 http://109.200.130.124:7007/play/a01a
 
-#EXTINF:-1 tvg-id="mosfilm" group-title="", Мосфильм. Золотая коллекция
+#EXTINF:-1 tvg-id="mosfilm" group-title="Movies", Мосфильм. Золотая коллекция
 http://foreign-default.persik.by:82/livehq/Ch342/index.m3u8
 
 #EXTINF:-1 tvg-id="motorsportv-tv" group-title="Sport", Моторспорт ТВ
@@ -657,7 +654,8 @@ http://tv.streams.baikal-telecom.net/Moya_Planeta/mpegts
 #EXTINF:-1 tvg-id="multimania" group-title="Kids", Мультиландия
 
 
-#EXTINF:-1 tvg-id="nst" group-title="", НСТ
+#EXTINF:-1 tvg-id="nst" group-title="Movies
+", НСТ
 https://sc.id-tv.kz/NSTV.m3u8
 
 #EXTINF:-1 tvg-id="ntv" group-title="", НТВ
@@ -702,6 +700,9 @@ http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 #EXTINF:-1 tvg-id="o_" group-title="Kids", О!
 https://sc.id-tv.kz/o_34_35.m3u8
 
+#EXTINF:-1 tvg-id="o2tv" group-title="Music", О2ТВ
+http://192.166.144.101:8008/play/a01r/index.m3u8
+
 #EXTINF:-1 tvg-id="o-tv" group-title="Music", O-ТВ
 
 
@@ -714,7 +715,7 @@ http://192.166.144.101:8008/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="oxota-i-rybalka" group-title="", Охота и рыбалка
 
 
-#EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" group-title="", Охотник и рыболов HD
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" group-title="Sport", Охотник и рыболов HD
 http://ott-cdn.ucom.am/s62/index.m3u8
 
 #EXTINF:-1 tvg-id="pervy-vegetariansky" group-title="", Первый вегетарианский
@@ -726,7 +727,7 @@ http://rtmp.one.by:2200
 #EXTINF:-1 tvg-id="onemuz" group-title="Music", Первый Музыкальный RU
 http://rtmp.one.by:2300
 
-#EXTINF:-1 tvg-id="pervy" group-title="", Первый канал
+#EXTINF:-1 tvg-id="pervy" group-title="General", Первый канал
 http://foreign-default.persik.by:82/live/Ch31/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" group-title="", Первый космическмй
@@ -741,7 +742,7 @@ http://rtmp.one.by:1300
 #EXTINF:-1 tvg-id="onemuz" group-title="Music", Первый музыкальный 4K
 http://rtmp.one.by:1499
 
-#EXTINF:-1 tvg-id="perec-int" group-title="", Перец Int
+#EXTINF:-1 tvg-id="perec-int" group-title="Entertainment", Перец Int
 http://foreign-default.persik.by:82/live/Ch259/index.m3u8
 
 #EXTINF:-1 tvg-id="pobeda" group-title="", Победа
@@ -759,16 +760,16 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=adventureshd
 #EXTINF:-1 tvg-id="pro-lyubov" group-title="", Про Любовь
 
 
-#EXTINF:-1 tvg-id="prodvizhenie" group-title="", Продвижение
+#EXTINF:-1 tvg-id="prodvizhenie" group-title="Entertainment", Продвижение
 http://192.166.144.101:8008/play/a00t/index.m3u8
 
-#EXTINF:-1 tvg-id="piatnica" group-title="", Пятница
+#EXTINF:-1 tvg-id="piatnica" group-title="Entertainment", Пятница
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=friday
 
-#EXTINF:-1 tvg-id="piatnica-int" group-title="", Пятница International
+#EXTINF:-1 tvg-id="piatnica-int" group-title="Entertainment", Пятница International
 http://ott-cdn.ucom.am/s50/index.m3u8
 
-#EXTINF:-1 tvg-id="5kanal-ru" group-title="General", Пятый канал
+#EXTINF:-1 tvg-id="5kanal-ru" group-title="Movies", Пятый канал
 http://46.174.83.66/5Kanal/index.m3u8
 
 #EXTINF:-1 tvg-id="radio-shanson" group-title="Music", Радио Шансон
@@ -777,11 +778,11 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 #EXTINF:-1 tvg-id="rentv" group-title="General", Рен ТВ
 http://foreign-default.persik.by:82/live/Ch63/index.m3u8
 
-#EXTINF:-1 tvg-id="rentv-int" group-title="", Рен ТВ International
+#EXTINF:-1 tvg-id="rentv-int" group-title="General", Рен ТВ International
 https://sc.id-tv.kz/RenTV_36_37.m3u8
 
 #EXTINF:-1 tvg-id="retro-tv" group-title="", Ретро ТВ
-http://tv.streams.baikal-telecom.net/RetroTV/mpegts
+
 
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="Movies", Родное кино
 
@@ -798,7 +799,7 @@ http://foreign-default.persik.by:82/live/Ch76/index.m3u8
 #EXTINF:-1 tvg-id="kultura" group-title="", Россия К
 http://foreign-default.persik.by:82/live/Ch21/index.m3u8
 
-#EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="", Россия РТР
+#EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="General", Россия РТР
 http://foreign-default.persik.by:82/live/Ch352/index.m3u8
 
 #EXTINF:-1 tvg-id="rostov-papa" group-title="Regional", Ростов-папа
@@ -816,7 +817,7 @@ http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="russky-roman" group-title="", Русский роман
 
 
-#EXTINF:-1 tvg-id="no_epg" group-title="", Рыболов
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="Sport", Рыболов
 http://ott-cdn.ucom.am/s55/index.m3u8
 
 #EXTINF:-1 tvg-id="ryzhy" group-title="Kids", Рыжий
@@ -849,10 +850,10 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="strashnoe-hd" group-title="", Страшное HD
 
 
-#EXTINF:-1 tvg-id="super" group-title="", Суббота!
+#EXTINF:-1 tvg-id="super" group-title="Entertainment", Суббота!
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584/2/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tv3-ru" group-title="", ТВ 3
+#EXTINF:-1 tvg-id="tv3-ru" group-title="Entertainment", ТВ 3
 https://bl.uma.media/live/407373/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tnt" group-title="Entertainment", ТНТ
@@ -876,7 +877,7 @@ http://stream-norst.cf:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="texno-24" group-title="", Техно 24
 
 
-#EXTINF:-1 tvg-id="" group-title="", Точка ТВ
+#EXTINF:-1 tvg-id="tochka-tv" group-title="", Точка
 http://192.166.144.101:8008/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Ужас
