@@ -151,13 +151,13 @@ http://ott-cdn.ucom.am/s79/index.m3u8
 
 
 #EXTINF:-1 tvg-id="fox" group-title="", Fox
-http://tv.streams.baikal-telecom.net/FOX/mpegts
+http://foreign-default.persik.by:82/live/Ch235/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" group-title="", Fox Comedy
 
 
 #EXTINF:-1 tvg-id="foxlife" group-title="", Fox Life
-
+http://foreign-default.persik.by:82/live/Ch340/index.m3u8
 
 #EXTINF:-1 tvg-id="galaxy-tv" group-title="", Galaxy TV
 
