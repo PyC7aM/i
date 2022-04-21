@@ -42,6 +42,9 @@ http://ott-cdn.ucom.am/s45/index.m3u8
 #EXTINF:-1 tvg-id="amedia2" group-title="Movies", A2
 https://sc.id-tv.kz/A2.m3u8
 
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="", Akudji
+https://hls.goodgame.ru/hls/5346.m3u8
+
 #EXTINF:-1 tvg-id="ani" group-title="Kids", Ani
 https://bsttv.bonus-tv.ru/cdn/ani/playlist.m3u8
 
