@@ -144,8 +144,11 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="fastfunbox-hd" group-title="Sport", Fast&Fun Box
 http://ott-cdn.ucom.am/s79/index.m3u8
 
-#EXTINF:-1 tvg-id="filmbox-ru" group-title="", FilmBox Russia
+#EXTINF:-1 tvg-id="filmbox-arthouse" group-title="", FilmBox ArtHouse
+http://cdnua06.hls.tv/476/hls/razp1jl5x0st7cedoni3bmyqv92w8fkh/231/stream.m3u8
 
+#EXTINF:-1 tvg-id="filmbox-ru" group-title="", FilmBox Russia
+http://cdnua06.hls.tv/476/hls/3slzw2dju4xfic98a0nbk17gmtqovhrp/400/stream.m3u8
 
 #EXTINF:-1 tvg-id="flux-hd" group-title="Movies", FLUX HD
 
