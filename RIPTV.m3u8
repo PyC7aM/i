@@ -367,7 +367,7 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=trash
 
 
 #EXTINF:-1 tvg-id="tvxxi" group-title="", TV XXI
-
+http://146.158.0.56:80/21tv/mono.m3u8
 
 #EXTINF:-1 tvg-id="tv1000" group-title="Movies", TV1000
 https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
@@ -788,6 +788,9 @@ http://ott-cdn.ucom.am/s50/index.m3u8
 
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="Movies", Пятый канал
 http://46.174.83.66/5Kanal/index.m3u8
+
+#EXTINF:-1 tvg-id="5kanal-ru-pl2" group-title="Movies", Пятый канал +2
+http://146.158.0.56/5Channel/mono.m3u8
 
 #EXTINF:-1 tvg-id="radio-shanson" group-title="Music", Радио Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
