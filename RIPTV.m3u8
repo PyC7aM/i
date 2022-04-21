@@ -277,10 +277,10 @@ http://109.200.130.124:15500/paramountcomedy
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rtg-hd" group-title="Travel & Tourism", RTG HD 
-http://tv.streams.baikal-telecom.net/RTG_HD/mpegts
+http://146.158.0.56/RTGHD/mono.m3u8
 
 #EXTINF:-1 tvg-id="rtg-tv" group-title="Travel & Tourism", RTG TV
-http://ott-cdn.ucom.am/s80/index.m3u8
+http://146.158.0.56/RTG/mono.m3u8
 
 #EXTINF:-1 tvg-id="rtvi" group-title="", RTVi
 
