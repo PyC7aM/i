@@ -438,13 +438,13 @@ http://ott-cdn.ucom.am/s58/index.m3u8
 #EXTINF:-1 tvg-id="detkinoint-tviksel" group-title="Kids", Детское кино International
 http://v2.catcast.me/content/38720/index.m3u8
 
-#EXTINF:-1 tvg-id="dialogi-o-rybalke" group-title="", Диалоги о рыбалке
+#EXTINF:-1 tvg-id="dialogi-o-rybalke" group-title="Sport", Диалоги о рыбалке
 https://2serv.mylifeisgood.ml/channels/dialogiorybalke
 
-#EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="", Дикая охота HD
+#EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="Sport", Дикая охота HD
 http://194.58.42.152:8000/play/dikayaohotahd/index.m3u8
 
-#EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="", Дикая рыбалка HD
+#EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="Sport", Дикая рыбалка HD
 http://194.58.42.152:8000/play/dikayaribalkahd/index.m3u8
 
 #EXTINF:-1 tvg-id="dikiy" group-title="", Дикий
