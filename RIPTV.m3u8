@@ -729,7 +729,7 @@ http://rtmp.one.by:2300
 #EXTINF:-1 tvg-id="pervy" group-title="General", Первый канал
 http://foreign-default.persik.by:82/live/Ch31/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" group-title="", Первый космическмй
+#EXTINF:-1 tvg-id="eureka-hd" group-title="", Первый Космический
 https://livetv.mylifeisgood.ml/channels/firstspace
 
 #EXTINF:-1 tvg-id="onemuz" group-title="Music", Первый музыкальный
