@@ -162,7 +162,7 @@ http://foreign-default.persik.by:82/live/Ch235/index.m3u8
 #EXTINF:-1 tvg-id="foxlife" group-title="", Fox Life
 
 
-#EXTINF:-1 tvg-id="foxlife-cis" group-title="", Fox Life СНГ
+#EXTINF:-1 tvg-id="foxlife-cis" group-title="", FoxLife Украина
 http://foreign-default.persik.by:82/live/Ch340/index.m3u8
 
 #EXTINF:-1 tvg-id="galaxy-tv" group-title="", Galaxy TV
