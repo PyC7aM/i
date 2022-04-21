@@ -364,19 +364,22 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=trash
 
 
 #EXTINF:-1 tvg-id="tv1000" group-title="Movies", TV1000
-http://cdnua06.hls.tv/476/hls/3m5p9lfdoycbhqtj74ku2iezrwn86gs1/311/stream.m3u8
+https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv1000-action" group-title="Movies", TV1000 Action
-http://cdnua06.hls.tv/476/hls/xpgdtwukj3blyc7oz508vn2msi9ahf6q/308/stream.m3u8
+https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv1000-cee" group-title="Movies", TV1000 CEE
+http://cdnua06.hls.tv/476/hls/3m5p9lfdoycbhqtj74ku2iezrwn86gs1/311/stream.m3u8
 
+#EXTINF:-1 tvg-id="tv1000-action-cee" group-title="Movies", TV1000 Action CEE
+http://cdnua06.hls.tv/476/hls/xpgdtwukj3blyc7oz508vn2msi9ahf6q/308/stream.m3u8
 
 #EXTINF:-1 tvg-id="tv1000-worldkino" group-title="Movies", TV1000 World Kino
 http://cdnua06.hls.tv/476/hls/mwr8n6z0axeqbouj9l2fgkdvh5i4sp31/3684/stream.m3u8
 
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Movies", TV1000 Русское кино
-http://foreign-default.persik.by:82/live/Ch237/index.m3u8
+https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvmchannel" group-title="", TVMChannel
 http://192.166.144.101:8008/play/a01i/index.m3u8
@@ -388,10 +391,10 @@ http://192.166.144.101:8008/play/a01i/index.m3u8
 http://194.58.42.152:8000/play/ultrahdcinema/index.m3u8
 
 #EXTINF:-1 tvg-id="viasat-explore" group-title="", Viasat Explore
-http://cdnua06.hls.tv/476/hls/q217m9tcwegfzyu5jph3s0davlx4rbk6/322/stream.m3u8
+https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="viasat-history" group-title="", Viasat History
-http://cdnua06.hls.tv/476/hls/p85r20j1xoais4bcf3mgyzdnhv9l6qwu/327/stream.m3u8
+https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="viasat-nature" group-title="", Viasat Nature
 http://cdnua06.hls.tv/476/hls/1nelpf6my7bz9qa5ji03rvgd8tcuxo2k/328/stream.m3u8
@@ -628,7 +631,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://109.200.130.124:7007/play/a01a
 
 #EXTINF:-1 tvg-id="mosfilm" group-title="", Мосфильм. Золотая коллекция
-
+http://foreign-default.persik.by:82/livehq/Ch342/index.m3u8
 
 #EXTINF:-1 tvg-id="motorsportv-tv" group-title="Sport", Моторспорт ТВ
 
@@ -766,7 +769,7 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=friday
 http://ott-cdn.ucom.am/s50/index.m3u8
 
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="General", Пятый канал
-http://46.174.83.66/5Kanal/mpegts
+http://46.174.83.66/5Kanal/index.m3u8
 
 #EXTINF:-1 tvg-id="radio-shanson" group-title="Music", Радио Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
@@ -787,7 +790,7 @@ http://tv.streams.baikal-telecom.net/RetroTV/mpegts
 
 
 #EXTINF:-1 tvg-id="rossia1" group-title="General", Россия
-http://foreign-default.persik.by:82/live/Ch41/index.m3u8
+http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
 
 #EXTINF:-1 tvg-id="rossia-24" group-title="News", Россия 24
 http://foreign-default.persik.by:82/live/Ch76/index.m3u8
