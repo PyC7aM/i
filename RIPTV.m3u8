@@ -259,7 +259,7 @@ http://192.166.144.101:8008/play/a004/index.m3u8
 
 
 #EXTINF:-1 tvg-id="nick-jr" group-title="Kids", Nick Jr
-
+http://saveukraine.only4.tv/814/video.m3u8?token=saveUkrain
 
 #EXTINF:-1 tvg-id="nickelodeon-ru" group-title="Kids", Nickelodeon
 
@@ -268,7 +268,7 @@ http://192.166.144.101:8008/play/a004/index.m3u8
 https://livetv.mylifeisgood.ml/channels/nickelodeon-hd
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", NorMax
-https://autopilot.catcast.tv/content/40660/index.m3u8
+
 
 #EXTINF:-1 tvg-id="oceon-tv" group-title="", Ocean TV
 
