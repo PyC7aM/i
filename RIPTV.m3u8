@@ -856,7 +856,7 @@ http://ott-cdn.ucom.am/s57/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sarafan" group-title="", Сарафан
-
+http://146.158.0.56/Sarafan/mono.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Свежаки
 https://edge-01.kino.watch/fresh/index.m3u8
@@ -898,7 +898,7 @@ http://192.166.144.101:8008/play/a01h/index.m3u8
 http://stream-norst.cf:8080/tvoetv/index.m3u8
 
 #EXTINF:-1 tvg-id="texno-24" group-title="", Техно 24
-
+https://sc.id-tv.kz:443/Tehno24_34_35.m3u8
 
 #EXTINF:-1 tvg-id="tochka-tv" group-title="", Точка
 http://192.166.144.101:8008/play/a018/index.m3u8
@@ -931,7 +931,7 @@ http://ott-cdn.ucom.am/s43/04.m3u8
 
 
 #EXTINF:-1 tvg-id="yu" group-title="Entertainment", Ю
-
+http://46.174.83.66/U/index.m3u8
 
 #EXTINF:-1 tvg-id="yurgan" group-title="Regional", Юрган
 http://yurgan.bonus-tv.ru/cdn/yurgan/playlist.m3u8
