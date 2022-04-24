@@ -72,6 +72,9 @@ http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-id="backustv-horror" group-title="Movies", BackusTV Страшное
 http://stream.backustv.ru/live/btv2/index.m3u8
 
+#EXTINF:-1 tvg-id="bbc" group-title="News", BBC (ENG)
+http://217.71.224.86:8079
+
 #EXTINF:-1 tvg-id="bbc" group-title="News", BBC
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
@@ -106,7 +109,7 @@ https://livetv.mylifeisgood.ml/channels/bridgetvshlyager
 http://saveukraine.only4.tv/802/video.m3u8?token=saveUkrain
 
 #EXTINF:-1 tvg-id="cbs-reality" group-title="Entertainment", CBS Reality
-
+http://217.71.224.86:8131
 
 #EXTINF:-1 tvg-id="cinema-ru" group-title="Movies", Cinema
 https://sc.id-tv.kz/Cinema.m3u8
@@ -217,7 +220,7 @@ https://livetv.mylifeisgood.ml/channels/discoveryxtra
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
 #EXTINF:-1 tvg-id="kxl" group-title="Sport", KHL
-
+http://217.71.224.86:8330
 
 #EXTINF:-1 tvg-id="kxl-hd" group-title="Sport", KHL Prime
 
@@ -232,7 +235,7 @@ https://v2.catcast.tv/content/38144/index.m3u8
 
 
 #EXTINF:-1 tvg-id="mtv-rocks" group-title="Music", MTV 90s
-
+http://217.71.224.86:8350
 
 #EXTINF:-1 tvg-id="mtv-hits" group-title="Music", MTV Hits
 
@@ -451,7 +454,7 @@ https://stream.sputnik24.tv/arsenal/index.m3u8
 
 
 #EXTINF:-1 tvg-id="detsky" group-title="Kids", Детский
-
+http://217.71.224.86:8195
 
 #EXTINF:-1 tvg-id="detsky-mir" group-title="Kids", Детский мир
 http://ott-cdn.ucom.am/s58/index.m3u8
@@ -610,7 +613,7 @@ http://live.m2.tv/hls2/720/stream.m3u8
 http://live.m2.tv/hls3/720/stream.m3u8
 
 #EXTINF:-1 tvg-id="mama" group-title="", Мама
-
+http://217.71.224.86:8228
 
 #EXTINF:-1 tvg-id="match-boets" group-title="Sport", Матч! Боец
 
@@ -835,7 +838,7 @@ http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="russky-illuzion" group-title="", Русский иллюзион
-
+http://217.71.224.86:8084
 
 #EXTINF:-1 tvg-id="russky-roman" group-title="", Русский роман
 
