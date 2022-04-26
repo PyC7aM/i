@@ -598,7 +598,7 @@ https://sc.id-tv.kz/Kinoseriya_hd.m3u8
 
 
 #EXTINF:-1 tvg-id="kinouzhas" group-title="Movies", Киноужас
-
+http://146.158.0.56/Kinoujas/mono.m3u8
 
 #EXTINF:-1 tvg-id="kinoxit" group-title="Movies", Кинохит
 http://217.71.224.86:8102
