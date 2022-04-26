@@ -174,10 +174,10 @@ http://foreign-default.persik.by:82/live/Ch235/index.m3u8
 #EXTINF:-1 tvg-id="foxlife-cis" group-title="", FoxLife Украина
 http://foreign-default.persik.by:82/live/Ch340/index.m3u8
 
-#EXTINF:-1 tvg-id="galaxy-tv" group-title="", Galaxy TV
+#EXTINF:-1 tvg-id="galaxy-tv" group-title="", Galaxy-TV
 http://146.158.0.56/Galaxy/mono.m3u8
 
-#EXTINF:-1 tvg-id="gulli-girl" group-title="Kids", Gulli Girl
+#EXTINF:-1 tvg-id="gulli-girl" group-title="Kids", Gulli
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=gulli
 
 #EXTINF:-1 tvg-id="h2" group-title="", H2
