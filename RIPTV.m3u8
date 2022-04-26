@@ -271,10 +271,10 @@ http://192.166.144.101:8008/play/a004/index.m3u8
 
 
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="", Nat Geo Wild
-
+http://foreign-default.persik.by:82/live/Ch334/index.m3u8
 
 #EXTINF:-1 tvg-id="national-geographic" group-title="", National Geographic
-
+http://foreign-default.persik.by:82/livehq/Ch241hd/index.m3u8
 
 #EXTINF:-1 tvg-id="nick-jr" group-title="Kids", Nick Jr
 http://saveukraine.only4.tv/814/video.m3u8?token=saveUkrain
@@ -373,7 +373,7 @@ https://stirr.ott-channels.stingray.com/128/master.m3u8
 https://stirr.ott-channels.stingray.com/134/master.m3u8
 
 #EXTINF:-1 tvg-id="tiji" group-title="Kids", TiJi
-
+http://foreign-default.persik.by:82/live/Ch256/index.m3u8
 
 #EXTINF:-1 tvg-id="tlc" group-title="", TLC
 
@@ -523,7 +523,7 @@ http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
 
 #EXTINF:-1 tvg-id="zhara" group-title="Music", Жара
-
+http://foreign-default.persik.by:82/live/Ch43/index.m3u8
 
 #EXTINF:-1 tvg-id="zagorodnaya-zhizn" group-title="", Загородная жизнь
 
