@@ -297,10 +297,10 @@ http://146.158.0.56/RTG/mono.m3u8
 #EXTINF:-1 tvg-id="rtvi" group-title="", RTVi
 http://tbs01-edge11.itdc.ge/rtvi/tracks-v1a1/mono.m3u8?token=czOud9pzTftAiMTcJAAXlWSHhadV2UPmsVrBNGERny4bpNuls7IR9q9Buni95EMV6bC4L6GB8X6Ec-Z5-tRrXyhEyhnaN5PI8UHOIRRb2i_IajJW5VMnJrjGGerDozQVSIlg-uHpveKT1JNZuIrMM6wVlwgthW6cO1sOlV1V276oQva7N51_Vcoxjo-tGMyIifhNPP7GkL9dsmtv5bll69708X0COQOhjefTdMDWq74gmCsCp5omaGSkdvD3vgVJ35oXxmGfs2y-6pIb8Spern382djiBDFEtOFahhhiO91bxmJ412gmnMFqDvZQ_ZfU
 
-#EXTINF:-1 tvg-id="setanta-sports" group-title="Sport", Setanta Sports 1
+#EXTINF:-1 tvg-id="setanta-sports" group-title="Sport", Setanta Sports
 http://194.58.42.152:8000/play/setantasports1hd/index.m3u8
 
-#EXTINF:-1 tvg-id="setanta-sports-plus" group-title="Sport", Setanta Sports 2
+#EXTINF:-1 tvg-id="setanta-sports-plus" group-title="Sport", Setanta Sports+
 http://194.58.42.152:8000/play/setantasports2hd/index.m3u8
 
 #EXTINF:-1 tvg-id="sony-enter" group-title="", Sony Entertainment
