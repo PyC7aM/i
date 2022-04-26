@@ -97,7 +97,7 @@ https://livetv.mylifeisgood.ml/channels/bridgehitstv
 https://livetv.mylifeisgood.ml/channels/bridgedeluxetv
 
 #EXTINF:-1 tvg-id="bridge-tv-fresh" group-title="Music", Bridge TV Fresh
-
+https://2serv.mylifeisgood.ml/channels/bridgefreshya
 
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Music", Bridge TV Русский хит
 https://livetv.mylifeisgood.ml/channels/bridgerushittv
@@ -175,13 +175,13 @@ http://foreign-default.persik.by:82/live/Ch235/index.m3u8
 http://foreign-default.persik.by:82/live/Ch340/index.m3u8
 
 #EXTINF:-1 tvg-id="galaxy-tv" group-title="", Galaxy TV
-
+http://146.158.0.56/Galaxy/mono.m3u8
 
 #EXTINF:-1 tvg-id="gulli-girl" group-title="Kids", Gulli Girl
-
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=gulli
 
 #EXTINF:-1 tvg-id="h2" group-title="", H2
-
+https://sc.id-tv.kz:443/H2HD_36_37.m3u8
 
 #EXTINF:-1 tvg-id="hbo-hd" group-title="Movies", HBO
 
@@ -234,17 +234,32 @@ https://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:-1 tvg-id="vh1-classic" group-title="Music", MTV 80s
 http://217.71.224.86:8178
 
-#EXTINF:-1 tvg-id="mtv-rocks" group-title="Music", MTV 90s
-http://217.71.224.86:8350
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
+#EXTINF:-1 tvg-id="mtv-dance" group-title="Music", MTV Dance
+http://cdnua06.hls.tv/476/hls/0v8gnwlpo3dtf24ysm1rbcqx6uea79ji/264/stream.m3u8
 
 #EXTINF:-1 tvg-id="mtv-hits" group-title="Music", MTV Hits
 
 
 #EXTINF:-1 tvg-id="mtv-live-hd" group-title="Music", MTV Live
+http://cdnua06.hls.tv/476/hls/px79rajems05udyfnbg61qhklcv2tzo8/267/stream.m3u8
 
+#EXTINF:-1 tvg-id="mtv-rocks" group-title="Music", MTV Rocks
+http://217.71.224.86:8350
 
 #EXTINF:-1 tvg-id="mtv-russia" group-title="Music", MTV Russia
+http://foreign-default.persik.by:82/live/Ch226/index.m3u8
 
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", MTV Spanking New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", MTV Yo!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Music Plus
 http://79.172.214.45:10190/stream.m3u8
