@@ -879,7 +879,7 @@ http://ott-cdn.ucom.am/s57/index.m3u8
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=smile
 
 #EXTINF:-1 tvg-id="sts" group-title="", СТС
-
+http://46.174.83.66/CTC/index.m3u8?em9uYS1pcHR2LnJ1
 
 #EXTINF:-1 tvg-id="sts-kids-hd" group-title="Kids", СТС Kids HD
 
