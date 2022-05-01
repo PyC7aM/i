@@ -219,12 +219,6 @@ https://livetv.mylifeisgood.ml/channels/discoveryxtra
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Kronehit
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
-#EXTINF:-1 tvg-id="kxl" group-title="Sport", KHL
-http://217.71.224.86:8330
-
-#EXTINF:-1 tvg-id="kxl-hd" group-title="Sport", KHL Prime
-http://81.177.139.240:8000/play/a00a/index.m3u8
-
 #EXTINF:-1 tvg-id="no_epg_mult" group-title="Kids", KINDER TV
 https://v2.catcast.tv/content/38144/index.m3u8
 
@@ -453,7 +447,7 @@ https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="viva-rus" group-title="Music", VIVA Russia
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 
-#EXTINF:-1 tvg-id="avto24" group-title="", Авто 24
+EXTINF:-1 tvg-id="avto24" group-title="", Авто24
 http://85.92.123.108:6060/play/avto24/index.m3u8
 
 #EXTINF:-1 tvg-id="arsenaltv" group-title="", Арсенал
@@ -551,6 +545,12 @@ http://ott-cdn.ucom.am/s40/index.m3u8
 
 #EXTINF:-1 tvg-id="kvn-tv" group-title="Entertainment", КВН ТВ
 
+
+#EXTINF:-1 tvg-id="kxl-hd" group-title="Sport", КХЛ HD
+http://81.177.139.240:8000/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-id="kxl" group-title="Sport", КХЛ ТВ
+http://217.71.224.86:8330
 
 #EXTINF:-1 tvg-id="no_epg" group-title="Religion", Каббала ТВ
 
