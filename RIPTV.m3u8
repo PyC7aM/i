@@ -223,7 +223,7 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 http://217.71.224.86:8330
 
 #EXTINF:-1 tvg-id="kxl-hd" group-title="Sport", KHL Prime
-
+http://81.177.139.240:8000/play/a00a/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_mult" group-title="Kids", KINDER TV
 https://v2.catcast.tv/content/38144/index.m3u8
@@ -412,7 +412,7 @@ https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
 http://192.166.144.101:8008/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-id="ufc" group-title="Sport", UFC ТВ
-
+http://81.177.139.240:8000/play/a00d/index.m3u8
 
 #EXTINF:-1 tvg-id="ultra-hd-cinema" group-title="Movies", Ultra HD Cinema
 http://194.58.42.152:8000/play/ultrahdcinema/index.m3u8
@@ -457,7 +457,7 @@ https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 http://85.92.123.108:6060/play/avto24/index.m3u8
 
 #EXTINF:-1 tvg-id="arsenaltv" group-title="", Арсенал
-https://stream.sputnik24.tv/arsenal/index.m3u8
+http://81.177.139.240:8000/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-id="bobior" group-title="", Бобёр
 
@@ -524,6 +524,9 @@ http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
 
 #EXTINF:-1 tvg-id="zhara" group-title="Music", Жара
 http://foreign-default.persik.by:82/live/Ch43/index.m3u8
+
+#EXTINF:-1 tvg-id="zagorodny-int" group-title="", Загородный International
+http://81.177.139.240:8000/play/a005/index.m3u8
 
 #EXTINF:-1 tvg-id="zagorodnaya-zhizn" group-title="", Загородная жизнь
 
@@ -695,6 +698,9 @@ http://85.92.123.108:6060/play/muztv/index.m3u8
 #EXTINF:-1 tvg-id="mult" group-title="Kids", Мульт
 http://217.71.224.86:8194
 
+#EXTINF:-1 tvg-id="multimuzyka" group-title="Kids", Мульт и музыка
+http://81.177.139.240:8000/play/a007/index.m3u8
+
 #EXTINF:-1 tvg-id="multimania" group-title="Kids", Мультиландия
 
 
@@ -750,7 +756,7 @@ http://192.166.144.101:8008/play/a01r/index.m3u8
 
 
 #EXTINF:-1 tvg-id="oruzhie" group-title="", Оружие
-
+http://81.177.139.240:8000/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-id="otkryty-mir" group-title="", Открытый мир
 http://192.166.144.101:8008/play/a01t/index.m3u8
