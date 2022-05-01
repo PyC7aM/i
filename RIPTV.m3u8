@@ -875,6 +875,9 @@ http://ott-cdn.ucom.am/s55/index.m3u8
 #EXTINF:-1 tvg-id="ryzhy" group-title="Kids", Рыжий
 http://ott-cdn.ucom.am/s57/index.m3u8
 
+#EXTINF:-1 tvg-id="smaylik-tv" group-title="Kids", Смайлик ТВ
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=smile
+
 #EXTINF:-1 tvg-id="sts" group-title="", СТС
 
 
