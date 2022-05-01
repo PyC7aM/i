@@ -853,13 +853,13 @@ http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 http://217.71.224.86:8112
 
 #EXTINF:-1 tvg-id="russky-detektiv" group-title="", Русский детектив
-
+http://85.92.123.108:6060/play/rusdetektiv/index.m3u8
 
 #EXTINF:-1 tvg-id="russky-illuzion" group-title="", Русский иллюзион
 http://217.71.224.86:8084
 
 #EXTINF:-1 tvg-id="russky-roman" group-title="", Русский роман
-
+http://85.92.123.108:6060/play/rusroman/index.m3u8
 
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="Sport", Рыболов
 http://ott-cdn.ucom.am/s55/index.m3u8
