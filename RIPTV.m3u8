@@ -490,7 +490,7 @@ http://194.58.42.152:8000/play/dikayaribalkahd/index.m3u8
 http://194.58.42.152:8000/play/dojhd/index.m3u8
 
 #EXTINF:-1 tvg-id="doktor" group-title="", Доктор
-
+http://91.234.255.242:8000/play/a005/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Доку
 https://edge-01.kino.watch/docu/index.m3u8
@@ -885,7 +885,7 @@ http://46.174.83.66/CTC/index.m3u8?em9uYS1pcHR2LnJ1
 
 
 #EXTINF:-1 tvg-id="sts-love" group-title="", СТС Love
-
+http://91.234.255.242:8000/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-id="sarafan" group-title="", Сарафан
 
@@ -946,6 +946,9 @@ http://edge-01.kino.watch/horror/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Уже видел
 https://edge-01.kino.watch/hit/index.m3u8
+
+#EXTINF:-1 tvg-id="usadba" group-title="", Усадьба
+http://91.234.255.242:8000/play/a02p/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Фантастика Sci-Fi
 https://v2.catcast.tv/content/38801/index.m3u8
