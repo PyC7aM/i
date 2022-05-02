@@ -454,7 +454,7 @@ http://85.92.123.108:6060/play/avto24/index.m3u8
 http://81.177.139.240:8000/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-id="bobior" group-title="", Бобёр
-
+http://91.234.255.242:8000/play/a01h/index.m3u8
 
 #EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" group-title="", В мире животных HD
 
@@ -493,19 +493,19 @@ http://194.58.42.152:8000/play/dojhd/index.m3u8
 https://edge-01.kino.watch/docu/index.m3u8
 
 #EXTINF:-1 tvg-id="domkino" group-title="Movies", Дом кино
-
+http://91.234.255.242:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-id="domkino-premium" group-title="", Дом кино Премиум HD
 
 
 #EXTINF:-1 tvg-id="domashny" group-title="", Домашний
-
+http://91.234.255.242:8000/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-id="dushevnoe" group-title="", Душевное
 
 
 #EXTINF:-1 tvg-id="evrokino" group-title="Movies", Еврокино
-
+http://91.234.255.242:8000/play/a021/index.m3u8
 
 #EXTINF:-1 tvg-id="eda-hd" group-title="", Еда Премиум
 
@@ -535,7 +535,7 @@ http://ott-cdn.ucom.am/s92/index.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 
 #EXTINF:-1 tvg-id="illuzion-plus" group-title="", Иллюзион +
-
+http://91.234.255.242:8000/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-id="indiyskoe-kino" group-title="Movies", Индийское кино
 
@@ -648,7 +648,7 @@ http://217.71.224.86:8215
 https://bl.uma.media/live/291661/HLS/4614144_3,2883584/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="match-premier" group-title="Sport", Матч! Премьер
-
+http://91.234.255.242:8000/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-id="match-football1" group-title="Sport", Матч! Футбол 1
 http://217.71.224.86:8042
@@ -693,7 +693,7 @@ https://sc.id-tv.kz/MoyaPlaneta_34_35.m3u8
 http://85.92.123.108:6060/play/muztv/index.m3u8
 
 #EXTINF:-1 tvg-id="muzyka-pervogo" group-title="Music", Музыка Первого
-
+http://91.234.255.242:8000/play/a01l/index.m3u8
 
 #EXTINF:-1 tvg-id="mult" group-title="Kids", Мульт
 http://217.71.224.86:8194
@@ -951,7 +951,7 @@ https://v2.catcast.tv/content/38801/index.m3u8
 
 
 #EXTINF:-1 tvg-id="che" group-title="Entertainment", Че
-
+http://91.234.255.242:8000/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-id="shanson-tv" group-title="Music", Шансон-TB
 http://ott-cdn.ucom.am/s43/04.m3u8
