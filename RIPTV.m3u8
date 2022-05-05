@@ -639,7 +639,7 @@ http://live.m2.tv/hls3/720/stream.m3u8
 http://217.71.224.86:8228
 
 #EXTINF:-1 tvg-id="match-tv" group-title="Sport", Матч! HD
-https://bl.uma.media/live/133529/HLS/4614144_3,2883584/2/1/playlist.m3u8
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=matchhd_nocensored
 
 #EXTINF:-1 tvg-id="match-arena" group-title="Sport", Матч! Арена
 http://217.71.224.86:8027
