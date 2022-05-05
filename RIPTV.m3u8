@@ -382,7 +382,7 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=trash
 
 
 #EXTINF:-1 tvg-id="tvxxi" group-title="", TV XXI
-
+http://85.92.123.108:6060/play/tvxxi/index.m3u8
 
 #EXTINF:-1 tvg-id="tv1000" group-title="Movies", TV1000
 https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
