@@ -281,10 +281,11 @@ https://livetv.mylifeisgood.ml/channels/nickelodeon-hd
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", NorMax
 
-#EXTINF:-1 tvg-id="ostwest" group-title="", OstWest
+
 #EXTINF:-1 tvg-id="oceon-tv" group-title="", Ocean TV
 
 
+#EXTINF:-1 tvg-id="ostwest" group-title="", OstWest
 http://cdnua06.hls.tv/476/hls/xuti0l47bsgzvop5e91wcdyarm32fjhq/4254/stream.m3u8
 
 #EXTINF:-1 tvg-id="paramount-channel" group-title="", Paramount Channel
