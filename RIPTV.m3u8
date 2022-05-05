@@ -373,7 +373,7 @@ https://stirr.ott-channels.stingray.com/134/master.m3u8
 http://foreign-default.persik.by:82/live/Ch256/index.m3u8
 
 #EXTINF:-1 tvg-id="tlc" group-title="", TLC
-
+http://212.122.80.182:38167/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-id="trashtv" group-title="Movies", Trash
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=trash
