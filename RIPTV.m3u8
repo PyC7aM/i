@@ -501,7 +501,7 @@ http://194.58.42.152:8000/play/dojhd/index.m3u8
 #EXTINF:-1 tvg-id="doktor" group-title="", Доктор
 http://91.234.255.242:8000/play/a005/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Доку
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies" tvg-logo="https://kino.watch/img/logo.png", Доку
 https://edge-01.kino.watch/docu/index.m3u8
 
 #EXTINF:-1 tvg-id="domkino" group-title="Movies", Дом кино
@@ -846,7 +846,7 @@ http://foreign-default.persik.by:82/live/Ch63/index.m3u8
 https://sc.id-tv.kz/RenTV_36_37.m3u8
 
 #EXTINF:-1 tvg-id="retro-tv" group-title="", Ретро ТВ
-
+http://46.174.83.66/Retro/index.m3u8
 
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="Movies", Родное кино
 
@@ -899,7 +899,7 @@ http://91.234.255.242:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="sarafan" group-title="", Сарафан
 
 
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Свежаки
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies" tvg-logo="https://kino.watch/img/logo.png", Свежаки
 https://edge-01.kino.watch/fresh/index.m3u8
 
 #EXTINF:-1 tvg-id="sever" group-title="Regional", Север
@@ -950,10 +950,10 @@ http://192.166.144.101:8008/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Ужас
 https://v2.catcast.tv/content/38896/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Ужастик
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies" tvg-logo="https://kino.watch/img/logo.png", Ужастик
 http://edge-01.kino.watch/horror/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Уже видел
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies" tvg-logo="https://kino.watch/img/logo.png", Уже видел
 https://edge-01.kino.watch/hit/index.m3u8
 
 #EXTINF:-1 tvg-id="usadba" group-title="", Усадьба
