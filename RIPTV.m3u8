@@ -327,7 +327,7 @@ http://194.58.42.152:8000/play/setantasports2hd/index.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" group-title="Movies", Sony Turbo
 http://st1.astra-uk.ru:81/cc719f0f30037279d03bf2fd542a8088/playlist.m3u8
 
-#EXTINF:-1 tvg-id="star-family" group-title="", Star Family
+#EXTINF:-1 tvg-id="star-family-ua" group-title="", Star Family Украина
 http://cdnua06.hls.tv/476/hls/vxb7z4lw2h3andoesjtpfq01m5gcy69u/3996/stream.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Alternative HD
