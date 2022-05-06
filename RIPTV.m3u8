@@ -138,6 +138,9 @@ http://foreign-default.persik.by:82/live/Ch330/index.m3u8
 #EXTINF:-1 tvg-id="dtx" group-title="", DTX
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoverydtx
 
+#EXTINF:-1 tvg-id="epik-drama" group-title="Movies", Epic Drama
+http://cdnua06.hls.tv/476/hls/7z9xuvgtcsjoypl0fhkbi1e5dq6rn8am/3912/stream.m3u8
+
 #EXTINF:-1 tvg-id="euronews" group-title="News", EuroNews
 http://194.58.42.152:8000/play/euronews/index.m3u8
 
@@ -289,10 +292,10 @@ https://livetv.mylifeisgood.ml/channels/nickelodeon-hd
 http://cdnua06.hls.tv/476/hls/xuti0l47bsgzvop5e91wcdyarm32fjhq/4254/stream.m3u8
 
 #EXTINF:-1 tvg-id="paramount-channel" group-title="", Paramount Channel
-
+http://cdnua06.hls.tv/476/hls/j1w9epfq87ck36nxt0b4yuamz2sidl5v/4772/stream.m3u8
 
 #EXTINF:-1 tvg-id="paramount-comedy" group-title="", Paramount Comedy
-http://109.200.130.124:15500/paramountcomedy
+http://cdnua06.hls.tv/476/hls/0qo4vwzsfn6y1dgkbeatlhx8pi32j79c/3910/stream.m3u8
 
 #EXTINF:-1 tvg-id="plan-b" group-title="", Plan B
 
@@ -323,6 +326,9 @@ http://194.58.42.152:8000/play/setantasports2hd/index.m3u8
 
 #EXTINF:-1 tvg-id="sony-turbo" group-title="Movies", Sony Turbo
 http://st1.astra-uk.ru:81/cc719f0f30037279d03bf2fd542a8088/playlist.m3u8
+
+#EXTINF:-1 tvg-id="star-family" group-title="", Star Family
+http://cdnua06.hls.tv/476/hls/vxb7z4lw2h3andoesjtpfq01m5gcy69u/3996/stream.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Alternative HD
 https://stirr.ott-channels.stingray.com/102/master.m3u8
