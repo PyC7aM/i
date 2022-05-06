@@ -294,8 +294,8 @@ http://cdnua06.hls.tv/476/hls/xuti0l47bsgzvop5e91wcdyarm32fjhq/4254/stream.m3u8
 #EXTINF:-1 tvg-id="paramount-channel" group-title="", Paramount Channel
 http://cdnua06.hls.tv/476/hls/j1w9epfq87ck36nxt0b4yuamz2sidl5v/4772/stream.m3u8
 
-#EXTINF:-1 tvg-id="paramount-comedy-ua" group-title="", Paramount Comedy Украина
-http://cdnua06.hls.tv/476/hls/0qo4vwzsfn6y1dgkbeatlhx8pi32j79c/3910/stream.m3u8
+#EXTINF:-1 tvg-id="paramount-comedy" group-title="", Paramount Comedy
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=paramount_comedy
 
 #EXTINF:-1 tvg-id="plan-b" group-title="", Plan B
 
