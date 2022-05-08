@@ -648,19 +648,25 @@ http://live.m2.tv/hls3/720/stream.m3u8
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=matchhd_nocensored
 
 #EXTINF:-1 tvg-id="match-arena" group-title="Sport", Матч! Арена
-
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5459
 
 #EXTINF:-1 tvg-id="match-boets" group-title="Sport", Матч! Боец
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5466
 
+#EXTINF:-1 tvg-id="match-igra" group-title="Sport", Матч! Игра
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5460
 
 #EXTINF:-1 tvg-id="match-nash-sport" group-title="Sport", Матч! Наш спорт
 https://bl.uma.media/live/291661/HLS/4614144_3,2883584/2/1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="match-planeta" group-title="Sport", Матч! Планета
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5455
+
 #EXTINF:-1 tvg-id="match-premier" group-title="Sport", Матч! Премьер
-http://91.234.255.242:8000/play/a009/index.m3u8
+http://65.108.9.39:8060/matc!premerhd/index.m3u8
 
 #EXTINF:-1 tvg-id="match-football1" group-title="Sport", Матч! Футбол 1
-
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5456
 
 #EXTINF:-1 tvg-id="match-football2" group-title="Sport", Матч! Футбол 2
 
