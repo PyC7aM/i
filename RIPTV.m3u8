@@ -72,9 +72,6 @@ http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-id="backustv-horror" group-title="Movies", BackusTV Страшное
 http://stream.backustv.ru/live/btv2/index.m3u8
 
-#EXTINF:-1 tvg-id="bbc" group-title="News", BBC (ENG)
-http://217.71.224.86:8079
-
 #EXTINF:-1 tvg-id="bbc" group-title="News", BBC
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
@@ -109,7 +106,7 @@ https://livetv.mylifeisgood.ml/channels/bridgetvshlyager
 http://saveukraine.only4.tv/802/video.m3u8?token=saveUkrain
 
 #EXTINF:-1 tvg-id="cbs-reality" group-title="Entertainment", CBS Reality
-http://217.71.224.86:8131
+
 
 #EXTINF:-1 tvg-id="cinema-ru" group-title="Movies", Cinema
 https://sc.id-tv.kz/Cinema.m3u8
@@ -229,7 +226,7 @@ https://v2.catcast.tv/content/38144/index.m3u8
 
 
 #EXTINF:-1 tvg-id="vh1-classic" group-title="Music", MTV 80s
-http://217.71.224.86:8178
+
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
@@ -247,7 +244,7 @@ http://cdnua06.hls.tv/476/hls/0v8gnwlpo3dtf24ysm1rbcqx6uea79ji/264/stream.m3u8
 http://cdnua06.hls.tv/476/hls/px79rajems05udyfnbg61qhklcv2tzo8/267/stream.m3u8
 
 #EXTINF:-1 tvg-id="mtv-rocks" group-title="Music", MTV Rocks
-http://217.71.224.86:8350
+
 
 #EXTINF:-1 tvg-id="mtv-russia" group-title="Music", MTV Russia
 http://foreign-default.persik.by:82/live/Ch226/index.m3u8
@@ -277,7 +274,7 @@ http://foreign-default.persik.by:82/livehq/Ch241hd/index.m3u8
 http://saveukraine.only4.tv/814/video.m3u8?token=saveUkrain
 
 #EXTINF:-1 tvg-id="nickelodeon-ru" group-title="Kids", Nickelodeon
-http://217.71.224.86:8188
+
 
 #EXTINF:-1 tvg-id="nickelodeon-hd" group-title="Kids", Nickelodeon HD
 https://livetv.mylifeisgood.ml/channels/nickelodeon-hd
@@ -475,7 +472,7 @@ http://91.234.255.242:8000/play/a02z/index.m3u8
 
 
 #EXTINF:-1 tvg-id="detsky" group-title="Kids", Детский
-http://217.71.224.86:8195
+
 
 #EXTINF:-1 tvg-id="detsky-mir" group-title="Kids", Детский мир
 http://ott-cdn.ucom.am/s58/index.m3u8
@@ -562,7 +559,7 @@ http://ott-cdn.ucom.am/s40/index.m3u8
 http://81.177.139.240:8000/play/a00a/index.m3u8
 
 #EXTINF:-1 tvg-id="kxl" group-title="Sport", КХЛ ТВ
-http://217.71.224.86:8330
+
 
 #EXTINF:-1 tvg-id="no_epg" group-title="Religion", Каббала ТВ
 
@@ -589,7 +586,7 @@ https://autopilot.catcast.tv/content/38617/index.m3u8
 
 
 #EXTINF:-1 tvg-id="kinokomedia" group-title="Movies", Кинокомедия
-http://217.71.224.86:8118
+
 
 #EXTINF:-1 tvg-id="kinomiks" group-title="Movies", Киномикс
 https://sc.id-tv.kz/Kinomix_hd.m3u8
@@ -616,7 +613,7 @@ https://sc.id-tv.kz/Kinoseriya_hd.m3u8
 
 
 #EXTINF:-1 tvg-id="kinoxit" group-title="Movies", Кинохит
-http://217.71.224.86:8102
+
 
 #EXTINF:-1 tvg-id="komedijnoe" group-title="", Комедийное
 
@@ -645,16 +642,16 @@ http://live.m2.tv/hls2/720/stream.m3u8
 http://live.m2.tv/hls3/720/stream.m3u8
 
 #EXTINF:-1 tvg-id="mama" group-title="", Мама
-http://217.71.224.86:8228
+
 
 #EXTINF:-1 tvg-id="match-tv" group-title="Sport", Матч! HD
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=matchhd_nocensored
 
 #EXTINF:-1 tvg-id="match-arena" group-title="Sport", Матч! Арена
-http://217.71.224.86:8027
+
 
 #EXTINF:-1 tvg-id="match-boets" group-title="Sport", Матч! Боец
-http://217.71.224.86:8215
+
 
 #EXTINF:-1 tvg-id="match-nash-sport" group-title="Sport", Матч! Наш спорт
 https://bl.uma.media/live/291661/HLS/4614144_3,2883584/2/1/playlist.m3u8
@@ -663,13 +660,13 @@ https://bl.uma.media/live/291661/HLS/4614144_3,2883584/2/1/playlist.m3u8
 http://91.234.255.242:8000/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-id="match-football1" group-title="Sport", Матч! Футбол 1
-http://217.71.224.86:8042
+
 
 #EXTINF:-1 tvg-id="match-football2" group-title="Sport", Матч! Футбол 2
-http://217.71.224.86:8031
+
 
 #EXTINF:-1 tvg-id="match-football3" group-title="Sport", Матч! Футбол 3
-http://217.71.224.86:8026
+
 
 #EXTINF:-1 tvg-id="millet" group-title="", Миллет
 http://live.trkmillet.ru/millet/index.m3u8
@@ -708,7 +705,7 @@ http://85.92.123.108:6060/play/muztv/index.m3u8
 http://91.234.255.242:8000/play/a01l/index.m3u8
 
 #EXTINF:-1 tvg-id="mult" group-title="Kids", Мульт
-http://217.71.224.86:8194
+
 
 #EXTINF:-1 tvg-id="multimuzyka" group-title="Kids", Мульт и музыка
 http://81.177.139.240:8000/play/a007/index.m3u8
@@ -867,13 +864,13 @@ http://foreign-default.persik.by:82/live/Ch21/index.m3u8
 http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="russky-bestseller" group-title="", Русский бестселлер
-http://217.71.224.86:8112
+
 
 #EXTINF:-1 tvg-id="russky-detektiv" group-title="", Русский детектив
 http://85.92.123.108:6060/play/rusdetektiv/index.m3u8
 
 #EXTINF:-1 tvg-id="russky-illuzion" group-title="", Русский иллюзион
-http://217.71.224.86:8084
+
 
 #EXTINF:-1 tvg-id="russky-roman" group-title="", Русский роман
 http://85.92.123.108:6060/play/rusroman/index.m3u8
