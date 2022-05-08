@@ -669,10 +669,10 @@ http://65.108.9.39:8060/matc!premerhd/index.m3u8
 http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5456
 
 #EXTINF:-1 tvg-id="match-football2" group-title="Sport", Матч! Футбол 2
-
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5461
 
 #EXTINF:-1 tvg-id="match-football3" group-title="Sport", Матч! Футбол 3
-
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5458
 
 #EXTINF:-1 tvg-id="millet" group-title="", Миллет
 http://live.trkmillet.ru/millet/index.m3u8
