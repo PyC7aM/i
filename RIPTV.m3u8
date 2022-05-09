@@ -49,7 +49,7 @@ https://hls.goodgame.ru/hls/5346.m3u8
 https://bsttv.bonus-tv.ru/cdn/ani/playlist.m3u8
 
 #EXTINF:-1 tvg-id="animal-planet" group-title="", Animal Planet
-
+http://95.47.98.99:5300/play/a02i/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", ATV Cineman
 http://ott-cdn.ucom.am/s66/04.m3u8
@@ -304,7 +304,7 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="rtg-tv" group-title="Travel & Tourism", RTG TV
-
+http://95.47.98.99:5000/play/a010/index.m3u8
 
 #EXTINF:-1 tvg-id="rtvi" group-title="", RTVi
 http://tbs01-edge11.itdc.ge/rtvi/tracks-v1a1/mono.m3u8?token=czOud9pzTftAiMTcJAAXlWSHhadV2UPmsVrBNGERny4bpNuls7IR9q9Buni95EMV6bC4L6GB8X6Ec-Z5-tRrXyhEyhnaN5PI8UHOIRRb2i_IajJW5VMnJrjGGerDozQVSIlg-uHpveKT1JNZuIrMM6wVlwgthW6cO1sOlV1V276oQva7N51_Vcoxjo-tGMyIifhNPP7GkL9dsmtv5bll69708X0COQOhjefTdMDWq74gmCsCp5omaGSkdvD3vgVJ35oXxmGfs2y-6pIb8Spern382djiBDFEtOFahhhiO91bxmJ412gmnMFqDvZQ_ZfU
@@ -469,7 +469,7 @@ http://91.234.255.242:8000/play/a02z/index.m3u8
 
 
 #EXTINF:-1 tvg-id="glazami-turista" group-title="", Глазами Туриста
-
+http://95.47.98.99:5000/play/a00o/index.m3u8
 
 #EXTINF:-1 tvg-id="detsky" group-title="Kids", Детский
 
@@ -684,7 +684,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mir-basketbola" group-title="Sport", Мир баскетбола
-
+http://95.47.98.99:5000/play/a024/index.m3u8
 
 #EXTINF:-1 tvg-id="mir-seriala" group-title="Movies", Мир сериала
 
@@ -899,8 +899,8 @@ http://46.174.83.66/CTC/index.m3u8?em9uYS1pcHR2LnJ1
 #EXTINF:-1 tvg-id="sts-love" group-title="", СТС Love
 http://91.234.255.242:8000/play/a00u/index.m3u8
 
-#EXTINF:-1 tvg-id="sarafan" group-title="", Сарафан
-
+#EXTINF:-1 tvg-id="sarafan" group-title="Entertainment", Сарафан
+http://95.47.98.99:5000/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies" tvg-logo="https://kino.watch/img/logo.png", Свежаки
 https://edge-01.kino.watch/fresh/index.m3u8
