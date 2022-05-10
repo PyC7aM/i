@@ -48,7 +48,7 @@ https://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1 tvg-id="ani" group-title="Kids", Ani
 https://bsttv.bonus-tv.ru/cdn/ani/playlist.m3u8
 
-#EXTINF:-1 tvg-id="animal-planet" group-title="", Animal Planet
+#EXTINF:-1 tvg-id="animal-planet-eu" group-title="", Animal Planet
 http://cdnua06.hls.tv/476/hls/lofksujyxti7d18v52ge4qpcwhrmb9z3/4706/stream.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", ATV Cineman
