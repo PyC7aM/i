@@ -484,10 +484,10 @@ http://v2.catcast.me/content/38720/index.m3u8
 https://2serv.mylifeisgood.ml/channels/dialogiorybalke
 
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="Sport", Дикая охота HD
-
+http://195.245.97.133:8000/channel72.m3u8
 
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="Sport", Дикая рыбалка HD
-
+http://195.245.97.133:8000/channel71.m3u8
 
 #EXTINF:-1 tvg-id="dikiy" group-title="", Дикий
 
@@ -583,37 +583,37 @@ https://autopilot.catcast.tv/content/38617/index.m3u8
 
 
 #EXTINF:-1 tvg-id="kino-tv-pl7" group-title="Movies", КиноТВ
-
+http://195.245.97.133:8000/channel124.m3u8
 
 #EXTINF:-1 tvg-id="kinokomedia" group-title="Movies", Кинокомедия
-
+http://195.245.97.133:8000/channel106.m3u8
 
 #EXTINF:-1 tvg-id="kinomiks" group-title="Movies", Киномикс
-https://sc.id-tv.kz/Kinomix_hd.m3u8
+http://195.245.97.133:8000/channel97.m3u8
 
 #EXTINF:-1 tvg-id="kinopokaz-hd" group-title="Movies", Кинопоказ
 
 
 #EXTINF:-1 tvg-id="kinopremiera-hd" group-title="Movies", Кинопремьера
-
+http://195.245.97.133:8000/channel93.m3u8
 
 #EXTINF:-1 tvg-id="kinosvidanie" group-title="Movies", Киносвидание
-https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
+http://195.245.97.133:8000/channel94.m3u8
 
 #EXTINF:-1 tvg-id="kinosemiya" group-title="Movies", Киносемья
-https://sc.id-tv.kz/Kinosemiya_hd.m3u8
+http://195.245.97.133:8000/channel92.m3u8
 
 #EXTINF:-1 tvg-id="kinoseria" group-title="Movies", Киносерия
-https://sc.id-tv.kz/Kinoseriya_hd.m3u8
+http://st1.astra-uk.ru:81/3300cbc9af590772bae4cbaa47a03a68/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kinosat" group-title="", Киносат
 
 
 #EXTINF:-1 tvg-id="kinouzhas" group-title="Movies", Киноужас
-
+http://195.245.97.133:8000/channel104.m3u8
 
 #EXTINF:-1 tvg-id="kinoxit" group-title="Movies", Кинохит
-
+http://195.245.97.133:8000/channel95.m3u8
 
 #EXTINF:-1 tvg-id="komedijnoe" group-title="", Комедийное
 
@@ -777,7 +777,7 @@ http://81.177.139.240:8000/play/a002/index.m3u8
 http://192.166.144.101:8008/play/a01t/index.m3u8
 
 #EXTINF:-1 tvg-id="oxota-i-rybalka" group-title="", Охота и рыбалка
-
+http://195.245.97.133:8000/channel74.m3u8
 
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" group-title="Sport", Охотник и рыболов HD
 http://ott-cdn.ucom.am/s62/index.m3u8
