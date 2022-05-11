@@ -28,7 +28,7 @@ http://foreign-default.persik.by:82/live/Ch228/index.m3u8
 
 
 #EXTINF:-1 tvg-id="amedia-hit" group-title="Movies", A HOME OF HBO 1
-https://sc.id-tv.kz/amedia_hit_hd.m3u8
+http://st1.astra-uk.ru:81/0eb5fb21bfa6734a7347087a6fb20fd4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="amedia-premium" group-title="Movies", A HOME OF HBO 2
 http://ott-cdn.ucom.am/s64/index.m3u8
@@ -40,7 +40,7 @@ http://ott-cdn.ucom.am/s64/index.m3u8
 http://ott-cdn.ucom.am/s45/index.m3u8
 
 #EXTINF:-1 tvg-id="amedia2" group-title="Movies", A2
-https://sc.id-tv.kz/A2.m3u8
+http://st1.astra-uk.ru:81/1597a5a9948014489de663c8fb4438db/playlist.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="", Akudji
 https://hls.goodgame.ru/hls/5346.m3u8
@@ -870,16 +870,16 @@ http://foreign-default.persik.by:82/live/Ch21/index.m3u8
 http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="russky-bestseller" group-title="", Русский бестселлер
-
+http://195.245.97.133:8000/channel119.m3u8
 
 #EXTINF:-1 tvg-id="russky-detektiv" group-title="", Русский детектив
-http://85.92.123.108:6060/play/rusdetektiv/index.m3u8
+http://st1.astra-uk.ru:81/af8898730d92ba60aa3f1835e7853533/playlist.m3u8
 
 #EXTINF:-1 tvg-id="russky-illuzion" group-title="", Русский иллюзион
 
 
 #EXTINF:-1 tvg-id="russky-roman" group-title="", Русский роман
-http://85.92.123.108:6060/play/rusroman/index.m3u8
+http://st1.astra-uk.ru:81/ca696d582f4f88493181e81e51a50960/playlist.m3u8
 
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="Sport", Рыболов
 http://ott-cdn.ucom.am/s55/index.m3u8
