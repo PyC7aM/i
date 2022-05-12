@@ -138,6 +138,9 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoverydtx
 #EXTINF:-1 tvg-id="epik-drama" group-title="Movies", Epic Drama
 http://cdnua06.hls.tv/476/hls/7z9xuvgtcsjoypl0fhkbi1e5dq6rn8am/3912/stream.m3u8
 
+#EXTINF:-1 tvg-id="euronews-en" group-title="News", Euronews (английский)
+https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="euronews" group-title="News", EuroNews
 https://sc.id-tv.kz:443/Euronews_34_35.m3u8
 
