@@ -307,10 +307,10 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=paramount_comedy
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rtd-ru" group-title="", RT Д Русский
-https://rtmp.api.rt.com/hls/rtdru.m3u8
+
 
 #EXTINF:-1 tvg-id="rtg-hd" group-title="Travel & Tourism", RTG HD 
-https://strm.yandex.ru/kal/rtg/rtg0_169_1080p.json/index-v1-a1.m3u8
+
 
 #EXTINF:-1 tvg-id="rtg-tv" group-title="Travel & Tourism", RTG TV
 http://95.47.98.99:5000/play/a010/index.m3u8
