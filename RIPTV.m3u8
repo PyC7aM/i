@@ -303,6 +303,9 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=paramount_comedy
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Portal FoxMix TV
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 
+#EXTINF:-1 tvg-id="rtd-ru" group-title="", RT Д Русский
+https://rtmp.api.rt.com/hls/rtdru.m3u8
+
 #EXTINF:-1 tvg-id="rtg-hd" group-title="Travel & Tourism", RTG HD 
 https://strm.yandex.ru/kal/rtg/rtg0_169_1080p.json/index-v1-a1.m3u8
 
@@ -565,7 +568,7 @@ http://81.177.139.240:8000/play/a00a/index.m3u8
 
 
 #EXTINF:-1 tvg-id="no_epg" group-title="Religion", Каббала ТВ
-
+https://edge3.uk.kab.tv/live/tvrus-rus-high/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kaleydoskop-tv" group-title="", Калейдоскоп ТВ
 http://cdn-01.bonus-tv.ru:8080/Kaleidoskop_edge/index.m3u8
