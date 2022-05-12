@@ -636,7 +636,7 @@ http://50.7.92.90/Kuhnya_TV/mono.m3u8
 http://85.92.123.108:6060/play/lybimoekino/index.m3u8
 
 #EXTINF:-1 tvg-id="la-minor" group-title="Music", Ля-минор
-
+http://50.7.188.186/Lya-minor/mono.m3u8
 
 #EXTINF:-1 tvg-id="m1-ua" group-title="Music", М1
 http://live.m2.tv/hls2/720/stream.m3u8
@@ -645,7 +645,7 @@ http://live.m2.tv/hls2/720/stream.m3u8
 http://live.m2.tv/hls3/720/stream.m3u8
 
 #EXTINF:-1 tvg-id="mama" group-title="", Мама
-
+http://50.7.188.186/mama_tv/mono.m3u8
 
 #EXTINF:-1 tvg-id="match-tv" group-title="Sport", Матч! HD
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=matchhd_nocensored
@@ -690,7 +690,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://95.47.98.99:5000/play/a024/index.m3u8
 
 #EXTINF:-1 tvg-id="mir-seriala" group-title="Movies", Мир сериала
-
+http://195.245.97.133:8000/channel89.m3u8
 
 #EXTINF:-1 tvg-id="mosfilm" group-title="Movies", Мосфильм. Золотая коллекция
 http://foreign-default.persik.by:82/livehq/Ch342/index.m3u8
@@ -699,7 +699,7 @@ http://foreign-default.persik.by:82/livehq/Ch342/index.m3u8
 
 
 #EXTINF:-1 tvg-id="moya-planeta" group-title="", Моя Планета
-https://sc.id-tv.kz/MoyaPlaneta_34_35.m3u8
+http://50.7.92.90/IQ_HD/mono.m3u8
 
 #EXTINF:-1 tvg-id="muzhskoy" group-title="", Мужской
 http://50.7.188.186/Muzhskoy/mono.m3u8
@@ -714,13 +714,13 @@ http://85.92.123.108:6060/play/muztv/index.m3u8
 http://91.234.255.242:8000/play/a01l/index.m3u8
 
 #EXTINF:-1 tvg-id="mult" group-title="Kids", Мульт
-
+http://195.245.97.133:8000/channel131.m3u8
 
 #EXTINF:-1 tvg-id="multimuzyka" group-title="Kids", Мульт и музыка
 http://81.177.139.240:8000/play/a007/index.m3u8
 
 #EXTINF:-1 tvg-id="multimania" group-title="Kids", Мультиландия
-
+http://50.7.188.186/Multimaniya/mono.m3u8
 
 #EXTINF:-1 tvg-id="nst" group-title="Movies", НСТ
 https://sc.id-tv.kz/NSTV.m3u8
