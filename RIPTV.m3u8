@@ -514,7 +514,7 @@ http://91.234.255.242:8000/play/a005/index.m3u8
 https://edge-01.kino.watch/docu/index.m3u8
 
 #EXTINF:-1 tvg-id="domkino" group-title="Movies", Дом кино
-http://91.234.255.242:8000/play/a01j/index.m3u8
+http://st1.astra-uk.ru:81/7bfe4cf6278ff80748c9d021cf7144d8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="domkino-premium" group-title="", Дом кино Премиум HD
 
