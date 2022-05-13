@@ -804,7 +804,7 @@ http://rtmp.one.by:2200
 http://rtmp.one.by:2300
 
 #EXTINF:-1 tvg-id="pervy" group-title="General", Первый канал
-http://foreign-default.persik.by:82/live/Ch31/index.m3u8
+http://st1.astra-uk.ru:81/5c5817bdb4c149e2a52473a954cdfbfe/playlist.m3u8
 
 #EXTINF:-1 tvg-id="eureka-hd" group-title="", Первый Космический
 https://livetv.mylifeisgood.ml/channels/firstspace
