@@ -903,7 +903,7 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=smile
 http://46.174.83.66/CTC/index.m3u8?em9uYS1pcHR2LnJ1
 
 #EXTINF:-1 tvg-id="sts-kids-hd" group-title="Kids", СТС Kids HD
-
+http://st1.astra-uk.ru:81/cad39494c69428c433fa7e51eca2be71/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sts-love" group-title="", СТС Love
 http://91.234.255.242:8000/play/a00u/index.m3u8
