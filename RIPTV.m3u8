@@ -22,7 +22,7 @@ https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m
 http://cdnua06.hls.tv/476/hls/z1k0p9myotv8jq3suahei67x2c4w5rlf/166/stream.m3u8
 
 #EXTINF:-1 tvg-id="365-dnej" group-title="", 365 дней ТВ
-
+http://50.7.188.186/365_dney/mono.m3u8
 
 #EXTINF:-1 tvg-id="9kanal-israel" group-title="", 9 канал Израиль
 
@@ -64,7 +64,7 @@ http://ott-cdn.ucom.am/s94/04.m3u8
 
 
 #EXTINF:-1 tvg-id="baby-tv" group-title="Kids", Baby TV
-
+http://50.7.188.186/Baby_TV/mono.m3u8
 
 #EXTINF:-1 tvg-id="backustv" group-title="Movies", BackusTV
 http://stream.backustv.ru/live/btv/index.m3u8
@@ -118,7 +118,7 @@ http://50.7.188.186/cinema/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="da-vinci" group-title="Kids", Da Vinci Learning
-
+http://195.245.97.133:8000/channel81.m3u8
 
 #EXTINF:-1 tvg-id="deutsche-welle-eu" group-title="News", Deutsche Welle Europe
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
@@ -130,7 +130,7 @@ https://livetv.mylifeisgood.ml/channels/discovery
 https://livetv.mylifeisgood.ml/channels/discoveryscience
 
 #EXTINF:-1 tvg-id="disney" group-title="Kids", Disney
-
+http://50.7.92.90/Disney_rus/mono.m3u8
 
 #EXTINF:-1 tvg-id="dtx" group-title="", DTX
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoverydtx
@@ -162,8 +162,8 @@ http://cdnua06.hls.tv/476/hls/razp1jl5x0st7cedoni3bmyqv92w8fkh/231/stream.m3u8
 #EXTINF:-1 tvg-id="filmbox-ru" group-title="", FilmBox Russia
 http://cdnua06.hls.tv/476/hls/3slzw2dju4xfic98a0nbk17gmtqovhrp/400/stream.m3u8
 
-#EXTINF:-1 tvg-id="flux-hd" group-title="Movies", FLUX HD
-
+#EXTINF:-1 tvg-id="food-network" group-title="", Food Network
+http://50.7.92.90/Food_network_HD/mono.m3u8
 
 #EXTINF:-1 tvg-id="fox" group-title="", Fox
 http://50.7.188.186/FOX_HD/mono.m3u8
