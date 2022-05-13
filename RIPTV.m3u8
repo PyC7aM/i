@@ -324,14 +324,14 @@ http://tbs01-edge11.itdc.ge/rtvi/tracks-v1a1/mono.m3u8?token=czOud9pzTftAiMTcJAA
 #EXTINF:-1 tvg-id="setanta-sports-plus" group-title="Sport", Setanta Sports+
 
 
-#EXTINF:-1 tvg-id="sony-tv" group-title="", Sony ТВ HD
-http://50.7.188.186/SET/mono.m3u8
-
 #EXTINF:-1 tvg-id="sony-scifi" group-title="", Sony Sci-Fi
 http://st1.astra-uk.ru:81/4a5d4b8543f34cadc7eb9ea8fcbf88a0/playlist.m3u8?ts
 
 #EXTINF:-1 tvg-id="sony-turbo" group-title="Movies", Sony Turbo
 http://st1.astra-uk.ru:81/cc719f0f30037279d03bf2fd542a8088/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sony-tv" group-title="", Sony ТВ HD
+http://50.7.188.186/SET/mono.m3u8
 
 #EXTINF:-1 tvg-id="star-family-ua" group-title="", Star Family Украина
 http://cdnua06.hls.tv/476/hls/vxb7z4lw2h3andoesjtpfq01m5gcy69u/3996/stream.m3u8
