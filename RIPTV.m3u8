@@ -882,7 +882,7 @@ http://foreign-default.persik.by:82/live/Ch21/index.m3u8
 http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="russky-bestseller" group-title="", Русский бестселлер
-http://195.245.97.133:8000/channel119.m3u8
+http://st1.astra-uk.ru:81/cd59211874cc4acb0dbae03a7f5b5fbe/playlist.m3u8
 
 #EXTINF:-1 tvg-id="russky-detektiv" group-title="", Русский детектив
 http://st1.astra-uk.ru:81/af8898730d92ba60aa3f1835e7853533/playlist.m3u8
