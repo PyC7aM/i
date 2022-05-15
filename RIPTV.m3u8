@@ -24,7 +24,7 @@ https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m
 http://cdnua06.hls.tv/476/hls/z1k0p9myotv8jq3suahei67x2c4w5rlf/166/stream.m3u8
 
 #EXTINF:-1 tvg-id="365-dnej" group-title="", 365 дней ТВ
-
+http://foreign-default.persik.by:82/live/Ch228/index.m3u8
 
 #EXTINF:-1 tvg-id="9kanal-israel" group-title="", 9 канал Израиль
 
@@ -38,7 +38,7 @@ http://st1.astra-uk.ru:81/0eb5fb21bfa6734a7347087a6fb20fd4/playlist.m3u8
 http://ott-cdn.ucom.am/s64/index.m3u8
 
 #EXTINF:-1 tvg-id="amc" group-title="", AMC
-
+https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="amedia1" group-title="Movies", A1
 http://ott-cdn.ucom.am/s45/index.m3u8
@@ -70,7 +70,7 @@ http://ott-cdn.ucom.am/s94/04.m3u8
 # B
 
 #EXTINF:-1 tvg-id="baby-tv" group-title="Kids", Baby TV
-http://50.7.188.186/Baby_TV/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="backustv" group-title="Movies", BackusTV
 http://stream.backustv.ru/live/btv/index.m3u8
@@ -82,7 +82,7 @@ http://stream.backustv.ru/live/btv2/index.m3u8
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 #EXTINF:-1 tvg-id="bollywood-hd" group-title="Movies", Bollywood
-http://50.7.92.90/Bollywood_HD/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="bolt" group-title="", Bolt
 
@@ -114,10 +114,10 @@ https://livetv.mylifeisgood.ml/channels/bridgetvshlyager
 http://saveukraine.only4.tv/802/video.m3u8?token=saveUkrain
 
 #EXTINF:-1 tvg-id="cbs-reality" group-title="Entertainment", CBS Reality
-http://50.7.92.90/CBS_Reality/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="cinema-ru" group-title="Movies", Cinema
-http://50.7.188.186/cinema/mono.m3u8
+https://sc.id-tv.kz:443/Cinema_36_37.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Cinemax
 
@@ -140,7 +140,7 @@ https://livetv.mylifeisgood.ml/channels/discovery
 https://livetv.mylifeisgood.ml/channels/discoveryscience
 
 #EXTINF:-1 tvg-id="disney" group-title="Kids", Disney
-http://50.7.92.90/Disney_rus/mono.m3u8
+http://lb.wisp.cat/lb0/Disney/video.m3u8?token=FREETVUKRAINE
 
 #EXTINF:-1 tvg-id="dtx" group-title="", DTX
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoverydtx
