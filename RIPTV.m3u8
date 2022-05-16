@@ -180,13 +180,13 @@ http://cdnua06.hls.tv/476/hls/3slzw2dju4xfic98a0nbk17gmtqovhrp/400/stream.m3u8
 
 
 #EXTINF:-1 tvg-id="fox" group-title="", Fox
-http://50.7.188.186/FOX_HD/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="no_epg" group-title="", Fox Comedy
 
 
 #EXTINF:-1 tvg-id="foxlife" group-title="", Fox Life
-http://50.7.188.186/Fox_Life_HD/mono.m3u8
+http://foreign-default.persik.by:82/live/Ch340/index.m3u8
 
 #EXTINF:-1 tvg-id="foxlife-cis" group-title="", FoxLife Украина
 
@@ -232,7 +232,7 @@ http://45.71.185.142:8500/play/a010
 http://45.71.185.142:8500/play/a011
 
 #EXTINF:-1 tvg-id="hd-life" group-title="", HD Life
-http://50.7.188.186/HD_Life/mono.m3u8
+http://lb.wisp.cat/lb0/HDL/video.m3u8?token=FREETVUKRAINE
 
 #EXTINF:-1 tvg-id="history-ru" group-title="", History
 http://cdnua06.hls.tv/476/hls/gy8vpi1hqu26tse7nx3rfmdk4wjc950a/244/stream.m3u8
@@ -332,7 +332,7 @@ http://cdnua06.hls.tv/476/hls/xuti0l47bsgzvop5e91wcdyarm32fjhq/4254/stream.m3u8
 http://cdnua06.hls.tv/476/hls/j1w9epfq87ck36nxt0b4yuamz2sidl5v/4772/stream.m3u8
 
 #EXTINF:-1 tvg-id="paramount-comedy" group-title="", Paramount Comedy
-http://50.7.188.186/Paramount_Comedy/mono.m3u8
+https://livetv.mylifeisgood.ml/channels/paramount_comedy
 
 #EXTINF:-1 tvg-id="plan-b" group-title="", Plan B
 
@@ -359,10 +359,10 @@ http://tbs01-edge11.itdc.ge/rtvi/tracks-v1a1/mono.m3u8?token=czOud9pzTftAiMTcJAA
 # S
 
 #EXTINF:-1 tvg-id="setanta-sports" group-title="Sport", Setanta Sports
-
+https://livetv.mylifeisgood.ml/channels/setantahd
 
 #EXTINF:-1 tvg-id="setanta-sports-plus" group-title="Sport", Setanta Sports+
-
+https://livetv.mylifeisgood.ml/channels/setantaplus
 
 #EXTINF:-1 tvg-id="sony-scifi" group-title="", Sony Sci-Fi
 http://st1.astra-uk.ru:81/4a5d4b8543f34cadc7eb9ea8fcbf88a0/playlist.m3u8?ts
@@ -371,7 +371,7 @@ http://st1.astra-uk.ru:81/4a5d4b8543f34cadc7eb9ea8fcbf88a0/playlist.m3u8?ts
 http://st1.astra-uk.ru:81/cc719f0f30037279d03bf2fd542a8088/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sony-tv" group-title="", Sony ТВ HD
-http://50.7.188.186/SET/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="star-family-ua" group-title="", Star Family Украина
 http://cdnua06.hls.tv/476/hls/vxb7z4lw2h3andoesjtpfq01m5gcy69u/3996/stream.m3u8
@@ -433,10 +433,10 @@ http://50.7.92.90/TLC_HD/mono.m3u8
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=trash
 
 #EXTINF:-1 tvg-id="travel-channel" group-title="Travel & Tourism", Travel Channel
-http://lb.wisp.cat/lb0/TravelChannelHD/video.m3u8?token=FREETVUKRAINE
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/307/stream.m3u8
 
 #EXTINF:-1 tvg-id="travel-adventure" group-title="Travel & Tourism", Travel+Adventure
-http://50.7.188.186/Travel_Adventure_HD/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="tvxxi" group-title="", TV XXI
 http://85.92.123.108:6060/play/tvxxi/index.m3u8
@@ -572,7 +572,7 @@ http://195.245.97.133:8000/channel71.m3u8
 
 
 #EXTINF:-1 tvg-id="dozhd" group-title="", Дождь
-http://50.7.188.186/Dozhd/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="doktor" group-title="", Доктор
 http://91.234.255.242:8000/play/a005/index.m3u8
@@ -598,7 +598,7 @@ http://91.234.255.242:8000/play/a00r/index.m3u8
 http://91.234.255.242:8000/play/a021/index.m3u8
 
 #EXTINF:-1 tvg-id="eda-hd" group-title="", Еда Премиум
-http://50.7.188.186/Eda/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="enisey-region" group-title="Regional", Енисей регион
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
@@ -636,7 +636,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 http://91.234.255.242:8000/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-id="indiyskoe-kino" group-title="Movies", Индийское кино
-http://50.7.188.186/Indiya_TV/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="istoria" group-title="", История
 http://ott-cdn.ucom.am/s40/index.m3u8
