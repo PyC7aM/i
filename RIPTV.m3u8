@@ -177,7 +177,7 @@ http://cdnua06.hls.tv/476/hls/razp1jl5x0st7cedoni3bmyqv92w8fkh/231/stream.m3u8
 http://cdnua06.hls.tv/476/hls/3slzw2dju4xfic98a0nbk17gmtqovhrp/400/stream.m3u8
 
 #EXTINF:-1 tvg-id="food-network" group-title="", Food Network
-http://50.7.92.90/Food_network_HD/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="fox" group-title="", Fox
 http://50.7.188.186/FOX_HD/mono.m3u8
@@ -205,7 +205,7 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=gulli
 # H
 
 #EXTINF:-1 tvg-id="h2" group-title="", H2
-http://50.7.92.90/H2_HD/mono.m3u8
+http://lb.wisp.cat/lb0/H2HD/video.m3u8?token=FREETVUKRAINE
 
 #EXTINF:-1 tvg-id="hbo-hd" group-title="Movies", HBO
 
@@ -301,22 +301,22 @@ http://192.166.144.101:8008/play/a004/index.m3u8
 # N
 
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="", Nat Geo Wild
-http://50.7.92.90/Nat_Geo_Wild/mono.m3u8
+http://lb.wisp.cat/lb0/NatGeoWildHD/video.m3u8?token=FREETVUKRAINE
 
 #EXTINF:-1 tvg-id="national-geographic" group-title="", National Geographic
-http://50.7.188.186/National_Geo_HD/mono.m3u8
+http://lb.wisp.cat/lb0/NationalGeographicHD/video.m3u8?token=FREETVUKRAINE
 
 #EXTINF:-1 tvg-id="nick-jr" group-title="Kids", Nick Jr
-http://saveukraine.only4.tv/814/video.m3u8?token=saveUkrain
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/277/stream.m3u8
 
 #EXTINF:-1 tvg-id="nickelodeon-ru" group-title="Kids", Nickelodeon
-http://50.7.92.90/Nickelodeon/mono.m3u8
+http://cdnua06.hls.tv/476/hls/ty0fmrljgwh8zvd14e3puq7cbxkiosa2/278/stream.m3u8
 
 #EXTINF:-1 tvg-id="nickelodeon-hd" group-title="Kids", Nickelodeon HD
-http://saveukraine.only4.tv/14106/video.m3u8?token=saveUkrain
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=nickelodeon-hd
 
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", NorMax
-
+#EXTINF:-1 tvg-id="nicktoons" group-title="Kids", Nicktoons
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4773/stream.m3u8
 
 # O
 
