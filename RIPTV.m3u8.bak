@@ -636,7 +636,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 http://91.234.255.242:8000/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-id="indiyskoe-kino" group-title="Movies", Индийское кино
-http://50.7.188.186/Indiya_TV/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="istoria" group-title="", История
 http://ott-cdn.ucom.am/s40/index.m3u8
