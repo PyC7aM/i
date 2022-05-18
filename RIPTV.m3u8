@@ -823,7 +823,7 @@ http://81.177.139.240:8000/play/a007/index.m3u8
 https://sc.id-tv.kz/NSTV.m3u8
 
 #EXTINF:-1 tvg-id="ntv" group-title="", НТВ
-http://foreign-default.persik.by:82/livehq/Ch78hd/index.m3u8
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=ntvhd
 
 #EXTINF:-1 tvg-id="ntv-mir" group-title="", НТВ-Мир
 http://ott-cdn.ucom.am/s17/index.m3u8
@@ -902,7 +902,7 @@ http://rtmp.one.by:2200
 http://rtmp.one.by:2300
 
 #EXTINF:-1 tvg-id="pervy" group-title="General", Первый канал
-http://st1.astra-uk.ru:81/5c5817bdb4c149e2a52473a954cdfbfe/playlist.m3u8
+http://185.44.75.202:38166/play/a04n/index.m3u8
 
 #EXTINF:-1 tvg-id="eureka-hd" group-title="", Первый Космический
 https://livetv.mylifeisgood.ml/channels/firstspace
