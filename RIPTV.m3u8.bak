@@ -238,6 +238,9 @@ http://lb.wisp.cat/lb0/HDL/video.m3u8?token=FREETVUKRAINE
 #EXTINF:-1 tvg-id="history-ru" group-title="", History
 http://cdnua06.hls.tv/476/hls/gy8vpi1hqu26tse7nx3rfmdk4wjc950a/244/stream.m3u8
 
+#EXTINF:-1 tvg-id="hollywood-hd" group-title="", Hollywood HD
+http://cdnua06.hls.tv/476/hls/px7tgkz5mwa01hubrl4y2evcsif683q9/262/stream.m3u8
+
 # I
 
 #EXTINF:-1 tvg-id="id-xtra-ru" group-title="", Investigation Discovery
@@ -680,10 +683,10 @@ https://autopilot.catcast.tv/content/38617/index.m3u8
 http://195.245.97.133:8000/channel124.m3u8
 
 #EXTINF:-1 tvg-id="kinokomedia" group-title="Movies", Кинокомедия
-http://195.245.97.133:8000/channel106.m3u8
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=kinokomedia
 
 #EXTINF:-1 tvg-id="kinomiks" group-title="Movies", Киномикс
-http://195.245.97.133:8000/channel97.m3u8
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=kinomix
 
 #EXTINF:-1 tvg-id="kinopokaz-hd" group-title="Movies", Кинопоказ
 
@@ -695,16 +698,16 @@ http://195.245.97.133:8000/channel93.m3u8
 http://195.245.97.133:8000/channel94.m3u8
 
 #EXTINF:-1 tvg-id="kinosemiya" group-title="Movies", Киносемья
-http://195.245.97.133:8000/channel92.m3u8
+https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
 
 #EXTINF:-1 tvg-id="kinoseria" group-title="Movies", Киносерия
-
+https://sc.id-tv.kz/Kinoseriya_hd.m3u8
 
 #EXTINF:-1 tvg-id="kinosat" group-title="", Киносат
 
 
 #EXTINF:-1 tvg-id="kinouzhas" group-title="Movies", Киноужас
-http://195.245.97.133:8000/channel104.m3u8
+https://sc.id-tv.kz:443/Kinouzhas_hd_34_35.m3u8
 
 #EXTINF:-1 tvg-id="kinoxit" group-title="Movies", Кинохит
 http://195.245.97.133:8000/channel95.m3u8
@@ -982,19 +985,19 @@ http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
 http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="russky-bestseller" group-title="", Русский бестселлер
-http://st1.astra-uk.ru:81/cd59211874cc4acb0dbae03a7f5b5fbe/playlist.m3u8
+http://185.44.75.202:38166/play/a0an/index.m3u8
 
 #EXTINF:-1 tvg-id="russky-detektiv" group-title="", Русский детектив
-http://st1.astra-uk.ru:81/af8898730d92ba60aa3f1835e7853533/playlist.m3u8
+http://185.44.75.202:38166/play/a0an/index.m3u8
 
 #EXTINF:-1 tvg-id="russky-ekstrim" group-title="", Русский экстрим
 
 
 #EXTINF:-1 tvg-id="russky-illuzion" group-title="", Русский иллюзион
-
+https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
 
 #EXTINF:-1 tvg-id="russky-roman" group-title="", Русский роман
-http://st1.astra-uk.ru:81/ca696d582f4f88493181e81e51a50960/playlist.m3u8
+http://185.44.75.202:38166/play/a0aq/index.m3u8
 
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="Sport", Рыболов
 http://ott-cdn.ucom.am/s55/index.m3u8
