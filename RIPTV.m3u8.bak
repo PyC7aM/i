@@ -958,7 +958,7 @@ http://foreign-default.persik.by:82/live/Ch352/index.m3u8
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 
 #EXTINF:-1 tvg-id="rentv" group-title="General", Рен ТВ
-
+http://194.113.234.110:4011
 
 #EXTINF:-1 tvg-id="rentv-int" group-title="General", Рен ТВ International
 https://sc.id-tv.kz/RenTV_36_37.m3u8
@@ -1066,7 +1066,7 @@ http://192.166.144.101:8008/play/a01h/index.m3u8
 http://stream-norst.cf:8080/tvoetv/index.m3u8
 
 #EXTINF:-1 tvg-id="texno-24" group-title="", Техно 24
-
+http://194.113.234.110:4066
 
 #EXTINF:-1 tvg-id="tochka-tv" group-title="", Точка
 http://192.166.144.101:8008/play/a018/index.m3u8
