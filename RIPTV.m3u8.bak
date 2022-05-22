@@ -716,7 +716,7 @@ http://195.245.97.133:8000/channel95.m3u8
 
 
 #EXTINF:-1 tvg-id="russkaya-komedia" group-title="", Комедия
-
+http://194.113.234.110:4060
 
 #EXTINF:-1 tvg-id="konny-mir" group-title="Sport", Конный мир
 http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8
@@ -809,7 +809,7 @@ http://195.245.97.133:8000/channel99.m3u8
 http://85.92.123.108:6060/play/muztv/index.m3u8
 
 #EXTINF:-1 tvg-id="muzyka-pervogo" group-title="Music", Музыка Первого
-http://st1.astra-uk.ru:81/c3cf8febe32962c8e47fe38878831e6f/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="mult" group-title="Kids", Мульт
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=mult
@@ -888,7 +888,7 @@ http://81.177.139.240:8000/play/a002/index.m3u8
 http://192.166.144.101:8008/play/a01t/index.m3u8
 
 #EXTINF:-1 tvg-id="oxota-i-rybalka" group-title="", Охота и рыбалка
-http://195.245.97.133:8000/channel74.m3u8
+http://194.113.234.110:4042
 
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" group-title="Sport", Охотник и рыболов HD
 http://ott-cdn.ucom.am/s62/index.m3u8
@@ -976,10 +976,10 @@ http://46.174.83.66/Retro/index.m3u8
 http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
 
 #EXTINF:-1 tvg-id="rossia-24" group-title="News", Россия 24
-
+http://194.113.234.110:4007
 
 #EXTINF:-1 tvg-id="kultura" group-title="", Россия К
-
+http://194.113.234.110:4006
 
 #EXTINF:-1 tvg-id="rostov-papa" group-title="Regional", Ростов-папа
 http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
@@ -994,7 +994,7 @@ http://185.44.75.202:38166/play/a0an/index.m3u8
 
 
 #EXTINF:-1 tvg-id="russky-illuzion" group-title="", Русский иллюзион
-https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
+http://194.113.234.110:4031
 
 #EXTINF:-1 tvg-id="russky-roman" group-title="", Русский роман
 http://185.44.75.202:38166/play/a0aq/index.m3u8
@@ -1014,10 +1014,9 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=smile
 http://46.174.83.66/CTC/index.m3u8?em9uYS1pcHR2LnJ1
 
 #EXTINF:-1 tvg-id="sts-kids-hd" group-title="Kids", СТС Kids HD
-http://st1.astra-uk.ru:81/cad39494c69428c433fa7e51eca2be71/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sts-love" group-title="", СТС Love
-http://st1.astra-uk.ru:81/dc8c9f8d580ce96cd5658a06ffc15b40/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="sarafan" group-title="Entertainment", Сарафан
 http://95.47.98.99:5000/play/a00e/index.m3u8
