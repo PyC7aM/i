@@ -679,8 +679,8 @@ https://autopilot.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="kino-ultra-hd" group-title="Movies", Кино UHD
 
 
-#EXTINF:-1 tvg-id="kino-tv-pl7" group-title="Movies", КиноТВ
-http://195.245.97.133:8000/channel124.m3u8
+#EXTINF:-1 tvg-id="kino-tv" group-title="Movies", КиноТВ
+http://194.113.234.110:4056
 
 #EXTINF:-1 tvg-id="kinokomedia" group-title="Movies", Кинокомедия
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=kinokomedia
