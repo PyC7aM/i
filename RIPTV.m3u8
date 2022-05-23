@@ -35,8 +35,7 @@ http://46.174.83.66/365/index.m3u8
 
 
 #EXTINF:-1 tvg-id="amedia-premium" group-title="Movies", A HOME OF HBO 2
-http://ott-cdn.ucom.am/s64/index.m3u8
-
+http://193.233.9.49/streams/media/Amedia_Premium_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="amc" group-title="", AMC
 https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
@@ -348,14 +347,14 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 
 # R
 
-#EXTINF:-1 tvg-id="rtd-ru" group-title="", RT Д Русский
-
+#EXTINF:-1 tvg-id="rtd-en" group-title="", RT Д English
+https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
 
 #EXTINF:-1 tvg-id="rtg-hd" group-title="Travel & Tourism", RTG HD 
-
+https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 
 #EXTINF:-1 tvg-id="rtg-tv" group-title="Travel & Tourism", RTG TV
-http://95.47.98.99:5000/play/a010/index.m3u8
+
 
 #EXTINF:-1 tvg-id="rtvi" group-title="", RTVi
 http://tbs01-edge11.itdc.ge/rtvi/tracks-v1a1/mono.m3u8?token=czOud9pzTftAiMTcJAAXlWSHhadV2UPmsVrBNGERny4bpNuls7IR9q9Buni95EMV6bC4L6GB8X6Ec-Z5-tRrXyhEyhnaN5PI8UHOIRRb2i_IajJW5VMnJrjGGerDozQVSIlg-uHpveKT1JNZuIrMM6wVlwgthW6cO1sOlV1V276oQva7N51_Vcoxjo-tGMyIifhNPP7GkL9dsmtv5bll69708X0COQOhjefTdMDWq74gmCsCp5omaGSkdvD3vgVJ35oXxmGfs2y-6pIb8Spern382djiBDFEtOFahhhiO91bxmJ412gmnMFqDvZQ_ZfU
@@ -576,7 +575,7 @@ http://v2.catcast.me/content/38720/index.m3u8
 http://109.200.130.124:15500/dikiy
 
 #EXTINF:-1 tvg-id="dozhd" group-title="", Дождь
-
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=tvrainhd
 
 #EXTINF:-1 tvg-id="doktor" group-title="", Доктор
 http://91.234.255.242:8000/play/a005/index.m3u8
@@ -785,7 +784,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mir-basketbola" group-title="Sport", Мир баскетбола
-http://95.47.98.99:5000/play/a024/index.m3u8
+
 
 #EXTINF:-1 tvg-id="mir-seriala" group-title="Movies", Мир сериала
 
@@ -976,10 +975,10 @@ http://46.174.83.66/Retro/index.m3u8
 http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
 
 #EXTINF:-1 tvg-id="rossia-24" group-title="News", Россия 24
-http://194.113.234.110:4007
+https://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 
 #EXTINF:-1 tvg-id="kultura" group-title="", Россия К
-http://194.113.234.110:4006
+https://radio-live-mg.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
 
 #EXTINF:-1 tvg-id="rostov-papa" group-title="Regional", Ростов-папа
 http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
@@ -1019,7 +1018,7 @@ http://46.174.83.66/CTC/index.m3u8?em9uYS1pcHR2LnJ1
 
 
 #EXTINF:-1 tvg-id="sarafan" group-title="Entertainment", Сарафан
-http://95.47.98.99:5000/play/a00e/index.m3u8
+
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies" tvg-logo="https://kino.watch/img/logo.png", Свежаки
 https://edge-01.kino.watch/fresh/index.m3u8
