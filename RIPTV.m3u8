@@ -186,7 +186,7 @@ http://109.200.130.124:15500/fox
 
 
 #EXTINF:-1 tvg-id="foxlife" group-title="", Fox Life
-http://foreign-default.persik.by:82/live/Ch340/index.m3u8
+
 
 #EXTINF:-1 tvg-id="foxlife-cis" group-title="", FoxLife Украина
 
@@ -951,7 +951,7 @@ http://46.174.83.66/5Kanal/index.m3u8
 # Р
 
 #EXTINF:-1 tvg-id="rtr-planeta-eu" group-title="General", РТР-Планета
-http://foreign-default.persik.by:82/live/Ch352/index.m3u8
+
 
 #EXTINF:-1 tvg-id="radio-shanson" group-title="Music", Радио Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
