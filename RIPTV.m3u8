@@ -3,7 +3,7 @@
 # Nos
 
 #EXTINF:-1 tvg-id="10kanal-novokuzneck" group-title="Regional", 10 канал Новокузнецк
-http://kuzbass1.ru:8082/10kanal/10kanal_720/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="12-omsk" group-title="Regional", 12 канал Омск
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
