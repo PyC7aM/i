@@ -32,7 +32,7 @@ http://streamer.enchart.one/42/857710aeeb5231d0aab50a325105c63c095a1d3b/52/strea
 # A
 
 #EXTINF:-1 tvg-id="amedia-hit" group-title="Movies", A HOME OF HBO 1
-
+http://89.104.114.26:8080/amedia_hit_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="amedia-premium" group-title="Movies", A HOME OF HBO 2
 http://193.233.9.49/streams/media/Amedia_Premium_HD/index.m3u8
