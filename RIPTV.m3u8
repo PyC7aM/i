@@ -75,6 +75,9 @@ http://ott-cdn.ucom.am/s94/04.m3u8
 #EXTINF:-1 tvg-id="backustv" group-title="Movies", BackusTV
 http://stream.backustv.ru/live/btv/index.m3u8
 
+#EXTINF:-1 tvg-id="backustv-music" group-title="Music", BackusTV Music
+https://stream.backustv.ru/live/forilooktv/index.m3u8
+
 #EXTINF:-1 tvg-id="backustv-horror" group-title="Movies", BackusTV Страшное
 http://stream.backustv.ru/live/btv2/index.m3u8
 
@@ -371,10 +374,10 @@ https://livetv.mylifeisgood.ml/channels/setantaplus
 http://109.200.130.124:15500/sonyscifi
 
 #EXTINF:-1 tvg-id="sony-turbo" group-title="Movies", Sony Turbo
-http://streamer.enchart.one/42/857710aeeb5231d0aab50a325105c63c095a1d3b/150/stream.m3u8
+
 
 #EXTINF:-1 tvg-id="sony-tv" group-title="", Sony ТВ HD
-
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5107
 
 #EXTINF:-1 tvg-id="star-family-ua" group-title="", Star Family Украина
 http://cdnua06.hls.tv/476/hls/vxb7z4lw2h3andoesjtpfq01m5gcy69u/3996/stream.m3u8
@@ -442,7 +445,7 @@ http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/307/stream.m3u8
 
 
 #EXTINF:-1 tvg-id="tvxxi" group-title="", TV XXI
-http://85.92.123.108:6060/play/tvxxi/index.m3u8
+http://213.172.73.171:8081/nimble_live/1169__TV_21M/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv1000" group-title="Movies", TV1000
 https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
@@ -712,7 +715,7 @@ https://sc.id-tv.kz:443/Kinouzhas_hd_34_35.m3u8
 
 
 #EXTINF:-1 tvg-id="komedijnoe-hd" group-title="", Комедийное HD
-
+http://185.37.150.46/Kinopokaz2_HD/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="russkaya-komedia" group-title="", Комедия
 http://194.113.234.110:4060
