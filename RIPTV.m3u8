@@ -64,7 +64,6 @@ http://ott-cdn.ucom.am/s48/04.m3u8
 #EXTINF:-1 tvg-id="atv-kinoman" group-title="Movies", ATV Kinoman
 http://ott-cdn.ucom.am/s94/04.m3u8
 
-
 # B
 
 #EXTINF:-1 tvg-id="baby-tv" group-title="Kids", Baby TV
@@ -86,7 +85,7 @@ http://stream.backustv.ru/live/btv2/index.m3u8
 
 
 #EXTINF:-1 tvg-id="bolt" group-title="", Bolt
-http://c1c6dfd1.ottolok.net/iptv/PUMTWHGALYEKHF/6322/index.m3u8
+
 
 #EXTINF:-1 tvg-id="bridge-tv" group-title="Music", Bridge TV
 https://livetv.mylifeisgood.ml/channels/bridgetv24h
@@ -141,7 +140,7 @@ https://livetv.mylifeisgood.ml/channels/discovery
 https://livetv.mylifeisgood.ml/channels/discoveryscience
 
 #EXTINF:-1 tvg-id="disney" group-title="Kids", Disney
-http://lb.wisp.cat/lb0/Disney/video.m3u8?token=FREETVUKRAINE
+
 
 #EXTINF:-1 tvg-id="dtx" group-title="", DTX
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoverydtx
@@ -158,7 +157,7 @@ https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="eurosport1" group-title="Sport", Eurosport 1
-https://kv-k21-mc02.ollcdn.net/trku-live/20/a5d0f259a48c6bef7e875a438724b9c6/61eb41f8/eurosport1/eurosport1.m3u8
+
 
 #EXTINF:-1 tvg-id="eurosport2" group-title="Sport", Eurosport 2
 https://livetv.mylifeisgood.ml/channels/eurosport2
@@ -193,7 +192,7 @@ http://109.200.130.124:15500/fox
 
 
 #EXTINF:-1 tvg-id="france24-en" group-title="News", France 24 English
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/03.m3u8
+
 
 # G
 
@@ -206,7 +205,7 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=gulli
 # H
 
 #EXTINF:-1 tvg-id="h2" group-title="", H2
-http://lb.wisp.cat/lb0/H2HD/video.m3u8?token=FREETVUKRAINE
+
 
 #EXTINF:-1 tvg-id="hbo-hd" group-title="Movies", HBO
 
@@ -233,7 +232,7 @@ http://45.71.185.142:8500/play/a010
 http://45.71.185.142:8500/play/a011
 
 #EXTINF:-1 tvg-id="hd-life" group-title="", HD Life
-http://lb.wisp.cat/lb0/HDL/video.m3u8?token=FREETVUKRAINE
+
 
 #EXTINF:-1 tvg-id="history-ru" group-title="", History
 http://cdnua06.hls.tv/476/hls/gy8vpi1hqu26tse7nx3rfmdk4wjc950a/244/stream.m3u8
@@ -250,11 +249,11 @@ https://livetv.mylifeisgood.ml/channels/discoveryxtra
 
 # K
 
-#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Kronehit
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-
 #EXTINF:-1 tvg-id="no_epg_mult" group-title="Kids", KINDER TV
 https://v2.catcast.tv/content/38144/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Kronehit
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
 # L
 
