@@ -296,7 +296,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 http://79.172.214.45:10190/stream.m3u8
 
 #EXTINF:-1 tvg-id="musicbox" group-title="Music", MusicBox Gold
-http://192.166.144.101:8008/play/a004/index.m3u8
+
 
 #EXTINF:-1 tvg-id="russian-musicbox" group-title="Music", MusicBox Russia
 
@@ -463,7 +463,7 @@ http://85.206.57.253:8981/l85/mono.m3u8
 https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvmchannel" group-title="", TVMChannel
-http://192.166.144.101:8008/play/a01i/index.m3u8
+
 
 # U
 
@@ -679,7 +679,7 @@ https://autopilot.catcast.tv/content/38617/index.m3u8
 
 
 #EXTINF:-1 tvg-id="kino-tv" group-title="Movies", КиноТВ
-http://194.113.234.110:4056
+http://193.233.9.49/streams/media/KINO_TV_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="kinokomedia" group-title="Movies", Кинокомедия
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=kinokomedia
@@ -849,7 +849,7 @@ http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 http://nano.teleservice.su:8080/hls/nano.m3u8
 
 #EXTINF:-1 tvg-id="nano-hd" group-title="", Нано HD
-http://192.166.144.101:8008/play/a003/index.m3u8
+
 
 #EXTINF:-1 tvg-id="nauka-20" group-title="", Наука 2.0
 http://ott-cdn.ucom.am/s98/index.m3u8
@@ -872,7 +872,7 @@ http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 http://46.174.83.66/O/index.m3u8
 
 #EXTINF:-1 tvg-id="o2tv" group-title="Music", О2ТВ
-http://192.166.144.101:8008/play/a01r/index.m3u8
+
 
 #EXTINF:-1 tvg-id="o-tv" group-title="Music", O-ТВ
 
@@ -884,7 +884,7 @@ http://81.177.139.240:8000/play/a002/index.m3u8
 
 
 #EXTINF:-1 tvg-id="otkryty-mir" group-title="", Открытый мир
-http://192.166.144.101:8008/play/a01t/index.m3u8
+
 
 #EXTINF:-1 tvg-id="oxota-i-rybalka" group-title="", Охота и рыбалка
 http://194.113.234.110:4042
@@ -937,7 +937,7 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=adventureshd
 
 
 #EXTINF:-1 tvg-id="prodvizhenie" group-title="Entertainment", Продвижение
-http://192.166.144.101:8008/play/a00t/index.m3u8
+http://iptv.rpk-rost.ru:8080/hls/087/087.m3u8
 
 #EXTINF:-1 tvg-id="piatnica" group-title="Entertainment", Пятница
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=friday
@@ -1059,7 +1059,7 @@ http://83.222.205.65:8080/tntmusic/index.m3u8
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tayna" group-title="", Тайна
-http://192.166.144.101:8008/play/a01h/index.m3u8
+http://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvoyo-tv-hd" group-title="", Твоё ТВ HD
 http://stream-norst.cf:8080/tvoetv/index.m3u8
@@ -1068,7 +1068,7 @@ http://stream-norst.cf:8080/tvoetv/index.m3u8
 http://194.113.234.110:4066
 
 #EXTINF:-1 tvg-id="tochka-tv" group-title="", Точка
-http://192.166.144.101:8008/play/a018/index.m3u8
+http://tochkatv-live.cdnvideo.ru/tochkatv2/MPEGTS.TOCHKA.stream/playlist.m3u8
 
 # У
 
