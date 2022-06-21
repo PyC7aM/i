@@ -368,10 +368,10 @@ https://livetv.mylifeisgood.ml/channels/setantahd
 https://livetv.mylifeisgood.ml/channels/setantaplus
 
 #EXTINF:-1 tvg-id="sony-scifi" group-title="", Sony Sci-Fi
-http://109.200.130.124:15500/sonyscifi
+http://84.17.61.200:8085/udp/238.2.0.102:1234
 
 #EXTINF:-1 tvg-id="sony-turbo" group-title="Movies", Sony Turbo
-
+http://84.17.61.200:8085/udp/238.2.0.235:1234
 
 #EXTINF:-1 tvg-id="sony-tv" group-title="", Sony ТВ HD
 http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5107
@@ -1102,7 +1102,7 @@ https://v2.catcast.tv/content/38801/index.m3u8
 # Ч
 
 #EXTINF:-1 tvg-id="che" group-title="Entertainment", Че
-http://91.234.255.242:8000/play/a00v/index.m3u8
+http://84.17.61.200:8085/udp/238.2.0.109:1234
 
 # Ш
 
@@ -1110,7 +1110,7 @@ http://91.234.255.242:8000/play/a00v/index.m3u8
 http://ott-cdn.ucom.am/s43/04.m3u8
 
 #EXTINF:-1 tvg-id="shokiruyushchee-hd" group-title="Movies", Шокирующее HD
-
+http://84.17.61.200:8085/udp/238.2.16.137:1234
 
 # Щ
 
