@@ -81,6 +81,9 @@ http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 tvg-id="bbc" group-title="News", BBC
 
 
+#EXTINF:-1 tvg-id="bbc" group-title="News", BBC America
+https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
+
 #EXTINF:-1 tvg-id="bollywood-hd" group-title="Movies", Bollywood
 
 
