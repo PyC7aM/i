@@ -81,7 +81,7 @@ http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 tvg-id="bbc" group-title="News", BBC
 
 
-#EXTINF:-1 tvg-id="bbc" group-title="News", BBC America
+#EXTINF:-1 tvg-id="bbc-america" group-title="News", BBC America
 https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bollywood-hd" group-title="Movies", Bollywood
@@ -1093,7 +1093,7 @@ http://91.234.255.242:8000/play/a02p/index.m3u8
 https://v2.catcast.tv/content/38801/index.m3u8
 
 #EXTINF:-1 tvg-id="feniks-plus-kino" group-title="Movies", Феникс+ Кино
-
+http://82.209.197.187:8080/udp/239.0.100.101:1234
 
 # Х
 
