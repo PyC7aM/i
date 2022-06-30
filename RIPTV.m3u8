@@ -987,19 +987,19 @@ https://radio-live-mg.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
 http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="russky-bestseller" group-title="", Русский бестселлер
-http://185.44.75.202:38166/play/a0an/index.m3u8
+
 
 #EXTINF:-1 tvg-id="russky-detektiv" group-title="", Русский детектив
-http://185.44.75.202:38166/play/a0an/index.m3u8
+
 
 #EXTINF:-1 tvg-id="russky-ekstrim" group-title="", Русский экстрим
 
 
 #EXTINF:-1 tvg-id="russky-illuzion" group-title="", Русский иллюзион
-http://194.113.234.110:4031
+
 
 #EXTINF:-1 tvg-id="russky-roman" group-title="", Русский роман
-http://185.44.75.202:38166/play/a0aq/index.m3u8
+
 
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="Sport", Рыболов
 http://ott-cdn.ucom.am/s55/index.m3u8
@@ -1016,6 +1016,7 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=smile
 http://46.174.83.66/CTC/index.m3u8?em9uYS1pcHR2LnJ1
 
 #EXTINF:-1 tvg-id="sts-kids-hd" group-title="Kids", СТС Kids HD
+
 
 #EXTINF:-1 tvg-id="sts-love" group-title="", СТС Love
 
@@ -1068,7 +1069,7 @@ http://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
 http://stream-norst.cf:8080/tvoetv/index.m3u8
 
 #EXTINF:-1 tvg-id="texno-24" group-title="", Техно 24
-http://194.113.234.110:4066
+
 
 #EXTINF:-1 tvg-id="tochka-tv" group-title="", Точка
 http://tochkatv-live.cdnvideo.ru/tochkatv2/MPEGTS.TOCHKA.stream/playlist.m3u8
