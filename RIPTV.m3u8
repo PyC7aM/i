@@ -766,7 +766,7 @@ https://bl.uma.media/live/291661/HLS/4614144_3,2883584/2/1/playlist.m3u8
 http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5455
 
 #EXTINF:-1 tvg-id="match-premier" group-title="Sport", Матч! Премьер
-http://65.108.9.39:8060/matc!premerhd/index.m3u8
+
 
 #EXTINF:-1 tvg-id="match-football1" group-title="Sport", Матч! Футбол 1
 http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5456
@@ -890,7 +890,7 @@ http://81.177.139.240:8000/play/a002/index.m3u8
 
 
 #EXTINF:-1 tvg-id="oxota-i-rybalka" group-title="", Охота и рыбалка
-http://194.113.234.110:4042
+
 
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" group-title="Sport", Охотник и рыболов HD
 http://ott-cdn.ucom.am/s62/index.m3u8
@@ -907,7 +907,7 @@ http://rtmp.one.by:2200
 http://rtmp.one.by:2300
 
 #EXTINF:-1 tvg-id="pervy" group-title="General", Первый канал
-http://185.44.75.202:38166/play/a04n/index.m3u8
+
 
 #EXTINF:-1 tvg-id="eureka-hd" group-title="", Первый Космический
 https://livetv.mylifeisgood.ml/channels/firstspace
@@ -919,7 +919,7 @@ http://rtmp.one.by:1200
 http://rtmp.one.by:1300
 
 #EXTINF:-1 tvg-id="onemuz" group-title="Music", Первый музыкальный 4K
-http://rtmp.one.by:1499
+
 
 #EXTINF:-1 tvg-id="perec-int" group-title="Entertainment", Перец Int
 
@@ -960,7 +960,7 @@ http://46.174.83.66/5Kanal/index.m3u8
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 
 #EXTINF:-1 tvg-id="rentv" group-title="General", Рен ТВ
-http://194.113.234.110:4011
+
 
 #EXTINF:-1 tvg-id="rentv-int" group-title="General", Рен ТВ International
 https://sc.id-tv.kz/RenTV_36_37.m3u8
