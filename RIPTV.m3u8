@@ -581,7 +581,7 @@ http://109.200.130.124:15500/dikiy
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=tvrainhd
 
 #EXTINF:-1 tvg-id="doktor" group-title="", Доктор
-http://91.234.255.242:8000/play/a005/index.m3u8
+
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies" tvg-logo="https://kino.watch/img/logo.png", Доку
 https://edge-01.kino.watch/docu/index.m3u8
@@ -709,7 +709,7 @@ https://sc.id-tv.kz/Kinoseriya_hd.m3u8
 
 
 #EXTINF:-1 tvg-id="kinouzhas" group-title="Movies", Киноужас
-https://sc.id-tv.kz:443/Kinouzhas_hd_34_35.m3u8
+
 
 #EXTINF:-1 tvg-id="kinoxit" group-title="Movies", Кинохит
 
@@ -718,7 +718,7 @@ https://sc.id-tv.kz:443/Kinouzhas_hd_34_35.m3u8
 http://185.37.150.46/Kinopokaz2_HD/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="russkaya-komedia" group-title="", Комедия
-http://194.113.234.110:4060
+
 
 #EXTINF:-1 tvg-id="konny-mir" group-title="Sport", Конный мир
 http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8
