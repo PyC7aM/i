@@ -120,7 +120,7 @@ http://saveukraine.only4.tv/802/video.m3u8?token=saveUkrain
 
 
 #EXTINF:-1 tvg-id="cinema-ru" group-title="Movies", Cinema
-https://sc.id-tv.kz:443/Cinema_36_37.m3u8
+https://sc.id-tv.kz:443/Cinema.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Cinemax
 
