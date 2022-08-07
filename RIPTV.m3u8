@@ -442,7 +442,7 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=trash
 http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/307/stream.m3u8
 
 #EXTINF:-1 tvg-id="travel-adventure" group-title="Travel & Tourism", Travel+Adventure
-
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5560
 
 #EXTINF:-1 tvg-id="tvxxi" group-title="", TV XXI
 http://50.7.188.186/TV-XXI/mono.m3u8
