@@ -693,7 +693,7 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=kinokomedia
 #EXTINF:-1 tvg-id="kinomiks" group-title="Movies", Киномикс
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=kinomix
 
-#EXTINF:-1 tvg-id="kinopokaz-hd" group-title="Movies", Кинопоказ
+#EXTINF:-1 tvg-id="kinopokaz" group-title="Movies", Кинопоказ
 http://193.233.9.49/streams/media/Kinopokaz/index.m3u8
 
 #EXTINF:-1 tvg-id="kinopremiera-hd" group-title="Movies", Кинопремьера
