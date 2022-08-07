@@ -1066,7 +1066,7 @@ http://83.222.205.65:8080/tntmusic/index.m3u8
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tayna" group-title="", Тайна
-http://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="tvoyo-tv-hd" group-title="", Твоё ТВ HD
 http://stream-norst.cf:8080/tvoetv/index.m3u8
@@ -1075,7 +1075,7 @@ http://stream-norst.cf:8080/tvoetv/index.m3u8
 
 
 #EXTINF:-1 tvg-id="tochka-tv" group-title="", Точка
-http://tochkatv-live.cdnvideo.ru/tochkatv2/MPEGTS.TOCHKA.stream/playlist.m3u8
+
 
 # У
 
