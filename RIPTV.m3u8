@@ -445,7 +445,7 @@ http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/307/stream.m3u8
 
 
 #EXTINF:-1 tvg-id="tvxxi" group-title="", TV XXI
-http://85.206.57.253:8981/a72/mono.m3u8
+http://50.7.188.186/TV-XXI/mono.m3u8
 
 #EXTINF:-1 tvg-id="tv1000" group-title="Movies", TV1000
 https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
@@ -460,7 +460,7 @@ http://cdnua06.hls.tv/476/hls/3m5p9lfdoycbhqtj74ku2iezrwn86gs1/311/stream.m3u8
 http://cdnua06.hls.tv/476/hls/xpgdtwukj3blyc7oz508vn2msi9ahf6q/308/stream.m3u8
 
 #EXTINF:-1 tvg-id="tv1000-worldkino" group-title="Movies", TV1000 World Kino
-http://85.206.57.253:8981/l85/mono.m3u8
+https://cdnua03.hls.tv/178/hls/kfsnjgbmwuoxtdq7218lz5yv3ap6h9i4/4816/stream.m3u8
 
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Movies", TV1000 Русское кино
 https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
