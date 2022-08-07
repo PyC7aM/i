@@ -931,7 +931,7 @@ http://rtmp.one.by:1300
 
 
 #EXTINF:-1 tvg-id="premialnoe-hd" group-title="", Премиальное HD
-
+http://50.7.92.90/Kino_premium_HD/mono.m3u8
 
 #EXTINF:-1 tvg-id="prikluchenia-hd" group-title="Travel & Tourism", Приключения HD
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=adventureshd
