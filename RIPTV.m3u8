@@ -120,7 +120,7 @@ http://saveukraine.only4.tv/802/video.m3u8?token=saveUkrain
 
 
 #EXTINF:-1 tvg-id="cinema-ru" group-title="Movies", Cinema
-https://sc.id-tv.kz:443/Cinema.m3u8
+http://193.233.9.49/streams/media/Cinema/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Cinemax
 
@@ -313,7 +313,7 @@ http://79.172.214.45:10190/stream.m3u8
 http://193.233.9.49/streams/media/Nat_Geo_Wild_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="national-geographic" group-title="", National Geographic
-
+http://193.233.9.49/streams/media/National_Geographic_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="nick-jr" group-title="Kids", Nick Jr
 http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/277/stream.m3u8
