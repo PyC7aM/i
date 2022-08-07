@@ -642,7 +642,7 @@ http://ott-cdn.ucom.am/s92/index.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 
 #EXTINF:-1 tvg-id="illuzion-plus" group-title="", Иллюзион +
-
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5104
 
 #EXTINF:-1 tvg-id="indiyskoe-kino" group-title="Movies", Индийское кино
 
@@ -990,19 +990,19 @@ https://radio-live-mg.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
 http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="russky-bestseller" group-title="", Русский бестселлер
-
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5087
 
 #EXTINF:-1 tvg-id="russky-detektiv" group-title="", Русский детектив
-
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5089
 
 #EXTINF:-1 tvg-id="russky-ekstrim" group-title="", Русский экстрим
 
 
 #EXTINF:-1 tvg-id="russky-illuzion" group-title="", Русский иллюзион
-
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5073
 
 #EXTINF:-1 tvg-id="russky-roman" group-title="", Русский роман
-
+http://50.7.92.90/Russkiy_roman_HD/mono.m3u8
 
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="Sport", Рыболов
 http://ott-cdn.ucom.am/s55/index.m3u8
