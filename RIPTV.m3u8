@@ -900,6 +900,9 @@ http://ott-cdn.ucom.am/s62/index.m3u8
 
 # П
 
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", ПАМЯТЬ
+https://v2.catcast.tv/content/38821/index.m3u8
+
 #EXTINF:-1 tvg-id="pervy-vegetariansky" group-title="", Первый вегетарианский
 
 
