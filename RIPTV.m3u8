@@ -949,7 +949,7 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=adventureshd
 http://iptv.rpk-rost.ru:8080/hls/087/087.m3u8
 
 #EXTINF:-1 tvg-id="piatnica" group-title="Entertainment", Пятница
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=friday
+https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
 
 #EXTINF:-1 tvg-id="piatnica-int" group-title="Entertainment", Пятница International
 http://ott-cdn.ucom.am/s50/index.m3u8
@@ -1054,7 +1054,7 @@ https://bl.uma.media/live/317845/HLS/4614144_3,2883584/2/1/playlist.m3u8
 https://bl.uma.media/live/407373/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvcentr" group-title="Entertainment", ТВ Центр
-
+http://46.174.83.66/TVCentr/index.m3u8
 
 #EXTINF:-1 tvg-id="tnt" group-title="Entertainment", ТНТ
 https://bl.uma.media/live/410338/HLS/6307840_7,4280320/2/1/playlist.m3u8
@@ -1092,7 +1092,7 @@ http://edge-01.kino.watch/horror/index.m3u8
 https://edge-01.kino.watch/hit/index.m3u8
 
 #EXTINF:-1 tvg-id="usadba" group-title="", Усадьба
-
+http://194.113.234.110:4045
 
 # Ф
 
