@@ -828,7 +828,7 @@ http://81.177.139.240:8000/play/a007/index.m3u8
 # Н
 
 #EXTINF:-1 tvg-id="nst" group-title="Movies", НСТ
-https://sc.id-tv.kz/NSTV.m3u8
+http://194.113.234.110:4067
 
 #EXTINF:-1 tvg-id="ntv" group-title="", НТВ
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=ntvhd
