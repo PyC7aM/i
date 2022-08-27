@@ -910,7 +910,7 @@ http://rtmp.one.by:2200
 http://rtmp.one.by:2300
 
 #EXTINF:-1 tvg-id="pervy" group-title="General", Первый канал
-
+http://78.25.155.47:1309/channel/ORT_HD.ts
 
 #EXTINF:-1 tvg-id="eureka-hd" group-title="", Первый Космический
 https://livetv.mylifeisgood.ml/channels/firstspace
@@ -1109,7 +1109,7 @@ http://82.209.197.187:8080/udp/239.0.100.101:1234
 # Ч
 
 #EXTINF:-1 tvg-id="che" group-title="Entertainment", Че
-
+http://78.25.155.47:1309/channel/Che.ts
 
 # Ш
 
