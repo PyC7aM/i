@@ -335,7 +335,7 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=nickelodeon-hd
 # P
 
 #EXTINF:-1 tvg-id="paramount-channel" group-title="", Paramount Channel
-
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5086
 
 #EXTINF:-1 tvg-id="paramount-comedy" group-title="", Paramount Comedy
 https://livetv.mylifeisgood.ml/channels/paramount_comedy
@@ -374,7 +374,7 @@ https://livetv.mylifeisgood.ml/channels/setantaplus
 http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5061
 
 #EXTINF:-1 tvg-id="sony-turbo" group-title="Movies", Sony Turbo
-http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5086
+
 
 #EXTINF:-1 tvg-id="sony-tv" group-title="", Sony ТВ HD
 http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5107
@@ -432,7 +432,7 @@ https://stirr.ott-channels.stingray.com/134/master.m3u8
 #EXTINF:-1 tvg-id="tiji" group-title="Kids", TiJi
 http://109.200.130.124:15500/tiji
 
-#EXTINF:-1 tvg-id="tlc" group-title="", TLC
+#EXTINF:-1 tvg-id="tlc-panregional" group-title="", TLC Pan Regional
 http://213.226.137.140:81/tl/l18/mpegts
 
 #EXTINF:-1 tvg-id="trashtv" group-title="Movies", Trash
