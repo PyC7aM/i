@@ -433,13 +433,13 @@ https://stirr.ott-channels.stingray.com/134/master.m3u8
 http://109.200.130.124:15500/tiji
 
 #EXTINF:-1 tvg-id="tlc" group-title="", TLC
-
+http://213.226.137.140:81/tl/l18/mpegts
 
 #EXTINF:-1 tvg-id="trashtv" group-title="Movies", Trash
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=trash
 
 #EXTINF:-1 tvg-id="travel-channel" group-title="Travel & Tourism", Travel Channel
-
+http://213.226.137.140:81/tl/l14/mpegts
 
 #EXTINF:-1 tvg-id="travel-adventure" group-title="Travel & Tourism", Travel+Adventure
 http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5560
@@ -485,7 +485,7 @@ https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
 https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="viasat-nature" group-title="", Viasat Nature
-
+https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="viasat-sport" group-title="Sport", Viasat Sport
 https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
