@@ -216,35 +216,29 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=gulli
 #EXTINF:-1 tvg-id="hbo-hd" group-title="Movies", HBO
 
 
-#EXTINF:-1 tvg-id="hbo-hd" group-title="Movies", HBO
-http://45.71.185.142:8500/play/a02v
-
 #EXTINF:-1 tvg-id="hbo2-hd" group-title="Movies", HBO 2
 
-
-#EXTINF:-1 tvg-id="hbo2-hd" group-title="Movies", HBO 2
-http://45.71.185.142:8500/play/a00z
 
 #EXTINF:-1 tvg-id="hbo3-hd" group-title="Movies", HBO 3
 
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", HBO Family
-http://45.71.185.142:8500/play/a012
+
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", HBO Plus
-http://45.71.185.142:8500/play/a010
+
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", HBO Xtreme
-http://45.71.185.142:8500/play/a011
+
 
 #EXTINF:-1 tvg-id="hd-life" group-title="", HD Life
 
 
 #EXTINF:-1 tvg-id="history-ru" group-title="", History
-http://cdnua06.hls.tv/476/hls/gy8vpi1hqu26tse7nx3rfmdk4wjc950a/244/stream.m3u8
+
 
 #EXTINF:-1 tvg-id="hollywood-hd" group-title="", Hollywood HD
-http://cdnua06.hls.tv/476/hls/px7tgkz5mwa01hubrl4y2evcsif683q9/262/stream.m3u8
+
 
 # I
 
