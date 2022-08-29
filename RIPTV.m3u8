@@ -536,7 +536,7 @@ http://81.177.139.240:8000/play/a001/index.m3u8
 # Б
 
 #EXTINF:-1 tvg-id="bobior" group-title="", Бобёр
-
+https://sc.id-tv.kz/bober_34_35.m3u8
 
 #EXTINF:-1 tvg-id="box-tv" group-title="Sport", Бокс ТВ
 
@@ -552,7 +552,7 @@ http://81.177.139.240:8000/play/a001/index.m3u8
 # Г
 
 #EXTINF:-1 tvg-id="glazami-turista" group-title="", Глазами Туриста
-
+https://livetv.mylifeisgood.ml/channels/glazamiturista
 
 # Д
 
