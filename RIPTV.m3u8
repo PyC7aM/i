@@ -44,7 +44,7 @@ http://193.233.9.49/streams/media/Amedia_Premium_HD/index.m3u8
 http://ott-cdn.ucom.am/s45/index.m3u8
 
 #EXTINF:-1 tvg-id="amedia2" group-title="Movies", A2
-http://109.200.130.124:15500/A2
+
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="", Akudji
 https://hls.goodgame.ru/hls/5346.m3u8
@@ -134,7 +134,7 @@ http://193.233.9.49/streams/media/Cinema/index.m3u8
 # D
 
 #EXTINF:-1 tvg-id="da-vinci" group-title="Kids", Da Vinci Learning
-http://109.200.130.124:15500/davinchi
+
 
 #EXTINF:-1 tvg-id="deutsche-welle-eu" group-title="News", Deutsche Welle Europe
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
@@ -430,7 +430,7 @@ https://stirr.ott-channels.stingray.com/134/master.m3u8
 # T
 
 #EXTINF:-1 tvg-id="tiji" group-title="Kids", TiJi
-http://109.200.130.124:15500/tiji
+
 
 #EXTINF:-1 tvg-id="tlc-panregional" group-title="", TLC Pan Regional
 http://213.226.137.140:81/tl/l18/mpegts
@@ -574,7 +574,7 @@ http://v2.catcast.me/content/38720/index.m3u8
 
 
 #EXTINF:-1 tvg-id="dikiy" group-title="", Дикий
-http://109.200.130.124:15500/dikiy
+
 
 #EXTINF:-1 tvg-id="dozhd" group-title="", Дождь
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=tvrainhd
@@ -586,7 +586,7 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=tvrainhd
 https://edge-01.kino.watch/docu/index.m3u8
 
 #EXTINF:-1 tvg-id="domkino" group-title="Movies", Дом кино
-http://109.200.130.124:15500/domkino
+
 
 #EXTINF:-1 tvg-id="domkino-premium" group-title="", Дом кино Премиум HD
 http://193.233.9.49/streams/media/Dom_Kino_Premium_HD/index.m3u8
@@ -613,7 +613,7 @@ http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 # Ж
 
 #EXTINF:-1 tvg-id="zhara" group-title="Music", Жара
-http://109.200.130.124:15500/JARA
+
 
 #EXTINF:-1 tvg-id="zhara" group-title="Music", Жара Kids TV
 http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
