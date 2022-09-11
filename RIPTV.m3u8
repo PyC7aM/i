@@ -466,7 +466,7 @@ https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvmchannel" group-title="", TVMChannel
-
+http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
 
 # U
 
@@ -744,7 +744,7 @@ http://live.m2.tv/hls2/720/stream.m3u8
 http://live.m2.tv/hls3/720/stream.m3u8
 
 #EXTINF:-1 tvg-id="mama" group-title="", Мама
-http://109.200.130.124:15500/mama
+http://bsttv.bonus-tv.ru/cdn/mama/playlist_sdhigher.m3u8
 
 #EXTINF:-1 tvg-id="match-tv" group-title="Sport", Матч! HD
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=matchhd_nocensored
