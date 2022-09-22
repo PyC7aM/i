@@ -50,7 +50,7 @@ http://ott-cdn.ucom.am/s45/index.m3u8
 https://hls.goodgame.ru/hls/5346.m3u8
 
 #EXTINF:-1 tvg-id="amc" group-title="", AMC
-https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="ani" group-title="Kids", Ani
 https://bsttv.bonus-tv.ru/cdn/ani/playlist.m3u8
@@ -85,7 +85,7 @@ http://stream.backustv.ru/live/btv2/index.m3u8
 
 
 #EXTINF:-1 tvg-id="bbc-america" group-title="News", BBC America
-https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="bollywood-hd" group-title="Movies", Bollywood
 
