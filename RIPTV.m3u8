@@ -106,7 +106,7 @@ https://livetv.mylifeisgood.ml/channels/bridgehitstv
 https://livetv.mylifeisgood.ml/channels/bridgedeluxetv
 
 #EXTINF:-1 tvg-id="bridge-tv-fresh" group-title="Music", Bridge TV Fresh
-https://2serv.mylifeisgood.ml/channels/bridgefreshya
+http://194.49.127.254:20141/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Music", Bridge TV Русский хит
 https://livetv.mylifeisgood.ml/channels/bridgerushittv
@@ -354,7 +354,10 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 # R
 
 #EXTINF:-1 tvg-id="rtd-en" group-title="", RT Д English
-https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
+
+
+#EXTINF:-1 tvg-id="rtd-ru" group-title="", RT Д Русский
+https://hls.rt.com/hls/rtdru.m3u8
 
 #EXTINF:-1 tvg-id="rtg-hd" group-title="Travel & Tourism", RTG HD 
 https://strm.yandex.ru/kal/rtg/rtg0.m3u8
