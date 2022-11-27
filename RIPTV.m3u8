@@ -833,7 +833,7 @@ http://81.177.139.240:8000/play/a007/index.m3u8
 https://sc.id-tv.kz/NSTV.m3u8
 
 #EXTINF:-1 tvg-id="ntv" group-title="", НТВ
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=ntvhd
+https://livetv.mylifeisgood.ml/channels/ntvhd.m3u8
 
 #EXTINF:-1 tvg-id="ntv-mir" group-title="", НТВ-Мир
 http://ott-cdn.ucom.am/s17/index.m3u8
