@@ -819,7 +819,7 @@ https://sc.id-tv.kz:443/MoyaPlaneta_34_35.m3u8
 
 
 #EXTINF:-1 tvg-id="mult" group-title="Kids", Мульт
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=mult
+http://livetv.mylifeisgood.ml/channels/mult.m3u8
 
 #EXTINF:-1 tvg-id="multimuzyka" group-title="Kids", Мульт и музыка
 http://81.177.139.240:8000/play/a007/index.m3u8
