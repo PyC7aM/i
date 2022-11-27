@@ -46,7 +46,7 @@ http://ott-cdn.ucom.am/s45/index.m3u8
 #EXTINF:-1 tvg-id="amedia2" group-title="Movies", A2
 http://195.2.74.99/channel/593c0960/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
 
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="", Akudji
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Akudji
 https://hls.goodgame.ru/hls/5346.m3u8
 
 #EXTINF:-1 tvg-id="amc" group-title="", AMC
@@ -886,7 +886,7 @@ http://46.174.83.66/O/index.m3u8
 
 
 #EXTINF:-1 tvg-id="oruzhie" group-title="", Оружие
-http://81.177.139.240:8000/play/a002/index.m3u8
+https://livetv.mylifeisgood.ml/channels/oruzhie.m3u8
 
 #EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" group-title="Movies", Остросюжетное HD
 
@@ -988,25 +988,25 @@ http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 tvg-id="rossia-24" group-title="News", Россия 24
 https://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 
-#EXTINF:-1 tvg-id="kultura" group-title="", Россия К
-https://radio-live-mg.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
+#EXTINF:-1 tvg-id="kultura" group-title="Entertainment", Россия К
+http://109.197.192.121:8080/rusk/index.m3u8
 
 #EXTINF:-1 tvg-id="rostov-papa" group-title="Regional", Ростов-папа
 http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="russky-bestseller" group-title="", Русский бестселлер
+#EXTINF:-1 tvg-id="russky-bestseller" group-title="Movies", Русский бестселлер
 http://tv.tuva.ru/rusbestseller/index.m3u8
 
-#EXTINF:-1 tvg-id="russky-detektiv" group-title="", Русский детектив
+#EXTINF:-1 tvg-id="russky-detektiv" group-title="Movies", Русский детектив
 http://78.25.155.47:1309/channel/rus_d.ts
 
 #EXTINF:-1 tvg-id="russky-ekstrim" group-title="", Русский экстрим
 
 
-#EXTINF:-1 tvg-id="russky-illuzion" group-title="", Русский иллюзион
+#EXTINF:-1 tvg-id="russky-illuzion" group-title="Movies", Русский иллюзион
 http://78.25.155.47:1309/channel/Rus_illuz.ts
 
-#EXTINF:-1 tvg-id="russky-roman" group-title="", Русский роман
+#EXTINF:-1 tvg-id="russky-roman" group-title="Movies", Русский роман
 http://tv.tuva.ru/rusroman/index.m3u8
 
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="Sport", Рыболов
@@ -1020,17 +1020,20 @@ http://ott-cdn.ucom.am/s57/index.m3u8
 #EXTINF:-1 tvg-id="smaylik-tv" group-title="Kids", Смайлик ТВ
 https://livetv.mylifeisgood.ml/channels/smile.m3u8
 
-#EXTINF:-1 tvg-id="sts" group-title="", СТС
-http://46.174.83.66/CTC/index.m3u8?em9uYS1pcHR2LnJ1
+#EXTINF:-1 tvg-id="sts" group-title="Entertainment", СТС
+http://31.210.208.167:80/sts/index.m3u8
+
+#EXTINF:-1 tvg-id="sts-int" group-title="Entertainment", СТС International
+http://31.146.176.94:80/CTC/index.m3u8
 
 #EXTINF:-1 tvg-id="sts-kids-hd" group-title="Kids", СТС Kids HD
+http://176.74.80.162:8099/CTCKids/index.m3u8
 
-
-#EXTINF:-1 tvg-id="sts-love" group-title="", СТС Love
-
+#EXTINF:-1 tvg-id="sts-love" group-title="Entertainment", СТС Love
+http://31.148.48.15:80/STS_Love/index.m3u8
 
 #EXTINF:-1 tvg-id="sarafan" group-title="Entertainment", Сарафан
-
+http://31.148.48.15:80/Sarafan/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies" tvg-logo="https://kino.watch/img/logo.png", Свежаки
 https://edge-01.kino.watch/fresh/index.m3u8
@@ -1073,8 +1076,8 @@ https://bl.uma.media/live/317849/HLS/4614144_3,2883584/2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="tayna" group-title="", Тайна
 
 
-#EXTINF:-1 tvg-id="tvoyo-tv-hd" group-title="", Твоё ТВ HD
-http://stream-norst.cf:8080/tvoetv/index.m3u8
+#EXTINF:-1 tvg-id="tvoyo-tv-hd" group-title="Entertainment", Твоё ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
 
 #EXTINF:-1 tvg-id="texno-24" group-title="", Техно 24
 
@@ -1094,7 +1097,7 @@ http://edge-01.kino.watch/horror/index.m3u8
 https://edge-01.kino.watch/hit/index.m3u8
 
 #EXTINF:-1 tvg-id="usadba" group-title="", Усадьба
-http://194.113.234.110:4045
+http://94.230.240.17:8080/usadba/index.m3u8
 
 # Ф
 
