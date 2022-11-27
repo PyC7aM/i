@@ -1080,7 +1080,7 @@ http://stream-norst.cf:8080/tvoetv/index.m3u8
 
 
 #EXTINF:-1 tvg-id="tochka-tv" group-title="", Точка
-
+http://tochkatv-live.cdnvideo.ru/tochkatv2/MPEGTS.TOCHKA.stream/playlist.m3u8
 
 # У
 
