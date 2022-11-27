@@ -9,7 +9,7 @@ http://rmhkuzbass.ru:8082/10kanal/10kanal_720/playlist.m3u8
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-id="1hd" group-title="Music", 1HD
-https://sc.id-tv.kz/1hd_34_35.m3u8
+https://livetv.mylifeisgood.ml/channels/1hdmusic.m3u8
 
 #EXTINF:-1 tvg-id="2na2" group-title="Entertainment", 2x2
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584/2/1/playlist.m3u8
@@ -152,7 +152,7 @@ https://livetv.mylifeisgood.ml/channels/discoveryscience
 http://193.233.9.49/streams/media/Disney/index.m3u8
 
 #EXTINF:-1 tvg-id="dtx" group-title="", DTX
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoverydtx
+https://livetv.mylifeisgood.ml/channels/discoverydtx.m3u8
 
 # E
 
@@ -212,7 +212,7 @@ http://193.233.9.49/streams/media/Fox_Life_HD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="gulli-girl" group-title="Kids", Gulli
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=gulli
+https://livetv.mylifeisgood.ml/channels/gulli.m3u8
 
 # H
 
@@ -238,7 +238,7 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=gulli
 
 
 #EXTINF:-1 tvg-id="hd-life" group-title="", HD Life
-
+https://livetv.mylifeisgood.ml/channels/hdlife.m3u8
 
 #EXTINF:-1 tvg-id="history-ru" group-title="", History
 
@@ -322,7 +322,7 @@ http://193.233.9.49/streams/media/National_Geographic_HD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="nickelodeon-hd" group-title="Kids", Nickelodeon HD
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=nickelodeon-hd
+https://livetv.mylifeisgood.ml/channels/nickelodeon-hd.m3u8
 
 #EXTINF:-1 tvg-id="nicktoons" group-title="Kids", Nicktoons
 
@@ -942,7 +942,7 @@ https://sc.id-tv.kz/poehali_34_35.m3u8
 http://50.7.92.90/Kino_premium_HD/mono.m3u8
 
 #EXTINF:-1 tvg-id="prikluchenia-hd" group-title="Travel & Tourism", Приключения HD
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=adventureshd
+https://livetv.mylifeisgood.ml/channels/adventureshd.m3u8
 
 #EXTINF:-1 tvg-id="pro-lyubov" group-title="", Про Любовь
 
