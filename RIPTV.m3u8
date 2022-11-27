@@ -627,7 +627,7 @@ http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
 # З
 
 #EXTINF:-1 tvg-id="zagorodny-int" group-title="", Загородный International
-http://81.177.139.240:8000/play/a005/index.m3u8
+https://livetv.mylifeisgood.ml/channels/zagorodint.m3u8
 
 #EXTINF:-1 tvg-id="zagorodnaya-zhizn" group-title="", Загородная жизнь
 
