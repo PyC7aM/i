@@ -690,10 +690,10 @@ https://autopilot.catcast.tv/content/38617/index.m3u8
 http://193.233.9.49/streams/media/KINO_TV_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="kinokomedia" group-title="Movies", Кинокомедия
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=kinokomedia
+http://livetv.mylifeisgood.ml/channels/kinokomedia.m3u8
 
 #EXTINF:-1 tvg-id="kinomiks" group-title="Movies", Киномикс
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=kinomix
+http://livetv.mylifeisgood.ml/channels/kinomix.m3u8
 
 #EXTINF:-1 tvg-id="kinopokaz" group-title="Movies", Кинопоказ
 http://193.233.9.49/streams/media/Kinopokaz/index.m3u8
@@ -753,7 +753,7 @@ http://live.m2.tv/hls3/720/stream.m3u8
 http://bsttv.bonus-tv.ru/cdn/mama/playlist_sdhigher.m3u8
 
 #EXTINF:-1 tvg-id="match-tv" group-title="Sport", Матч! HD
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=matchhd_nocensored
+http://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
 
 #EXTINF:-1 tvg-id="match-arena" group-title="Sport", Матч! Арена
 
@@ -1018,7 +1018,7 @@ http://ott-cdn.ucom.am/s57/index.m3u8
 # С
 
 #EXTINF:-1 tvg-id="smaylik-tv" group-title="Kids", Смайлик ТВ
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=smile
+https://livetv.mylifeisgood.ml/channels/smile.m3u8
 
 #EXTINF:-1 tvg-id="sts" group-title="", СТС
 http://46.174.83.66/CTC/index.m3u8?em9uYS1pcHR2LnJ1
