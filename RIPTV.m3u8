@@ -877,7 +877,7 @@ http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 # О
 
 #EXTINF:-1 tvg-id="o_" group-title="Kids", О!
-http://46.174.83.66/O/index.m3u8
+
 
 #EXTINF:-1 tvg-id="o2tv" group-title="Music", О2ТВ
 
@@ -974,7 +974,7 @@ http://78.25.155.47:1309/channel/REN.ts
 https://sc.id-tv.kz/RenTV_36_37.m3u8
 
 #EXTINF:-1 tvg-id="retro-tv" group-title="", Ретро ТВ
-http://46.174.83.66/Retro/index.m3u8
+
 
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="Movies", Родное кино
 
@@ -1059,7 +1059,7 @@ https://bl.uma.media/live/317845/HLS/4614144_3,2883584/2/1/playlist.m3u8
 https://bl.uma.media/live/407373/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvcentr" group-title="Entertainment", ТВ Центр
-http://46.174.83.66/TVCentr/index.m3u8
+
 
 #EXTINF:-1 tvg-id="tnt" group-title="Entertainment", ТНТ
 https://bl.uma.media/live/410338/HLS/6307840_7,4280320/2/1/playlist.m3u8
