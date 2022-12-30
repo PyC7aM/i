@@ -736,7 +736,7 @@ https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
 #EXTINF:-1 tvg-id="nashe-lubimoe" group-title="Movies", Любимое
 
 #EXTINF:-1 tvg-id="lubimoe-kino" group-title="Movies", Любимое кино
-http://91.213.59.156/play/92/index.m3u8
+
 
 #EXTINF:-1 tvg-id="la-minor" group-title="Music", Ля-минор
 
@@ -744,13 +744,13 @@ http://91.213.59.156/play/92/index.m3u8
 # М
 
 #EXTINF:-1 tvg-id="m1-ua" group-title="Music", М1
-http://live.m2.tv/hls2/720/stream.m3u8
+
 
 #EXTINF:-1 tvg-id="m2-ua" group-title="Music", М2
 http://live.m2.tv/hls3/720/stream.m3u8
 
 #EXTINF:-1 tvg-id="mama" group-title="", Мама
-http://bsttv.bonus-tv.ru/cdn/mama/playlist_sdhigher.m3u8
+
 
 #EXTINF:-1 tvg-id="match-tv" group-title="Sport", Матч! HD
 http://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
@@ -822,7 +822,7 @@ https://sc.id-tv.kz:443/MoyaPlaneta_34_35.m3u8
 http://livetv.mylifeisgood.ml/channels/mult.m3u8
 
 #EXTINF:-1 tvg-id="multimuzyka" group-title="Kids", Мульт и музыка
-http://81.177.139.240:8000/play/a007/index.m3u8
+
 
 #EXTINF:-1 tvg-id="multimania" group-title="Kids", Мультиландия
 
@@ -1068,7 +1068,7 @@ https://bl.uma.media/live/410338/HLS/6307840_7,4280320/2/1/playlist.m3u8
 http://ott-cdn.ucom.am/s19/index.m3u8
 
 #EXTINF:-1 tvg-id="tnt-music" group-title="Music", ТНТ-Music
-
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdlow.m3u8
 
 #EXTINF:-1 tvg-id="tnt4" group-title="Entertainment", ТНТ4
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584/2/1/playlist.m3u8
