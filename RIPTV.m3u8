@@ -903,7 +903,7 @@ http://ott-cdn.ucom.am/s62/index.m3u8
 # П
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", ПАМЯТЬ
-https://v2.catcast.tv/content/38821/index.m3u8
+
 
 #EXTINF:-1 tvg-id="pervy-vegetariansky" group-title="", Первый вегетарианский
 
@@ -912,7 +912,7 @@ https://v2.catcast.tv/content/38821/index.m3u8
 http://rtmp.one.by:2200
 
 #EXTINF:-1 tvg-id="onemuz" group-title="Music", Первый Музыкальный RU
-http://rtmp.one.by:2300
+
 
 #EXTINF:-1 tvg-id="pervy" group-title="General", Первый канал
 https://livetv.mylifeisgood.ml/channels/perviytest.m3u8
@@ -924,7 +924,7 @@ https://livetv.mylifeisgood.ml/channels/firstspace
 http://rtmp.one.by:1200
 
 #EXTINF:-1 tvg-id="onemuz" group-title="Music", Первый музыкальный
-http://rtmp.one.by:1300
+
 
 #EXTINF:-1 tvg-id="onemuz" group-title="Music", Первый музыкальный 4K
 
@@ -939,7 +939,7 @@ http://rtmp.one.by:1300
 https://sc.id-tv.kz/poehali_34_35.m3u8
 
 #EXTINF:-1 tvg-id="premialnoe-hd" group-title="", Премиальное HD
-http://50.7.92.90/Kino_premium_HD/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="prikluchenia-hd" group-title="Travel & Tourism", Приключения HD
 https://livetv.mylifeisgood.ml/channels/adventureshd.m3u8
@@ -948,7 +948,7 @@ https://livetv.mylifeisgood.ml/channels/adventureshd.m3u8
 
 
 #EXTINF:-1 tvg-id="prodvizhenie" group-title="Entertainment", Продвижение
-http://iptv.rpk-rost.ru:8080/hls/087/087.m3u8
+
 
 #EXTINF:-1 tvg-id="piatnica" group-title="Entertainment", Пятница
 https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
@@ -1068,7 +1068,7 @@ https://bl.uma.media/live/410338/HLS/6307840_7,4280320/2/1/playlist.m3u8
 http://ott-cdn.ucom.am/s19/index.m3u8
 
 #EXTINF:-1 tvg-id="tnt-music" group-title="Music", ТНТ-Music
-http://83.222.205.65:8080/tntmusic/index.m3u8
+
 
 #EXTINF:-1 tvg-id="tnt4" group-title="Entertainment", ТНТ4
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584/2/1/playlist.m3u8
@@ -1088,7 +1088,7 @@ http://tochkatv-live.cdnvideo.ru/tochkatv2/MPEGTS.TOCHKA.stream/playlist.m3u8
 # У
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Ужас
-https://v2.catcast.tv/content/38896/index.m3u8
+
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies" tvg-logo="https://kino.watch/img/logo.png", Ужастик
 http://edge-01.kino.watch/horror/index.m3u8
@@ -1102,7 +1102,7 @@ http://94.230.240.17:8080/usadba/index.m3u8
 # Ф
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Фантастика Sci-Fi
-https://v2.catcast.tv/content/38801/index.m3u8
+
 
 #EXTINF:-1 tvg-id="feniks-plus-kino" group-title="Movies", Феникс+ Кино
 http://82.209.197.187:8080/udp/239.0.100.101:1234
