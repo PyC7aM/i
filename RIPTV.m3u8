@@ -34,10 +34,10 @@ https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m
 
 # A
 
-#EXTINF:-1 tvg-id="amedia-hit" group-title="Movies", A HOME OF HBO 1
+#EXTINF:-1 tvg-id="amedia-hit" group-title="Movies", Amedia Hit
 http://37.17.14.149:8903/play/a007
 
-#EXTINF:-1 tvg-id="amedia-premium" group-title="Movies", A HOME OF HBO 2
+#EXTINF:-1 tvg-id="amedia-premium" group-title="Movies", Amedia Premium
 
 
 #EXTINF:-1 tvg-id="amedia1" group-title="Movies", A1
