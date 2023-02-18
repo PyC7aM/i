@@ -697,10 +697,10 @@ http://ott-cdn.ucom.am/s40/index.m3u8
 
 
 #EXTINF:-1 tvg-id="kxl-hd" group-title="Sport", КХЛ HD
-http://bl.uma.media/live/148307/HLS/148307_3/2/1/playlist.m3u8
+http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kxl" group-title="Sport", КХЛ ТВ
-http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
+http://bl.uma.media/live/148307/HLS/148307_3/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" group-title="Religion", Каббала ТВ
 https://edge3.uk.kab.tv/live/tvrus-rus-high/playlist.m3u8
