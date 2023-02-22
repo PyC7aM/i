@@ -727,7 +727,7 @@ https://autopilot.catcast.tv/content/38617/index.m3u8
 
 
 #EXTINF:-1 tvg-id="kino-tv" group-title="Movies", КиноТВ
-
+https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
 
 #EXTINF:-1 tvg-id="kinokomedia" group-title="Movies", Кинокомедия
 http://livetv.mylifeisgood.ml/channels/kinokomedia.m3u8
@@ -810,8 +810,8 @@ https://bl.uma.media/live/291661/HLS/4614144_3,2883584/2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="match-planeta" group-title="Sport", Матч! Планета
 https://livetv.mylifeisgood.ml/channels/matchplaneta.m3u8
 
-#EXTINF:-1 tvg-id="match-premier" group-title="Sport", Матч! Премьер
-
+#EXTINF:-1 tvg-id="match-premier" group-title="Sport", Матч! Премьер HD
+https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
 
 #EXTINF:-1 tvg-id="match-football1" group-title="Sport", Матч! Футбол 1
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
@@ -821,9 +821,6 @@ http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="match-football3" group-title="Sport", Матч! Футбол 3
 
-
-#EXTINF:-1 tvg-id="match-premier" group-title="Sport", Матч Премьер HD
-https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
 
 #EXTINF:-1 tvg-id="millet" group-title="", Миллет
 http://live.trkmillet.ru/millet/index.m3u8
