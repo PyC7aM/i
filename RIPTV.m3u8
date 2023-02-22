@@ -605,7 +605,7 @@ https://livetv.mylifeisgood.ml/channels/glazamiturista
 http://ott-cdn.ucom.am/s58/index.m3u8
 
 #EXTINF:-1 tvg-id="detkinoint-tviksel" group-title="Kids", Детское кино International
-http://v2.catcast.me/content/38720/index.m3u8
+https://v2.catcast.tv/content/38720/index.m3u8
 
 #EXTINF:-1 tvg-id="dialogi-o-rybalke" group-title="Sport", Диалоги о рыбалке
 
@@ -620,7 +620,7 @@ http://v2.catcast.me/content/38720/index.m3u8
 
 
 #EXTINF:-1 tvg-id="dozhd" group-title="", Дождь
-
+https://1040819719.rsc.cdn77.org/transcode/ses/playlist.m3u8
 
 #EXTINF:-1 tvg-id="doktor" group-title="", Доктор
 
