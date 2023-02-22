@@ -796,31 +796,34 @@ http://live.m2.tv/hls3/720/stream.m3u8
 http://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
 
 #EXTINF:-1 tvg-id="match-arena" group-title="Sport", Матч! Арена
-
+http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="match-boets" group-title="Sport", Матч! Боец
-
+http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="match-igra" group-title="Sport", Матч! Игра
-
+http://bl.uma.media/live/154036/HLS/154036_4/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="match-nash-sport" group-title="Sport", Матч! Наш спорт
 https://bl.uma.media/live/291661/HLS/4614144_3,2883584/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="match-planeta" group-title="Sport", Матч! Планета
-
+https://livetv.mylifeisgood.ml/channels/matchplaneta.m3u8
 
 #EXTINF:-1 tvg-id="match-premier" group-title="Sport", Матч! Премьер
 
 
 #EXTINF:-1 tvg-id="match-football1" group-title="Sport", Матч! Футбол 1
-
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="match-football2" group-title="Sport", Матч! Футбол 2
 
 
 #EXTINF:-1 tvg-id="match-football3" group-title="Sport", Матч! Футбол 3
 
+
+#EXTINF:-1 tvg-id="match-premier" group-title="Sport", Матч Премьер HD
+https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
 
 #EXTINF:-1 tvg-id="millet" group-title="", Миллет
 http://live.trkmillet.ru/millet/index.m3u8
@@ -1083,6 +1086,9 @@ https://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-id="spas" group-title="Religion", Спас
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="start" group-title="Sport", Старт
+https://livetv.mylifeisgood.ml/channels/startlive.m3u8
 
 #EXTINF:-1 tvg-id="radio-strana-fm-tv" group-title="Music", Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
