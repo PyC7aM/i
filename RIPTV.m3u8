@@ -577,7 +577,7 @@ https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 
 
 #EXTINF:-1 tvg-id="arsenaltv" group-title="", Арсенал
-http://81.177.139.240:8000/play/a001/index.m3u8
+
 
 # Б
 
@@ -627,9 +627,6 @@ https://1040819719.rsc.cdn77.org/transcode/ses/playlist.m3u8
 
 #EXTINF:-1 tvg-id="doktor" group-title="", Доктор
 
-
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies" tvg-logo="https://kino.watch/img/logo.png", Доку
-https://edge-01.kino.watch/docu/index.m3u8
 
 #EXTINF:-1 tvg-id="domkino" group-title="Movies", Дом кино
 
@@ -715,10 +712,10 @@ http://cdn-01.bonus-tv.ru:8080/Kaleidoskop_edge/index.m3u8
 
 
 #EXTINF:-1 tvg-id="karapuz-tv" group-title="Kids", Карапуз ТВ
-http://online.karapuztv.ru/content/33418/index.m3u8?token=karapuztv2018
+
 
 #EXTINF:-1 tvg-id="karusel" group-title="Kids", Карусель
-http://radio-live-mg.rtr-vesti.ru/hls/karusel/playlist_3.m3u8
+
 
 #EXTINF:-1 tvg-id="kvartal-tv" group-title="Entertainment", Квартал ТВ
 http://193.239.75.218:8000/play/a076
@@ -748,7 +745,7 @@ http://livetv.mylifeisgood.ml/channels/kinomix.m3u8
 
 
 #EXTINF:-1 tvg-id="kinosemiya" group-title="Movies", Киносемья
-https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+
 
 #EXTINF:-1 tvg-id="kinoseria" group-title="Movies", Киносерия
 
@@ -772,11 +769,12 @@ https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
 http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="kuxnia-tv" group-title="", Кухня ТВ
-https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
+
 
 # Л
 
 #EXTINF:-1 tvg-id="nashe-lubimoe" group-title="Movies", Любимое
+
 
 #EXTINF:-1 tvg-id="lubimoe-kino" group-title="Movies", Любимое кино
 
@@ -847,7 +845,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="moya-planeta" group-title="", Моя Планета
-https://sc.id-tv.kz:443/MoyaPlaneta_34_35.m3u8
+
 
 #EXTINF:-1 tvg-id="muzhskoy" group-title="", Мужской
 
@@ -873,7 +871,7 @@ http://livetv.mylifeisgood.ml/channels/mult.m3u8
 # Н
 
 #EXTINF:-1 tvg-id="nst" group-title="Movies", НСТ
-https://sc.id-tv.kz/NSTV.m3u8
+
 
 #EXTINF:-1 tvg-id="ntv" group-title="", НТВ
 https://livetv.mylifeisgood.ml/channels/ntvhd.m3u8
@@ -960,7 +958,7 @@ http://rtmp.one.by:2200
 #EXTINF:-1 tvg-id="pervy" group-title="General", Первый канал
 https://livetv.mylifeisgood.ml/channels/perviytest.m3u8
 
-#EXTINF:-1 tvg-id="eureka-hd" group-title="", Первый Космический
+#EXTINF:-1 tvg-id="eureka-hd" group-title="", Первый космический
 https://livetv.mylifeisgood.ml/channels/firstspace
 
 #EXTINF:-1 tvg-id="onemuz" group-title="Music", Первый музыкальный
@@ -979,7 +977,7 @@ http://rtmp.one.by:1200
 
 
 #EXTINF:-1 tvg-id="poexali" group-title="Travel & Tourism", Поехали!
-https://sc.id-tv.kz/poehali_34_35.m3u8
+
 
 #EXTINF:-1 tvg-id="premialnoe-hd" group-title="", Премиальное HD
 
@@ -1014,7 +1012,7 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 http://78.25.155.47:1309/channel/REN.ts
 
 #EXTINF:-1 tvg-id="rentv-int" group-title="General", Рен ТВ International
-https://sc.id-tv.kz/RenTV_36_37.m3u8
+
 
 #EXTINF:-1 tvg-id="retro-tv" group-title="", Ретро ТВ
 
@@ -1032,13 +1030,13 @@ https://sc.id-tv.kz/RenTV_36_37.m3u8
 
 
 #EXTINF:-1 tvg-id="kultura" group-title="Entertainment", Россия К
-http://109.197.192.121:8080/rusk/index.m3u8
+
 
 #EXTINF:-1 tvg-id="rostov-papa" group-title="Regional", Ростов-папа
 http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="russky-bestseller" group-title="Movies", Русский бестселлер
-http://tv.tuva.ru/rusbestseller/index.m3u8
+
 
 #EXTINF:-1 tvg-id="russky-detektiv" group-title="Movies", Русский детектив
 http://78.25.155.47:1309/channel/rus_d.ts
@@ -1050,7 +1048,7 @@ http://78.25.155.47:1309/channel/rus_d.ts
 http://78.25.155.47:1309/channel/Rus_illuz.ts
 
 #EXTINF:-1 tvg-id="russky-roman" group-title="Movies", Русский роман
-http://tv.tuva.ru/rusroman/index.m3u8
+
 
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="Sport", Рыболов
 http://ott-cdn.ucom.am/s55/index.m3u8
@@ -1059,9 +1057,6 @@ http://ott-cdn.ucom.am/s55/index.m3u8
 http://ott-cdn.ucom.am/s57/index.m3u8
 
 # С
-
-#EXTINF:-1 tvg-id="smaylik-tv" group-title="Kids", Смайлик ТВ
-https://livetv.mylifeisgood.ml/channels/smile.m3u8
 
 #EXTINF:-1 tvg-id="sts" group-title="Entertainment", СТС
 http://31.210.208.167:80/sts/index.m3u8
@@ -1078,11 +1073,11 @@ http://31.148.48.15:80/STS_Love/index.m3u8
 #EXTINF:-1 tvg-id="sarafan" group-title="Entertainment", Сарафан
 http://31.148.48.15:80/Sarafan/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies" tvg-logo="https://kino.watch/img/logo.png", Свежаки
-https://edge-01.kino.watch/fresh/index.m3u8
-
 #EXTINF:-1 tvg-id="sever" group-title="Regional", Север
 https://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-id="smaylik-tv" group-title="Kids", Смайлик ТВ
+https://livetv.mylifeisgood.ml/channels/smile.m3u8
 
 #EXTINF:-1 tvg-id="spas" group-title="Religion", Спас
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
@@ -1135,12 +1130,6 @@ http://tochkatv-live.cdnvideo.ru/tochkatv2/MPEGTS.TOCHKA.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Ужас
 
-
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies" tvg-logo="https://kino.watch/img/logo.png", Ужастик
-http://edge-01.kino.watch/horror/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies" tvg-logo="https://kino.watch/img/logo.png", Уже видел
-https://edge-01.kino.watch/hit/index.m3u8
 
 #EXTINF:-1 tvg-id="usadba" group-title="", Усадьба
 http://94.230.240.17:8080/usadba/index.m3u8
