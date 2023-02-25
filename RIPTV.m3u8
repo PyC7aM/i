@@ -165,6 +165,9 @@ http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/1759/str
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Cinemax
 
 
+#EXTINF:-1 tvg-id="clubbing-tv" group-title="Music", Clubbing TV
+https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
+
 #EXTINF:-1 tvg-id="cnn" group-title="News", CNN
 https://ext.cdn.nashnet.tv/228.0.0.75/index.m3u8
 
@@ -817,10 +820,10 @@ https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/161
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="match-football2" group-title="Sport", Матч! Футбол 2
-
+https://livetv.mylifeisgood.ml/channels/cd25cdb66f1e55f36e25a975f05ff99a.m3u8
 
 #EXTINF:-1 tvg-id="match-football3" group-title="Sport", Матч! Футбол 3
-
+https://livetv.mylifeisgood.ml/channels/6bb97d9cb134ff599675fbd583b11132.m3u8
 
 #EXTINF:-1 tvg-id="millet" group-title="", Миллет
 http://live.trkmillet.ru/millet/index.m3u8
