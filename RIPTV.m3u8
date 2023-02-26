@@ -1161,7 +1161,7 @@ https://livetv.mylifeisgood.ml/channels/fenixkino.m3u8
 # Ч
 
 #EXTINF:-1 tvg-id="che" group-title="Entertainment", Че
-http://78.25.155.47:1309/channel/Che.ts
+https://livetv.mylifeisgood.ml/channels/che.m3u8
 
 # Ш
 
@@ -1184,7 +1184,7 @@ http://78.25.155.47:1309/channel/Shanson.ts
 # Ю
 
 #EXTINF:-1 tvg-id="yu" group-title="Entertainment", Ю
-http://flu.ttk.mx:9090/U/index.m3u8?token=orh6o
+https://livetv.mylifeisgood.ml/channels/u_ott_tv.m3u8
 
 #EXTINF:-1 tvg-id="yurgan" group-title="Regional", Юрган
 
