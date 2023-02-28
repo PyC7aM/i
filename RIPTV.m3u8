@@ -403,7 +403,7 @@ https://hls.rt.com/hls/rtdru.m3u8
 https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 
 #EXTINF:-1 tvg-id="rtg-tv" group-title="Travel & Tourism", RTG TV
-
+http://31.210.208.167:80/rtg/index.m3u8
 
 #EXTINF:-1 tvg-id="rtvi" group-title="", RTVi
 http://95.217.196.109:8081/russia/rtvi/playlist.m3u8
@@ -423,7 +423,7 @@ https://livetv.mylifeisgood.ml/channels/setantaplus
 
 
 #EXTINF:-1 tvg-id="sony-tv" group-title="", Sony ТВ HD
-
+http://31.210.208.167:80/set/index.m3u8
 
 #EXTINF:-1 tvg-id="star-family-ua" group-title="", Star Family Украина
 
@@ -577,7 +577,7 @@ http://78.25.155.47:1309/channel/zoo.ts
 
 
 #EXTINF:-1 tvg-id="avto24" group-title="", Авто24
-
+http://31.210.208.167:80/auto24/index.m3u8
 
 #EXTINF:-1 tvg-id="arsenaltv" group-title="", Арсенал
 
@@ -588,7 +588,7 @@ http://78.25.155.47:1309/channel/zoo.ts
 
 
 #EXTINF:-1 tvg-id="box-tv" group-title="Sport", Бокс ТВ
-
+http://31.210.208.167:80/box_tv/index.m3u8
 
 # В
 
@@ -641,7 +641,7 @@ http://78.25.155.47:1309/channel/DOM_kino.ts
 http://78.25.155.47:1309/channel/Dom_jiv.ts
 
 #EXTINF:-1 tvg-id="domashny" group-title="", Домашний
-
+http://31.210.208.167:80/home/index.m3u8
 
 #EXTINF:-1 tvg-id="drive" group-title="", Драйв
 http://78.25.155.47:1309/channel/Drive.ts
@@ -665,7 +665,7 @@ http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 # Ж
 
 #EXTINF:-1 tvg-id="zhara" group-title="Music", Жара
-
+http://31.210.208.167:80/jara/index.m3u8
 
 #EXTINF:-1 tvg-id="zhara" group-title="Music", Жара Kids TV
 http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
@@ -703,7 +703,7 @@ http://ott-cdn.ucom.am/s40/index.m3u8
 # К
 
 #EXTINF:-1 tvg-id="kvn-tv" group-title="Entertainment", КВН ТВ
-
+http://31.210.208.167:80/kvn/index.m3u8
 
 #EXTINF:-1 tvg-id="kxl-hd" group-title="Sport", КХЛ HD
 http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
@@ -724,7 +724,7 @@ http://cdn-01.bonus-tv.ru:8080/Kaleidoskop_edge/index.m3u8
 
 
 #EXTINF:-1 tvg-id="karusel" group-title="Kids", Карусель
-
+http://31.210.208.167:80/karusel/index.m3u8
 
 #EXTINF:-1 tvg-id="kvartal-tv" group-title="Entertainment", Квартал ТВ
 http://193.239.75.218:8000/play/a076
@@ -745,7 +745,7 @@ http://livetv.mylifeisgood.ml/channels/kinokomedia.m3u8
 http://livetv.mylifeisgood.ml/channels/kinomix.m3u8
 
 #EXTINF:-1 tvg-id="kinopokaz" group-title="Movies", Кинопоказ
-
+http://31.210.208.167:80/kinopokaz/index.m3u8
 
 #EXTINF:-1 tvg-id="kinopremiera-hd" group-title="Movies", Кинопремьера
 
@@ -763,7 +763,7 @@ http://livetv.mylifeisgood.ml/channels/kinomix.m3u8
 
 
 #EXTINF:-1 tvg-id="kinouzhas" group-title="Movies", Киноужас
-
+http://31.210.208.167:80/kinouzhas/index.m3u8
 
 #EXTINF:-1 tvg-id="kinoxit" group-title="Movies", Кинохит
 
@@ -799,8 +799,8 @@ http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="m2-ua" group-title="Music", М2
 http://live.m2.tv/hls3/720/stream.m3u8
 
-#EXTINF:-1 tvg-id="mama" group-title="", Мама
-
+#EXTINF:-1 tvg-id="mama" group-title="Kids", Мама
+http://31.210.208.167:80/mama/index.m3u8
 
 #EXTINF:-1 tvg-id="match-tv" group-title="Sport", Матч! HD
 http://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
@@ -851,7 +851,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="motorsportv-tv" group-title="Sport", Моторспорт ТВ
-
+http://31.210.208.167:80/motorsport/index.m3u8
 
 #EXTINF:-1 tvg-id="moya-planeta" group-title="", Моя Планета
 https://livetv.mylifeisgood.ml/channels/myplanet.m3u8
@@ -863,7 +863,7 @@ https://livetv.mylifeisgood.ml/channels/myplanet.m3u8
 
 
 #EXTINF:-1 tvg-id="muztv" group-title="Music", Муз-ТВ
-
+http://31.210.208.167:80/muztv/index.m3u8
 
 #EXTINF:-1 tvg-id="muzyka-pervogo" group-title="Music", Музыка Первого
 
@@ -880,7 +880,7 @@ http://livetv.mylifeisgood.ml/channels/mult.m3u8
 # Н
 
 #EXTINF:-1 tvg-id="nst" group-title="Movies", НСТ
-
+http://31.210.208.167:80/nst/index.m3u8
 
 #EXTINF:-1 tvg-id="ntv" group-title="", НТВ
 https://livetv.mylifeisgood.ml/channels/ntvhd.m3u8
@@ -1033,13 +1033,13 @@ http://78.25.155.47:1309/channel/REN.ts
 
 
 #EXTINF:-1 tvg-id="rossia1" group-title="General", Россия
-
+http://31.210.208.167:80/russia1/index.m3u8
 
 #EXTINF:-1 tvg-id="rossia-24" group-title="News", Россия 24
-
+http://31.210.208.167:80/russia24/index.m3u8
 
 #EXTINF:-1 tvg-id="kultura" group-title="Entertainment", Россия К
-
+http://31.210.208.167:80/russiak/index.m3u8
 
 #EXTINF:-1 tvg-id="rostov-papa" group-title="Regional", Ростов-папа
 http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
@@ -1109,7 +1109,7 @@ https://bl.uma.media/live/317845/HLS/4614144_3,2883584/2/1/playlist.m3u8
 https://bl.uma.media/live/407373/HLS/6307840_7,4280320/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvcentr" group-title="Entertainment", ТВ Центр
-
+http://31.210.208.167:80/tvc/index.m3u8
 
 #EXTINF:-1 tvg-id="tnt" group-title="Entertainment", ТНТ
 https://bl.uma.media/live/410338/HLS/6307840_7,4280320/2/1/playlist.m3u8
