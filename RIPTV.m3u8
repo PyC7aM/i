@@ -38,7 +38,7 @@ http://146.158.0.56/365dney/mono.m3u8
 http://ott-cdn.ucom.am/s45/index.m3u8
 
 #EXTINF:-1 tvg-id="amedia2" group-title="Movies", A2
-http://195.2.74.99/channel/593c0960/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Akudji
 https://hls.goodgame.ru/hls/5346.m3u8
@@ -47,7 +47,7 @@ https://hls.goodgame.ru/hls/5346.m3u8
 http://37.17.14.149:8903/play/a007
 
 #EXTINF:-1 tvg-id="amedia-premium" group-title="Movies", Amedia Premium
-http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/140/stream.m3u8
+
 
 #EXTINF:-1 tvg-id="amc" group-title="", AMC
 
@@ -126,41 +126,58 @@ https://livetv.mylifeisgood.ml/channels/bridgetvshlyager
 
 
 #EXTINF:-1 tvg-id="cineman" group-title="Movies", CineMan
-http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/1752/stream.m3u8
+
+
 #EXTINF:-1 tvg-id="cineman-action" group-title="Movies", Cineman Action
-http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/1755/stream.m3u8
+
+
 #EXTINF:-1 tvg-id="cineman-marvel" group-title="Movies", CineMan Marvel
-http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/1758/stream.m3u8
+
+
 #EXTINF:-1 tvg-id="cineman-melodrama" group-title="Movies", CineMan Melodrama
-http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/1757/stream.m3u8
+
+
 #EXTINF:-1 tvg-id="cineman-premium" group-title="Movies", Cineman Premium
-http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/2031/stream.m3u8
+
+
 #EXTINF:-1 tvg-id="cineman-thriller" group-title="Movies", CineMan Thriller
-http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/1756/stream.m3u8
+
+
 #EXTINF:-1 tvg-id="cineman-top" group-title="Movies", CineMan Top
-http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/1753/stream.m3u8
+
+
 #EXTINF:-1 tvg-id="cineman-vhs" group-title="Movies", CineMan VHS
-http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/1761/stream.m3u8
+
+
 #EXTINF:-1 tvg-id="cineman-katastrofy" group-title="Movies", CineMan Катастрофы
-http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/1754/stream.m3u8
+
+
 #EXTINF:-1 tvg-id="cineman-comedy" group-title="Movies", CineMan Комедия
-http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/1760/stream.m3u8
+
+
 #EXTINF:-1 tvg-id="cineman-lesnik" group-title="Movies", CineMan Лесник
 http://streamer.enchart.one/42/06936289cce93c2ec61855d924639487400f1e82/1807/stream.m3u8
+
 #EXTINF:-1 tvg-id="cineman-musw" group-title="Movies", CineMan Ментовские войны
-http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/1805/stream.m3u8
+
+
 #EXTINF:-1 tvg-id="cineman-pes" group-title="Movies", CineMan ПёС
-http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/1806/stream.m3u8
+
+
 #EXTINF:-1 tvg-id="cineman-rukino" group-title="Movies", CineMan РуКино
-http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/1762/stream.m3u8
+
+
 #EXTINF:-1 tvg-id="cineman-svaty" group-title="Movies", CineMan Сваты
-http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/1763/stream.m3u8
+
+
 #EXTINF:-1 tvg-id="cineman-simps" group-title="Cartoon", CineMan Симпсоны
-http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/1765/stream.m3u8
+
+
 #EXTINF:-1 tvg-id="cineman-skorpom" group-title="Movies", CineMan Скорая помощь
-http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/1764/stream.m3u8
+
+
 #EXTINF:-1 tvg-id="cineman-uzhasy" group-title="Movies", CineMan Ужасы
-http://streamer.enchart.one/42/2b2967a53fc0d44ce021af1f993fa49778574d0b/1759/stream.m3u8
+
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Cinemax
 
