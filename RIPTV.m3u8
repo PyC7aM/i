@@ -510,10 +510,10 @@ http://213.226.137.140:81/tl/l14/mpegts
 #EXTINF:-1 tvg-id="tvxxi" group-title="", TV XXI
 
 
-#EXTINF:-1 tvg-id="tv1000" group-title="Movies", TV1000
+#EXTINF:-1 tvg-id="tv1000" group-title="Movies", Viju TV1000
 https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tv1000-action" group-title="Movies", TV1000 Action
+#EXTINF:-1 tvg-id="tv1000-action" group-title="Movies", Viju TV1000 Action
 https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv1000-cee" group-title="Movies", TV1000 CEE
@@ -525,7 +525,7 @@ https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="tv1000-worldkino" group-title="Movies", TV1000 World Kino
 
 
-#EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Movies", TV1000 Русское кино
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Movies", Viju TV1000 Русское
 https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvmchannel" group-title="", TVMChannel
@@ -541,37 +541,37 @@ http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
 
 # V
 
-#EXTINF:-1 tvg-id="viasat-explore" group-title="", Viasat Explore
+#EXTINF:-1 tvg-id="viasat-explore" group-title="", Viju Explore
 https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="viasat-history" group-title="", Viasat History
+#EXTINF:-1 tvg-id="viasat-history" group-title="", Viju History
 https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="viasat-nature" group-title="", Viasat Nature
+#EXTINF:-1 tvg-id="viasat-nature" group-title="", Viju Nature
 https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="viasat-sport" group-title="Sport", Viasat Sport
+#EXTINF:-1 tvg-id="viasat-sport" group-title="Sport", Viju+ Sport
 https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vip-comedy" group-title="Movies", ViP Comedy
+#EXTINF:-1 tvg-id="vip-comedy" group-title="Movies", Viju+ Comedy
 https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vip-comedy-cee" group-title="Movies", ViP Comedy CEE
 
 
-#EXTINF:-1 tvg-id="vip-megahit" group-title="Movies", ViP Megahit
+#EXTINF:-1 tvg-id="vip-megahit" group-title="Movies", Viju+ Megahit
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vip-megahit-cee" group-title="Movies", ViP Megahit CEE
 
 
-#EXTINF:-1 tvg-id="vip-premiere" group-title="Movies", ViP Premiere
+#EXTINF:-1 tvg-id="vip-premiere" group-title="Movies", Viju+ Premiere
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vip-premiere-cee" group-title="Movies", ViP Premiere CEE
 
 
-#EXTINF:-1 tvg-id="vip-serial" group-title="Movies", ViP Serial
+#EXTINF:-1 tvg-id="vip-serial" group-title="Movies", Viju+ Serial
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="viva-rus" group-title="Music", VIVA Russia
