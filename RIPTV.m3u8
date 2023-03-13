@@ -644,7 +644,7 @@ https://v2.catcast.tv/content/38720/index.m3u8
 
 
 #EXTINF:-1 tvg-id="dozhd" group-title="News", Дождь
-https://1040819719.rsc.cdn77.org/transcode/ses/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="doktor" group-title="", Доктор
 
@@ -774,7 +774,7 @@ http://31.210.208.167:80/kinopokaz/index.m3u8
 
 
 #EXTINF:-1 tvg-id="kinoseria" group-title="Movies", Киносерия
-
+http://78.25.155.47:1309/channel/Mnogoser.ts
 
 #EXTINF:-1 tvg-id="kinosat" group-title="", Киносат
 
@@ -933,7 +933,7 @@ http://ott-cdn.ucom.am/s98/index.m3u8
 
 
 #EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="", Наше новое кино
-
+http://78.25.155.47:1309/channel/Kinohit.ts
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Новое радио
 
@@ -1041,16 +1041,16 @@ http://78.25.155.47:1309/channel/REN.ts
 
 
 #EXTINF:-1 tvg-id="retro-tv" group-title="", Ретро ТВ
-
+http://78.25.155.47:1309/channel/Retro.ts
 
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="Movies", Родное кино
-
+http://78.25.155.47:1309/channel/Nashe_kino.ts
 
 #EXTINF:-1 tvg-id="romantichnoe-hd" group-title="", Романтичное HD
 
 
 #EXTINF:-1 tvg-id="rossia1" group-title="General", Россия
-http://31.210.208.167:80/russia1/index.m3u8
+http://78.25.155.47:1309/channel/Ros_HD.ts
 
 #EXTINF:-1 tvg-id="rossia-24" group-title="News", Россия 24
 http://31.210.208.167:80/russia24/index.m3u8
@@ -1077,7 +1077,7 @@ http://78.25.155.47:1309/channel/Rus_illuz.ts
 http://78.25.155.47:1309/channel/Rus_rom.ts
 
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="Sport", Рыболов
-http://ott-cdn.ucom.am/s55/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ryzhy" group-title="Kids", Рыжий
 http://ott-cdn.ucom.am/s57/index.m3u8
