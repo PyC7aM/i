@@ -82,7 +82,7 @@ https://stream.backustv.ru/live/vipbtv3/index.m3u8
 http://stream.backustv.ru/live/btv2/index.m3u8
 
 #EXTINF:-1 tvg-id="bbc" group-title="News", BBC
-
+http://176.222.190.76/btv/SWM/BBC_World/BBC_World.m3u8
 
 #EXTINF:-1 tvg-id="bbc-america" group-title="News", BBC America
 
