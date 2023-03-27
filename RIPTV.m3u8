@@ -91,7 +91,7 @@ http://176.222.190.76/btv/SWM/BBC_World/BBC_World.m3u8
 https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/index.m3u8
 
 #EXTINF:-1 tvg-id="bollywood-hd" group-title="Movies", Bollywood
-https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+
 
 #EXTINF:-1 tvg-id="bolt" group-title="", Bolt
 http://81.198.190.9:7878/BOLT/video.m3u8
@@ -304,7 +304,7 @@ https://livetv.mylifeisgood.ml/channels/gulli.m3u8
 https://livetv.mylifeisgood.ml/channels/hdlife.m3u8
 
 #EXTINF:-1 tvg-id="history-ru" group-title="", History
-https://sc.id-tv.kz/HistoryHD_36_37.m3u8
+
 
 #EXTINF:-1 tvg-id="hollywood-hd" group-title="", Hollywood HD
 
