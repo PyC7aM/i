@@ -1040,7 +1040,7 @@ http://78.25.155.47:1309/channel/REN.ts
 #EXTINF:-1 tvg-id="rentv-int" group-title="General", Рен ТВ International
 
 
-#EXTINF:-1 tvg-id="retro-tv" group-title="", Ретро ТВ
+#EXTINF:-1 tvg-id="retro-tv" group-title="Movies", Ретро ТВ
 http://78.25.155.47:1309/channel/Retro.ts
 
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="Movies", Родное кино
