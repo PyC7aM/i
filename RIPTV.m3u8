@@ -547,7 +547,7 @@ https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="viasat-history" group-title="", Viju History
 https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="viasat-nature" group-title="", Viju Nature
+#EXTINF:-1 tvg-id="viasat-nature" group-title="Nature", Viju Nature
 https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv1000" group-title="Movies", Viju TV1000
@@ -899,22 +899,22 @@ http://livetv.mylifeisgood.ml/channels/mult.m3u8
 #EXTINF:-1 tvg-id="nst" group-title="Movies", НСТ
 
 
-#EXTINF:-1 tvg-id="ntv" group-title="", НТВ
+#EXTINF:-1 tvg-id="ntv" group-title="General", НТВ
 https://livetv.mylifeisgood.ml/channels/ntvhd.m3u8
 
-#EXTINF:-1 tvg-id="ntv-mir" group-title="", НТВ-Мир
+#EXTINF:-1 tvg-id="ntv-mir" group-title="General", НТВ-Мир
 http://ott-cdn.ucom.am/s17/index.m3u8
 
 #EXTINF:-1 tvg-id="ntv-pravo" group-title="", НТВ Право
 https://livetv.mylifeisgood.ml/channels/ntvpravo24
 
-#EXTINF:-1 tvg-id="ntv-serial" group-title="", НТВ Сериал
+#EXTINF:-1 tvg-id="ntv-serial" group-title="Movies", НТВ Сериал
 https://livetv.mylifeisgood.ml/channels/ntvserial24
 
 #EXTINF:-1 tvg-id="ntv-style" group-title="", НТВ Стиль
 https://livetv.mylifeisgood.ml/channels/ntvstyle24
 
-#EXTINF:-1 tvg-id="ntv-xit" group-title="", НТВ-Хит
+#EXTINF:-1 tvg-id="ntv-xit" group-title="Movies", НТВ-Хит
 https://livetv.mylifeisgood.ml/channels/ntvhit24
 
 #EXTINF:-1 tvg-id="ntm" group-title="Regional", НТМ
@@ -932,13 +932,13 @@ http://ott-cdn.ucom.am/s98/index.m3u8
 #EXTINF:-1 tvg-id="nashehd" group-title="", Наше HD
 
 
-#EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="", Наше новое кино
+#EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="Movies", Наше новое кино
 http://78.25.155.47:1309/channel/Kinohit.ts
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Новое радио
 
 
-#EXTINF:-1 tvg-id="novy-mir" group-title="", Новый мир
+#EXTINF:-1 tvg-id="novy-mir" group-title="General", Новый мир
 http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 
 # О
