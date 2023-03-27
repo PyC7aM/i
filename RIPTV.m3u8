@@ -94,7 +94,7 @@ https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/index.m3u8
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 
 #EXTINF:-1 tvg-id="bolt" group-title="", Bolt
-
+http://81.198.190.9:7878/BOLT/video.m3u8
 
 #EXTINF:-1 tvg-id="bridge-tv" group-title="Music", Bridge TV
 https://livetv.mylifeisgood.ml/channels/bridgetv24h
@@ -126,7 +126,7 @@ https://livetv.mylifeisgood.ml/channels/bridgetvshlyager
 
 
 #EXTINF:-1 tvg-id="cinema-ru" group-title="Movies", Cinema
-
+http://176.222.190.76/btv/SWM/CINEMA/CINEMA.m3u8
 
 #EXTINF:-1 tvg-id="cineman" group-title="Movies", CineMan
 
