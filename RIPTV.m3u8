@@ -280,7 +280,7 @@ https://livetv.mylifeisgood.ml/channels/gulli.m3u8
 # H
 
 #EXTINF:-1 tvg-id="h2" group-title="", H2
-
+http://176.222.190.76/btv/SWM/History2HD/History2HD.m3u8
 
 #EXTINF:-1 tvg-id="hbo-hd" group-title="Movies", HBO
 
@@ -304,10 +304,10 @@ https://livetv.mylifeisgood.ml/channels/gulli.m3u8
 https://livetv.mylifeisgood.ml/channels/hdlife.m3u8
 
 #EXTINF:-1 tvg-id="history-ru" group-title="", History
+http://176.222.190.76/btv/SWM/HistoryHD/HistoryHD.m3u8
 
-
-#EXTINF:-1 tvg-id="hollywood-hd" group-title="", Hollywood HD
-
+#EXTINF:-1 tvg-id="hollywood" group-title="", Hollywood
+http://176.222.190.76/btv/SWM/Hollywood/Hollywood.m3u8
 
 # I
 
