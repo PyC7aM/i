@@ -1021,7 +1021,7 @@ https://livetv.mylifeisgood.ml/channels/adventureshd.m3u8
 
 
 #EXTINF:-1 tvg-id="piatnica" group-title="Entertainment", Пятница
-https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
+https://livetv.mylifeisgood.ml/channels/friday.m3u8
 
 #EXTINF:-1 tvg-id="piatnica-int" group-title="Entertainment", Пятница International
 http://ott-cdn.ucom.am/s50/index.m3u8
@@ -1126,13 +1126,16 @@ https://bl.uma.media/live/317845/HLS/4614144_3,2883584/2/1/playlist.m3u8
 # Т
 
 #EXTINF:-1 tvg-id="tv3-ru" group-title="Entertainment", ТВ3
-https://bl.uma.media/live/407373/HLS/6307840_7,4280320/2/1/playlist.m3u8
+https://bl.uma.media/live/317846/HLS/4614144_3/2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv3-int" group-title="Entertainment", ТВ3 International
+http://176.222.190.76/btv/SWM/TB_3_International/TB_3_International.m3u8
 
 #EXTINF:-1 tvg-id="tvcentr" group-title="Entertainment", ТВ Центр
-
+http://176.222.190.76/btv/SWM/TVCentr/TVCentr.m3u8
 
 #EXTINF:-1 tvg-id="tnt" group-title="Entertainment", ТНТ
-https://bl.uma.media/live/410338/HLS/6307840_7,4280320/2/1/playlist.m3u8
+https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tnt-int-cis" group-title="Entertainment", ТНТ-International
 http://ott-cdn.ucom.am/s19/index.m3u8
@@ -1174,7 +1177,7 @@ https://livetv.mylifeisgood.ml/channels/fenixkino.m3u8
 # Х
 
 #EXTINF:-1 tvg-id="khit-hd" group-title="Movies", Хит HD
-
+http://80.251.49.103:8003/play/81
 
 # Ц
 
@@ -1186,7 +1189,7 @@ https://livetv.mylifeisgood.ml/channels/che.m3u8
 # Ш
 
 #EXTINF:-1 tvg-id="shanson-tv" group-title="Music", Шансон-TB
-http://78.25.155.47:1309/channel/Shanson.ts
+http://176.222.190.76/btv/SWM/Shanson_TV/Shanson_TV.m3u8
 
 #EXTINF:-1 tvg-id="shokiruyushchee-hd" group-title="Movies", Шокирующее HD
 http://streamer.enchart.one/42/06936289cce93c2ec61855d924639487400f1e82/170/stream.m3u8
