@@ -370,10 +370,10 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 # N
 
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="", Nat Geo Wild
-
+http://176.222.190.76/btv/SWM/NatGeo_Wild/NatGeo_Wild.m3u8
 
 #EXTINF:-1 tvg-id="national-geographic" group-title="", National Geographic
-
+http://176.222.190.76/btv/SWM/NatGeo_channel/NatGeo_channel.m3u8
 
 #EXTINF:-1 tvg-id="nick-jr" group-title="Kids", Nick Jr
 
@@ -404,7 +404,7 @@ https://livetv.mylifeisgood.ml/channels/paramount_channel.m3u8
 https://livetv.mylifeisgood.ml/channels/paramount_comedy
 
 #EXTINF:-1 tvg-id="plan-b" group-title="", Plan B
-
+http://176.222.190.76/btv/SWM/plan_b/plan_b.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Portal FoxMix TV
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
@@ -426,7 +426,7 @@ https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 
 
 #EXTINF:-1 tvg-id="rtvi" group-title="", RTVi
-
+http://176.222.190.76/btv/SWM/RTVi/RTVi.m3u8
 
 # S
 
@@ -498,14 +498,14 @@ https://stirr.ott-channels.stingray.com/134/master.m3u8
 #EXTINF:-1 tvg-id="tiji" group-title="Kids", TiJi
 
 
-#EXTINF:-1 tvg-id="tlc-panregional" group-title="", TLC Pan Regional
-
+#EXTINF:-1 tvg-id="tlc" group-title="", TLC
+http://176.222.190.76/btv/SWM/tlc_hd/tlc_hd.m3u8
 
 #EXTINF:-1 tvg-id="trashtv" group-title="Movies", Trash
 https://livetv.mylifeisgood.ml/channels/trash.m3u8
 
 #EXTINF:-1 tvg-id="travel-channel" group-title="Travel & Tourism", Travel Channel
-
+http://88.216.83.245/travel/index.m3u8
 
 #EXTINF:-1 tvg-id="travel-adventure" group-title="Travel & Tourism", Travel+Adventure
 
@@ -685,7 +685,7 @@ http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 # Ж
 
 #EXTINF:-1 tvg-id="zhara" group-title="Music", Жара
-
+rtmp://5.182.231.251//2129
 
 #EXTINF:-1 tvg-id="zhara" group-title="Music", Жара Kids TV
 http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
