@@ -706,7 +706,7 @@ http://ott-cdn.ucom.am/s92/index.m3u8
 #EXTINF:-1 tvg-id="izvestia" group-title="News", Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 
-#EXTINF:-1 tvg-id="illuzion-plus" group-title="", Иллюзион +
+#EXTINF:-1 tvg-id="illuzion-plus" group-title="Movies", Иллюзион +
 http://78.25.155.47:1309/channel/Illuz_plus.ts
 
 #EXTINF:-1 tvg-id="indiyskoe-kino" group-title="Movies", Индийское кино
