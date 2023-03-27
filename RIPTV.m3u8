@@ -44,10 +44,10 @@ rtmp://5.182.231.251//2046
 https://hls.goodgame.ru/hls/5346.m3u8
 
 #EXTINF:-1 tvg-id="amedia-hit" group-title="Movies", Amedia Hit
-http://37.17.14.149:8903/play/a007
+http://176.222.190.76/btv/SWM/AmediaHitHD/AmediaHitHD.m3u8
 
 #EXTINF:-1 tvg-id="amedia-premium" group-title="Movies", Amedia Premium
-
+http://176.222.190.76/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD.m3u8
 
 #EXTINF:-1 tvg-id="amc" group-title="", AMC
 
