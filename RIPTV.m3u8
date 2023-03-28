@@ -228,6 +228,9 @@ https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="euronews" group-title="News", EuroNews
 
 
+#EXTINF:-1 tvg-id="europa-plus-tv" group-title="Music", Европа Плюс ТВ
+https://livetv.mylifeisgood.ml/channels/europaplustv24.m3u8
+
 #EXTINF:-1 tvg-id="eurosport1" group-title="Sport", Eurosport 1
 https://livetv.mylifeisgood.ml/channels/eurosport1ru
 
@@ -883,7 +886,7 @@ https://livetv.mylifeisgood.ml/channels/myplanet.m3u8
 
 
 #EXTINF:-1 tvg-id="muztv" group-title="Music", Муз-ТВ
-
+https://livetv.mylifeisgood.ml/channels/muztvhd.m3u8
 
 #EXTINF:-1 tvg-id="muzyka-pervogo" group-title="Music", Музыка Первого
 
