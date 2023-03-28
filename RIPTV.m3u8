@@ -1000,7 +1000,7 @@ http://rtmp.one.by:1200
 
 
 #EXTINF:-1 tvg-id="perec-int" group-title="Entertainment", Перец Int
-
+http://176.222.190.76/btv/SWM/Perec/Perec.m3u8
 
 #EXTINF:-1 tvg-id="pobeda" group-title="", Победа
 
