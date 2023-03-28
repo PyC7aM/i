@@ -589,7 +589,7 @@ https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 # Z
 
 #EXTINF:-1 tvg-id="zoopark" group-title="", ZooПарк
-http://78.25.155.47:1309/channel/zoo.ts
+
 
 # А
 
@@ -653,18 +653,18 @@ https://v2.catcast.tv/content/38720/index.m3u8
 
 
 #EXTINF:-1 tvg-id="domkino" group-title="Movies", Дом кино
-http://78.25.155.47:1309/channel/DOM_kino.ts
+
 
 #EXTINF:-1 tvg-id="domkino-premium" group-title="", Дом кино Премиум HD
 
 #EXTINF:-1 tvg-id="domashnie-zhivotnye" group-title="", Домашние животные
-http://78.25.155.47:1309/channel/Dom_jiv.ts
+
 
 #EXTINF:-1 tvg-id="domashny" group-title="", Домашний
 
 
 #EXTINF:-1 tvg-id="drive" group-title="", Драйв
-http://78.25.155.47:1309/channel/Drive.ts
+
 
 #EXTINF:-1 tvg-id="dushevnoe" group-title="", Душевное
 
@@ -710,7 +710,7 @@ http://ott-cdn.ucom.am/s92/index.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 
 #EXTINF:-1 tvg-id="illuzion-plus" group-title="Movies", Иллюзион +
-http://78.25.155.47:1309/channel/Illuz_plus.ts
+
 
 #EXTINF:-1 tvg-id="indiyskoe-kino" group-title="Movies", Индийское кино
 
@@ -777,7 +777,7 @@ http://livetv.mylifeisgood.ml/channels/kinomix.m3u8
 
 
 #EXTINF:-1 tvg-id="kinoseria" group-title="Movies", Киносерия
-http://78.25.155.47:1309/channel/Mnogoser.ts
+
 
 #EXTINF:-1 tvg-id="kinosat" group-title="", Киносат
 
@@ -936,7 +936,7 @@ http://ott-cdn.ucom.am/s98/index.m3u8
 
 
 #EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="Movies", Наше новое кино
-http://78.25.155.47:1309/channel/Kinohit.ts
+
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Новое радио
 
@@ -965,7 +965,7 @@ https://livetv.mylifeisgood.ml/channels/oruzhie.m3u8
 
 
 #EXTINF:-1 tvg-id="oxota-i-rybalka" group-title="", Охота и рыбалка
-http://78.25.155.47:1309/channel/Ohota_i_rib.ts
+
 
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" group-title="Sport", Охотник и рыболов HD
 http://ott-cdn.ucom.am/s62/index.m3u8
@@ -1027,7 +1027,7 @@ https://livetv.mylifeisgood.ml/channels/friday.m3u8
 http://ott-cdn.ucom.am/s50/index.m3u8
 
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="Movies", Пятый канал
-http://78.25.155.47:1309/channel/ch5.ts
+
 
 # Р
 
@@ -1038,22 +1038,22 @@ http://78.25.155.47:1309/channel/ch5.ts
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 
 #EXTINF:-1 tvg-id="rentv" group-title="General", Рен ТВ
-http://78.25.155.47:1309/channel/REN.ts
+
 
 #EXTINF:-1 tvg-id="rentv-int" group-title="General", Рен ТВ International
 
 
 #EXTINF:-1 tvg-id="retro-tv" group-title="Movies", Ретро ТВ
-http://78.25.155.47:1309/channel/Retro.ts
+
 
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="Movies", Родное кино
-http://78.25.155.47:1309/channel/Nashe_kino.ts
+
 
 #EXTINF:-1 tvg-id="romantichnoe-hd" group-title="", Романтичное HD
 
 
 #EXTINF:-1 tvg-id="rossia1" group-title="General", Россия
-http://78.25.155.47:1309/channel/Ros_HD.ts
+
 
 #EXTINF:-1 tvg-id="rossia-24" group-title="News", Россия 24
 
@@ -1068,16 +1068,16 @@ http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="russky-detektiv" group-title="Movies", Русский детектив
-http://78.25.155.47:1309/channel/rus_d.ts
+
 
 #EXTINF:-1 tvg-id="russky-ekstrim" group-title="", Русский экстрим
 
 
 #EXTINF:-1 tvg-id="russky-illuzion" group-title="Movies", Русский иллюзион
-http://78.25.155.47:1309/channel/Rus_illuz.ts
+
 
 #EXTINF:-1 tvg-id="russky-roman" group-title="Movies", Русский роман
-http://78.25.155.47:1309/channel/Rus_rom.ts
+
 
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="Sport", Рыболов
 
