@@ -1056,7 +1056,7 @@ rtmp://5.182.231.251//2018
 https://livetv.mylifeisgood.ml/channels/russia1.m3u8
 
 #EXTINF:-1 tvg-id="rossia-24" group-title="News", Россия 24
-
+https://livetv.mylifeisgood.ml/channels/russia24.m3u8
 
 #EXTINF:-1 tvg-id="kultura" group-title="Entertainment", Россия К
 
