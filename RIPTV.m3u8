@@ -1041,7 +1041,7 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 https://livetv.mylifeisgood.ml/channels/rentv.m3u8
 
 #EXTINF:-1 tvg-id="rentv-int" group-title="General", Рен ТВ International
-
+http://176.222.190.76/btv/SWM/RenTV/RenTV.m3u8
 
 #EXTINF:-1 tvg-id="retro-tv" group-title="Movies", Ретро ТВ
 rtmp://5.182.231.251//2018
@@ -1053,7 +1053,7 @@ rtmp://5.182.231.251//2018
 
 
 #EXTINF:-1 tvg-id="rossia1" group-title="General", Россия
-
+https://livetv.mylifeisgood.ml/channels/russia1.m3u8
 
 #EXTINF:-1 tvg-id="rossia-24" group-title="News", Россия 24
 
