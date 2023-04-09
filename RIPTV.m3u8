@@ -401,7 +401,7 @@ https://livetv.mylifeisgood.ml/channels/nickelodeon-hd.m3u8
 # P
 
 #EXTINF:-1 tvg-id="paramount-channel" group-title="", Paramount Channel
-https://livetv.mylifeisgood.ml/channels/paramount_channel.m3u8
+
 
 #EXTINF:-1 tvg-id="paramount-comedy" group-title="", Paramount Comedy
 https://livetv.mylifeisgood.ml/channels/paramount_comedy
@@ -410,7 +410,7 @@ https://livetv.mylifeisgood.ml/channels/paramount_comedy
 http://176.222.190.76/btv/SWM/plan_b/plan_b.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Portal FoxMix TV
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+
 
 # Q
 
