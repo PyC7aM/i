@@ -258,7 +258,7 @@ http://ott-cdn.ucom.am/s79/index.m3u8
 
 
 #EXTINF:-1 tvg-id="fox" group-title="", Fox
-http://176.222.190.76/btv/SWM/FOX/FOX.m3u8
+rtmp://5.182.231.251//2055
 
 #EXTINF:-1 tvg-id="no_epg" group-title="", Fox Comedy
 
@@ -367,9 +367,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:-1 tvg-id="musicbox" group-title="Music", MusicBox Gold
 
 
-#EXTINF:-1 tvg-id="russian-musicbox" group-title="Music", MusicBox Russia
-
-
 # N
 
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="", Nat Geo Wild
@@ -430,6 +427,9 @@ https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 
 #EXTINF:-1 tvg-id="rtvi" group-title="", RTVi
 http://176.222.190.76/btv/SWM/RTVi/RTVi.m3u8
+
+#EXTINF:-1 tvg-id="russian-musicbox" group-title="Music", Russian MusicBox
+rtmp://5.182.231.251//2048
 
 # S
 
@@ -647,7 +647,7 @@ https://v2.catcast.tv/content/38720/index.m3u8
 
 
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="Sport", Дикая рыбалка HD
-
+rtmp://5.182.231.251//2005
 
 #EXTINF:-1 tvg-id="dikiy" group-title="", Дикий
 
@@ -670,7 +670,7 @@ https://v2.catcast.tv/content/38720/index.m3u8
 https://livetv.mylifeisgood.ml/channels/domashnii
 
 #EXTINF:-1 tvg-id="drive" group-title="", Драйв
-
+rtmp://5.182.231.251//2021
 
 #EXTINF:-1 tvg-id="dushevnoe" group-title="", Душевное
 
@@ -792,7 +792,7 @@ http://livetv.mylifeisgood.ml/channels/kinomix.m3u8
 
 
 #EXTINF:-1 tvg-id="kinouzhas" group-title="Movies", Киноужас
-
+rtmp://5.182.231.251//2056
 
 #EXTINF:-1 tvg-id="kinoxit" group-title="Movies", Кинохит
 
@@ -818,7 +818,7 @@ http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="la-minor" group-title="Music", Ля-минор
-
+rtmp://5.182.231.251//2043
 
 # М
 
@@ -976,7 +976,7 @@ https://livetv.mylifeisgood.ml/channels/otr24.m3u8
 
 
 #EXTINF:-1 tvg-id="oxota-i-rybalka" group-title="", Охота и рыбалка
-
+rtmp://5.182.231.251//2019
 
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" group-title="Sport", Охотник и рыболов HD
 http://ott-cdn.ucom.am/s62/index.m3u8
@@ -1158,13 +1158,13 @@ http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdlow.m3u8
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tayna" group-title="", Тайна
-
+rtmp://5.182.231.251//2059
 
 #EXTINF:-1 tvg-id="tvoyo-tv-hd" group-title="Entertainment", Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 
 #EXTINF:-1 tvg-id="texno-24" group-title="", Техно 24
-
+rtmp://5.182.231.251//2023
 
 #EXTINF:-1 tvg-id="tochka-tv" group-title="", Точка
 http://tochkatv-live.cdnvideo.ru/tochkatv2/MPEGTS.TOCHKA.stream/playlist.m3u8
