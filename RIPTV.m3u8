@@ -198,6 +198,8 @@ https://ext.cdn.nashnet.tv/228.0.0.75/index.m3u8
 
 #EXTINF:-1 tvg-id="da-vinci" group-title="Kids", Da Vinci Learning
 
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Dance TV
+https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Deep House District
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
@@ -514,7 +516,7 @@ http://88.216.83.245/travel/index.m3u8
 http://hez1-flu.iptvstream.site/194/tracks-v1a1/mono.m3u8?token=725905%2C%2C%2C8776343186
 
 #EXTINF:-1 tvg-id="tvxxi" group-title="", TV XXI
-
+http://176.222.190.76/btv/SWM/tv21/tv21.m3u8
 
 #EXTINF:-1 tvg-id="tv1000-cee" group-title="Movies", TV1000 CEE
 
@@ -647,7 +649,7 @@ https://v2.catcast.tv/content/38720/index.m3u8
 
 
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="Sport", Дикая охота HD
-
+rtmp://5.182.231.251//2004
 
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="Sport", Дикая рыбалка HD
 rtmp://5.182.231.251//2005
@@ -664,7 +666,8 @@ rtmp://5.182.231.251//2005
 #EXTINF:-1 tvg-id="domkino" group-title="Movies", Дом кино
 
 
-#EXTINF:-1 tvg-id="domkino-premium" group-title="", Дом кино Премиум HD
+#EXTINF:-1 tvg-id="domkino-premium" group-title="", Дом кино премиум HD
+http://176.222.190.76/btv/SWM/Dom_kino_Prem/Dom_kino_Prem.m3u8
 
 #EXTINF:-1 tvg-id="domashnie-zhivotnye" group-title="", Домашние животные
 
@@ -681,7 +684,7 @@ rtmp://5.182.231.251//2021
 # Е
 
 #EXTINF:-1 tvg-id="evrokino" group-title="Movies", Еврокино
-
+http://176.222.190.76/btv/SWM/Eurokino/Eurokino.m3u8
 
 #EXTINF:-1 tvg-id="eda-hd" group-title="", Еда Премиум
 
@@ -722,7 +725,7 @@ http://ott-cdn.ucom.am/s92/index.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 
 #EXTINF:-1 tvg-id="illuzion-plus" group-title="Movies", Иллюзион +
-
+http://176.222.190.76/btv/SWM/Illuzion-Plus_SWM/Illuzion-Plus_SWM.m3u8
 
 #EXTINF:-1 tvg-id="indiyskoe-kino" group-title="Movies", Индийское кино
 
@@ -792,13 +795,13 @@ http://livetv.mylifeisgood.ml/channels/kinomix.m3u8
 
 
 #EXTINF:-1 tvg-id="kinosat" group-title="", Киносат
-
+rtmp://5.182.231.251//2121
 
 #EXTINF:-1 tvg-id="kinouzhas" group-title="Movies", Киноужас
 rtmp://5.182.231.251//2056
 
 #EXTINF:-1 tvg-id="kinoxit" group-title="Movies", Кинохит
-
+http://45.159.74.13:80/Kinokhit/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="komedijnoe-hd" group-title="", Комедийное HD
 
@@ -877,7 +880,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="mir-seriala" group-title="Movies", Мир сериала
-
+http://176.222.190.76/btv/SWM/mir_seriala/mir_seriala.m3u8
 
 #EXTINF:-1 tvg-id="mosfilm" group-title="Movies", Мосфильм. Золотая коллекция
 http://streamer.enchart.one/42/06936289cce93c2ec61855d924639487400f1e82/1155/stream.m3u8
