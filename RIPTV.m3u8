@@ -30,7 +30,7 @@ https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m
 http://146.158.0.56/365dney/mono.m3u8
 
 #EXTINF:-1 tvg-id="9kanal-israel" group-title="", 9 канал Израиль
-http://hez1-flu.iptvstream.site/201/tracks-v1a1/mono.m3u8?token=725905%2C%2C%2C8776343186
+
 
 # A
 
@@ -349,7 +349,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 
 
 #EXTINF:-1 tvg-id="mtv-live-hd" group-title="Music", MTV Live
-http://hez1-flu.iptvstream.site/173/tracks-v1a1/mono.m3u8?token=725905%2C%2C%2C8776343186
+
 
 #EXTINF:-1 tvg-id="mtv-rocks" group-title="Music", MTV Rocks
 
@@ -392,7 +392,7 @@ https://livetv.mylifeisgood.ml/channels/nickelodeon-hd.m3u8
 # O
 
 #EXTINF:-1 tvg-id="oceon-tv" group-title="", Ocean TV
-http://hez1-flu.iptvstream.site/46/tracks-v1a1/mono.m3u8?token=725905%2C%2C%2C8776343186
+
 
 #EXTINF:-1 tvg-id="ostwest" group-title="", OstWest
 
@@ -513,7 +513,7 @@ https://livetv.mylifeisgood.ml/channels/trash.m3u8
 http://88.216.83.245/travel/index.m3u8
 
 #EXTINF:-1 tvg-id="travel-adventure" group-title="Travel & Tourism", Travel+Adventure
-http://hez1-flu.iptvstream.site/194/tracks-v1a1/mono.m3u8?token=725905%2C%2C%2C8776343186
+
 
 #EXTINF:-1 tvg-id="tvxxi" group-title="", TV XXI
 http://176.222.190.76/btv/SWM/tv21/tv21.m3u8
@@ -558,9 +558,6 @@ https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" group-title="Nature", Viju Nature
 https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="viasat-nature-history-hd" group-title="Nature", Viju+ Planet
-http://hez1-flu.iptvstream.site/199/tracks-v1a1/mono.m3u8?token=725905%2C%2C%2C8776343186
-
 #EXTINF:-1 tvg-id="tv1000" group-title="Movies", Viju TV1000
 https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
 
@@ -575,6 +572,9 @@ https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vip-megahit" group-title="Movies", Viju+ Megahit
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="viasat-nature-history-hd" group-title="Nature", Viju+ Planet
+
 
 #EXTINF:-1 tvg-id="vip-premiere" group-title="Movies", Viju+ Premiere
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
@@ -915,7 +915,7 @@ http://livetv.mylifeisgood.ml/channels/mult.m3u8
 # Н
 
 #EXTINF:-1 tvg-id="nst" group-title="Movies", НСТ
-http://hez1-flu.iptvstream.site/81/tracks-v1a1/mono.m3u8?token=725905%2C%2C%2C8776343186
+
 
 #EXTINF:-1 tvg-id="ntv" group-title="General", НТВ
 https://livetv.mylifeisgood.ml/channels/ntvhd.m3u8
@@ -962,7 +962,7 @@ http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 # О
 
 #EXTINF:-1 tvg-id="o_" group-title="Kids", О!
-http://hez1-flu.iptvstream.site/119/tracks-v1a1/mono.m3u8?token=725905%2C%2C%2C8776343186
+
 
 #EXTINF:-1 tvg-id="o2tv" group-title="Music", О2ТВ
 
@@ -974,7 +974,7 @@ http://hez1-flu.iptvstream.site/119/tracks-v1a1/mono.m3u8?token=725905%2C%2C%2C8
 https://livetv.mylifeisgood.ml/channels/oruzhie.m3u8
 
 #EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" group-title="Movies", Остросюжетное HD
-http://hez1-flu.iptvstream.site/294/tracks-v1a1/mono.m3u8?token=725905%2C%2C%2C8776343186
+
 
 #EXTINF:-1 tvg-id="otr" group-title="", ОТР
 https://livetv.mylifeisgood.ml/channels/otr24.m3u8
@@ -1033,7 +1033,7 @@ http://176.222.190.76/btv/SWM/Pobeda/Pobeda.m3u8
 https://livetv.mylifeisgood.ml/channels/adventureshd.m3u8
 
 #EXTINF:-1 tvg-id="pro-lyubov" group-title="", Про Любовь
-http://hez1-flu.iptvstream.site/94/tracks-v1a1/mono.m3u8?token=725905%2C%2C%2C8776343186
+
 
 #EXTINF:-1 tvg-id="prodvizhenie" group-title="Entertainment", Продвижение
 
@@ -1065,7 +1065,7 @@ http://176.222.190.76/btv/SWM/RenTV/RenTV.m3u8
 rtmp://5.182.231.251//2018
 
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="Movies", Родное кино
-http://hez1-flu.iptvstream.site/82/tracks-v1a1/mono.m3u8?token=725905%2C%2C%2C8776343186
+
 
 #EXTINF:-1 tvg-id="romantichnoe-hd" group-title="", Романтичное HD
 
@@ -1083,19 +1083,19 @@ https://livetv.mylifeisgood.ml/channels/russia24.m3u8
 http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="russky-bestseller" group-title="Movies", Русский бестселлер
-http://hez1-flu.iptvstream.site/54/tracks-v1a1/mono.m3u8?token=725905%2C%2C%2C8776343186
+
 
 #EXTINF:-1 tvg-id="russky-detektiv" group-title="Movies", Русский детектив
-http://hez1-flu.iptvstream.site/55/tracks-v1a1/mono.m3u8?token=725905%2C%2C%2C8776343186
+
 
 #EXTINF:-1 tvg-id="russky-ekstrim" group-title="", Русский экстрим
-http://hez1-flu.iptvstream.site/150/tracks-v1a1/mono.m3u8?token=725905%2C%2C%2C8776343186
+
 
 #EXTINF:-1 tvg-id="russky-illuzion" group-title="Movies", Русский иллюзион
-http://hez1-flu.iptvstream.site/56/tracks-v1a1/mono.m3u8?token=725905%2C%2C%2C8776343186
+
 
 #EXTINF:-1 tvg-id="russky-roman" group-title="Movies", Русский роман
-http://hez1-flu.iptvstream.site/57/tracks-v1a1/mono.m3u8?token=725905%2C%2C%2C8776343186
+
 
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="Sport", Рыболов
 
@@ -1182,7 +1182,7 @@ http://tochkatv-live.cdnvideo.ru/tochkatv2/MPEGTS.TOCHKA.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="usadba" group-title="", Усадьба
-http://hez1-flu.iptvstream.site/49/tracks-v1a1/mono.m3u8?token=725905%2C%2C%2C8776343186
+
 
 # Ф
 
