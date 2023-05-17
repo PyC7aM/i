@@ -44,10 +44,10 @@ rtmp://5.182.231.251//2046
 https://hls.goodgame.ru/hls/5346.m3u8
 
 #EXTINF:-1 tvg-id="amedia-hit" group-title="Movies", Amedia Hit
-http://176.222.190.76/btv/SWM/AmediaHitHD/AmediaHitHD.m3u8
+
 
 #EXTINF:-1 tvg-id="amedia-premium" group-title="Movies", Amedia Premium
-http://176.222.190.76/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD.m3u8
+
 
 #EXTINF:-1 tvg-id="amc" group-title="", AMC
 
@@ -85,7 +85,7 @@ https://stream.backustv.ru/live/vipbtv3/index.m3u8
 http://stream.backustv.ru/live/btv2/index.m3u8
 
 #EXTINF:-1 tvg-id="bbc" group-title="News", BBC
-http://176.222.190.76/btv/SWM/BBC_World/BBC_World.m3u8
+
 
 #EXTINF:-1 tvg-id="bbc-america" group-title="News", BBC America
 
@@ -129,7 +129,7 @@ https://livetv.mylifeisgood.ml/channels/bridgetvshlyager
 
 
 #EXTINF:-1 tvg-id="cinema-ru" group-title="Movies", Cinema
-http://176.222.190.76/btv/SWM/CINEMA/CINEMA.m3u8
+
 
 #EXTINF:-1 tvg-id="cineman" group-title="Movies", CineMan
 
@@ -266,7 +266,7 @@ rtmp://5.182.231.251//2055
 
 
 #EXTINF:-1 tvg-id="foxlife" group-title="", Fox Life
-http://176.222.190.76/btv/SWM/FoxLife/FoxLife.m3u8
+
 
 #EXTINF:-1 tvg-id="foxlife-cis" group-title="", FoxLife Украина
 
@@ -285,7 +285,7 @@ https://livetv.mylifeisgood.ml/channels/gulli.m3u8
 # H
 
 #EXTINF:-1 tvg-id="h2" group-title="", H2
-http://176.222.190.76/btv/SWM/History2HD/History2HD.m3u8
+
 
 #EXTINF:-1 tvg-id="hbo-hd" group-title="Movies", HBO
 
@@ -309,10 +309,10 @@ http://176.222.190.76/btv/SWM/History2HD/History2HD.m3u8
 https://livetv.mylifeisgood.ml/channels/hdlife.m3u8
 
 #EXTINF:-1 tvg-id="history-ru" group-title="", History
-http://176.222.190.76/btv/SWM/HistoryHD/HistoryHD.m3u8
+
 
 #EXTINF:-1 tvg-id="hollywood" group-title="", Hollywood
-http://176.222.190.76/btv/SWM/Hollywood/Hollywood.m3u8
+
 
 # I
 
@@ -372,10 +372,10 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 # N
 
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="", Nat Geo Wild
-http://176.222.190.76/btv/SWM/NatGeo_Wild/NatGeo_Wild.m3u8
+
 
 #EXTINF:-1 tvg-id="national-geographic" group-title="", National Geographic
-http://176.222.190.76/btv/SWM/NatGeo_channel/NatGeo_channel.m3u8
+
 
 #EXTINF:-1 tvg-id="nick-jr" group-title="Kids", Nick Jr
 
@@ -406,7 +406,7 @@ https://livetv.mylifeisgood.ml/channels/nickelodeon-hd.m3u8
 https://livetv.mylifeisgood.ml/channels/paramount_comedy
 
 #EXTINF:-1 tvg-id="plan-b" group-title="", Plan B
-http://176.222.190.76/btv/SWM/plan_b/plan_b.m3u8
+
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Portal FoxMix TV
 
@@ -428,7 +428,7 @@ https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 
 
 #EXTINF:-1 tvg-id="rtvi" group-title="", RTVi
-http://176.222.190.76/btv/SWM/RTVi/RTVi.m3u8
+
 
 #EXTINF:-1 tvg-id="russian-musicbox" group-title="Music", Russian MusicBox
 rtmp://5.182.231.251//2048
@@ -504,7 +504,7 @@ https://stirr.ott-channels.stingray.com/134/master.m3u8
 https://livetv.mylifeisgood.ml/channels/tiji.m3u8
 
 #EXTINF:-1 tvg-id="tlc" group-title="", TLC
-http://176.222.190.76/btv/SWM/tlc_hd/tlc_hd.m3u8
+
 
 #EXTINF:-1 tvg-id="trashtv" group-title="Movies", Trash
 https://livetv.mylifeisgood.ml/channels/trash.m3u8
@@ -516,7 +516,7 @@ http://88.216.83.245/travel/index.m3u8
 
 
 #EXTINF:-1 tvg-id="tvxxi" group-title="", TV XXI
-http://176.222.190.76/btv/SWM/tv21/tv21.m3u8
+
 
 #EXTINF:-1 tvg-id="tv1000-cee" group-title="Movies", TV1000 CEE
 
@@ -667,7 +667,7 @@ rtmp://5.182.231.251//2005
 
 
 #EXTINF:-1 tvg-id="domkino-premium" group-title="", Дом кино премиум HD
-http://176.222.190.76/btv/SWM/Dom_kino_Prem/Dom_kino_Prem.m3u8
+
 
 #EXTINF:-1 tvg-id="domashnie-zhivotnye" group-title="", Домашние животные
 
@@ -684,7 +684,7 @@ rtmp://5.182.231.251//2021
 # Е
 
 #EXTINF:-1 tvg-id="evrokino" group-title="Movies", Еврокино
-http://176.222.190.76/btv/SWM/Eurokino/Eurokino.m3u8
+
 
 #EXTINF:-1 tvg-id="eda-hd" group-title="", Еда Премиум
 
@@ -725,7 +725,7 @@ http://ott-cdn.ucom.am/s92/index.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 
 #EXTINF:-1 tvg-id="illuzion-plus" group-title="Movies", Иллюзион +
-http://176.222.190.76/btv/SWM/Illuzion-Plus_SWM/Illuzion-Plus_SWM.m3u8
+
 
 #EXTINF:-1 tvg-id="indiyskoe-kino" group-title="Movies", Индийское кино
 
@@ -880,7 +880,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="mir-seriala" group-title="Movies", Мир сериала
-http://176.222.190.76/btv/SWM/mir_seriala/mir_seriala.m3u8
+
 
 #EXTINF:-1 tvg-id="mosfilm" group-title="Movies", Мосфильм. Золотая коллекция
 http://streamer.enchart.one/42/06936289cce93c2ec61855d924639487400f1e82/1155/stream.m3u8
@@ -1018,10 +1018,10 @@ http://rtmp.one.by:1200
 
 
 #EXTINF:-1 tvg-id="perec-int" group-title="Entertainment", Перец Int
-http://176.222.190.76/btv/SWM/Perec/Perec.m3u8
+
 
 #EXTINF:-1 tvg-id="pobeda" group-title="", Победа
-http://176.222.190.76/btv/SWM/Pobeda/Pobeda.m3u8
+
 
 #EXTINF:-1 tvg-id="poexali" group-title="Travel & Tourism", Поехали!
 
@@ -1059,7 +1059,7 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 https://livetv.mylifeisgood.ml/channels/rentv.m3u8
 
 #EXTINF:-1 tvg-id="rentv-int" group-title="General", Рен ТВ International
-http://176.222.190.76/btv/SWM/RenTV/RenTV.m3u8
+
 
 #EXTINF:-1 tvg-id="retro-tv" group-title="Movies", Ретро ТВ
 rtmp://5.182.231.251//2018
@@ -1143,14 +1143,14 @@ https://bl.uma.media/live/317845/HLS/4614144_3,2883584/2/1/playlist.m3u8
 
 # Т
 
+#EXTINF:-1 tvg-id="tvcentr" group-title="Entertainment", ТВ Центр
+
+
 #EXTINF:-1 tvg-id="tv3-ru" group-title="Entertainment", ТВ3
 https://bl.uma.media/live/317846/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv3-int" group-title="Entertainment", ТВ3 International
-http://176.222.190.76/btv/SWM/TB_3_International/TB_3_International.m3u8
 
-#EXTINF:-1 tvg-id="tvcentr" group-title="Entertainment", ТВ Центр
-http://176.222.190.76/btv/SWM/TVCentr/TVCentr.m3u8
 
 #EXTINF:-1 tvg-id="tnt" group-title="Entertainment", ТНТ
 https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
@@ -1207,7 +1207,7 @@ https://livetv.mylifeisgood.ml/channels/che.m3u8
 # Ш
 
 #EXTINF:-1 tvg-id="shanson-tv" group-title="Music", Шансон-TB
-http://176.222.190.76/btv/SWM/Shanson_TV/Shanson_TV.m3u8
+
 
 #EXTINF:-1 tvg-id="shokiruyushchee-hd" group-title="Movies", Шокирующее HD
 http://streamer.enchart.one/42/06936289cce93c2ec61855d924639487400f1e82/170/stream.m3u8
