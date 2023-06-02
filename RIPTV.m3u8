@@ -313,6 +313,8 @@ https://livetv.mylifeisgood.ml/channels/hdlife.m3u8
 
 #EXTINF:-1 tvg-id="hollywood" group-title="", Hollywood
 
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", House Floor
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
 
 # I
 
@@ -442,13 +444,13 @@ https://livetv.mylifeisgood.ml/channels/setantahd
 https://livetv.mylifeisgood.ml/channels/setantaplus
 
 #EXTINF:-1 tvg-id="sony-scifi" group-title="", Sony Sci-Fi
-
+http://93.125.34.51:30002/Sony_Sci-Fi/index.m3u8
 
 #EXTINF:-1 tvg-id="sony-turbo" group-title="Movies", Sony Turbo
-
+http://edge05.beetv.kz:80/btv/SWM/Black/Black.m3u8
 
 #EXTINF:-1 tvg-id="sony-tv" group-title="", Sony ТВ HD
-
+rtmp://5.182.231.251//2062
 
 #EXTINF:-1 tvg-id="star-family-ua" group-title="", Star Family Украина
 
@@ -915,7 +917,7 @@ http://livetv.mylifeisgood.ml/channels/mult.m3u8
 # Н
 
 #EXTINF:-1 tvg-id="nst" group-title="Movies", НСТ
-
+rtmp://178.159.112.198//nst
 
 #EXTINF:-1 tvg-id="ntv" group-title="General", НТВ
 https://livetv.mylifeisgood.ml/channels/ntvhd.m3u8
@@ -939,19 +941,19 @@ https://livetv.mylifeisgood.ml/channels/ntvhit24
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nano-tv" group-title="", Нано
-http://nano.teleservice.su:8080/hls/nano.m3u8
+rtmp://5.182.231.251//2081
 
 #EXTINF:-1 tvg-id="nano-hd" group-title="", Нано HD
-
+rtmp://5.182.231.251//2135
 
 #EXTINF:-1 tvg-id="nauka-20" group-title="", Наука 2.0
-http://ott-cdn.ucom.am/s98/index.m3u8
+rtmp://5.182.231.251//2155
 
 #EXTINF:-1 tvg-id="nashehd" group-title="", Наше HD
 
 
 #EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="Movies", Наше новое кино
-
+http://93.125.34.51:30002/NasheNovoeKino/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Новое радио
 
