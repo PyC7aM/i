@@ -827,7 +827,7 @@ http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="lubimoe-kino" group-title="Movies", Любимое кино
-
+rtmp://5.182.231.251//2106
 
 #EXTINF:-1 tvg-id="la-minor" group-title="Music", Ля-минор
 rtmp://5.182.231.251//2043
@@ -898,7 +898,7 @@ http://streamer.enchart.one/42/06936289cce93c2ec61855d924639487400f1e82/1155/str
 https://livetv.mylifeisgood.ml/channels/myplanet.m3u8
 
 #EXTINF:-1 tvg-id="muzhskoy" group-title="", Мужской
-
+rtmp://5.182.231.251//2047
 
 #EXTINF:-1 tvg-id="muzhskoe-kino" group-title="Movies", Мужское кино
 
@@ -968,7 +968,7 @@ http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 # О
 
 #EXTINF:-1 tvg-id="o_" group-title="Kids", О!
-
+rtmp://5.182.231.251//2141
 
 #EXTINF:-1 tvg-id="o2tv" group-title="Music", О2ТВ
 
