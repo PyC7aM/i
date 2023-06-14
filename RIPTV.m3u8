@@ -316,6 +316,7 @@ https://livetv.mylifeisgood.ml/channels/hdlife.m3u8
 
 #EXTINF:-1 tvg-id="hollywood" group-title="", Hollywood
 
+
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", House Floor
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
 
@@ -663,7 +664,7 @@ rtmp://5.182.231.251//2005
 
 
 #EXTINF:-1 tvg-id="dozhd" group-title="News", Дождь
-
+rtmp://5.182.231.251//2030
 
 #EXTINF:-1 tvg-id="doktor" group-title="", Доктор
 
@@ -730,7 +731,7 @@ http://ott-cdn.ucom.am/s92/index.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 
 #EXTINF:-1 tvg-id="illuzion-plus" group-title="Movies", Иллюзион +
-
+rtmp://5.182.231.251//2038
 
 #EXTINF:-1 tvg-id="indiyskoe-kino" group-title="Movies", Индийское кино
 
@@ -743,7 +744,7 @@ http://ott-cdn.ucom.am/s40/index.m3u8
 # К
 
 #EXTINF:-1 tvg-id="kvn-tv" group-title="Entertainment", КВН ТВ
-
+http://146.158.0.56:80/KVN/index.m3u8
 
 #EXTINF:-1 tvg-id="kxl-hd" group-title="Sport", КХЛ HD
 http://bl.uma.media/live/171748/HLS/171748_4/2/1/playlist.m3u8
