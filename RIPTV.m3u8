@@ -38,7 +38,7 @@ http://146.158.0.56/365dney/mono.m3u8
 http://ott-cdn.ucom.am/s45/index.m3u8
 
 #EXTINF:-1 tvg-id="amedia2" group-title="Movies", A2
-rtmp://5.182.231.251//2046
+http://ott-cdn.ucom.am/s33/index.m3u8
 
 #EXTINF:-1 tvg-id="aiva" group-title="Music", AIVA
 rtmp://5.182.231.251//2156
