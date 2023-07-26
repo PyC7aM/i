@@ -1056,7 +1056,7 @@ https://livetv.mylifeisgood.ml/channels/5tv.m3u8
 # Р
 
 #EXTINF:-1 tvg-id="rtr-planeta-eu" group-title="General", РТР-Планета
-
+http://ott-cdn.ucom.am/s15/index.m3u8
 
 #EXTINF:-1 tvg-id="radio-shanson" group-title="Music", Радио Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
