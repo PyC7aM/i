@@ -247,6 +247,9 @@ https://livetv.mylifeisgood.net.ru/channels/eurosport2
 #EXTINF:-1 tvg-id="fanhd" group-title="Movies", FAN HD
 
 
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", FantasticMystiC 
+https://hls.goodgame.ru/hls/187741.m3u8
+
 #EXTINF:-1 tvg-id="fashion-tv" group-title="Lifestyle", Fashion TV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
