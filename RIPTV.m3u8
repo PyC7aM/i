@@ -1161,10 +1161,10 @@ http://ott-cdn.ucom.am/s54/index.m3u8
 https://bl.uma.media/live/317846/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv3-int" group-title="Entertainment", ТВ3 International
-
+http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tnt" group-title="Entertainment", ТНТ
-https://bl.uma.media/live/317850/HLS/4614144_3/2/1/playlist.m3u8
+http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tnt-int-cis" group-title="Entertainment", ТНТ-International
 http://ott-cdn.ucom.am/s19/index.m3u8
@@ -1185,7 +1185,7 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 
 
 #EXTINF:-1 tvg-id="tochka-tv" group-title="", Точка
-http://tochkatv-live.cdnvideo.ru/tochkatv2/MPEGTS.TOCHKA.stream/playlist.m3u8
+https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
 
 # У
 
@@ -1206,7 +1206,7 @@ https://livetv.mylifeisgood.net.ru/channels/fenixkino.m3u8
 # Х
 
 #EXTINF:-1 tvg-id="khit-hd" group-title="Movies", Хит HD
-http://80.251.49.103:8003/play/81
+
 
 # Ц
 
@@ -1221,7 +1221,7 @@ https://livetv.mylifeisgood.net.ru/channels/che.m3u8
 
 
 #EXTINF:-1 tvg-id="shokiruyushchee-hd" group-title="Movies", Шокирующее HD
-http://streamer.enchart.one/42/06936289cce93c2ec61855d924639487400f1e82/170/stream.m3u8
+
 
 # Щ
 
@@ -1236,7 +1236,7 @@ http://streamer.enchart.one/42/06936289cce93c2ec61855d924639487400f1e82/170/stre
 # Ю
 
 #EXTINF:-1 tvg-id="yu" group-title="Entertainment", Ю
-https://livetv.mylifeisgood.net.ru/channels/u_ott_tv.m3u8
+https://edge02.odtv.az/o3/utv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="yurgan" group-title="Regional", Юрган
 
