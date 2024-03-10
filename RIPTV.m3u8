@@ -82,7 +82,7 @@ https://livetv.mylifeisgood.net.ru/channels/babytime.m3u8
 http://stream.backustv.ru/live/btv/index.m3u8
 
 #EXTINF:-1 tvg-id="backustv-music" group-title="Music", BackusTV Music
-https://stream.backustv.ru/live/vipbtv3/index.m3u8
+http://stream.backustv.ru/live/btv3/index.m3u8
 
 #EXTINF:-1 tvg-id="backustv-horror" group-title="Movies", BackusTV Страшное
 http://stream.backustv.ru/live/btv2/index.m3u8
@@ -115,7 +115,7 @@ https://livetv.mylifeisgood.net.ru/channels/bridgehitstv
 https://livetv.mylifeisgood.net.ru/channels/bridgedeluxetv
 
 #EXTINF:-1 tvg-id="bridge-tv-fresh" group-title="Music", Bridge TV Fresh
-http://194.49.127.254:20141/playlist.m3u8
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
 
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Music", Bridge TV Русский хит
 https://livetv.mylifeisgood.net.ru/channels/bridgerushittv
