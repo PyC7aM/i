@@ -132,7 +132,7 @@ https://livetv.mylifeisgood.net.ru/channels/bridgetvshlyager
 
 
 #EXTINF:-1 tvg-id="cinema-ru" group-title="Movies", Cinema
-https://sc.id-tv.kz/Cinema.m3u8
+
 
 #EXTINF:-1 tvg-id="cineman" group-title="Movies", CineMan
 
@@ -165,7 +165,7 @@ https://sc.id-tv.kz/Cinema.m3u8
 
 
 #EXTINF:-1 tvg-id="cineman-lesnik" group-title="Movies", CineMan Лесник
-http://streamer.enchart.one/42/06936289cce93c2ec61855d924639487400f1e82/1807/stream.m3u8
+
 
 #EXTINF:-1 tvg-id="cineman-musw" group-title="Movies", CineMan Ментовские войны
 
@@ -1029,7 +1029,7 @@ http://rtmp.one.by:1200
 
 
 #EXTINF:-1 tvg-id="perec-int" group-title="Entertainment", Перец Int
-
+http://stream01.vnet.am/Perec/mono.m3u8
 
 #EXTINF:-1 tvg-id="pobeda" group-title="", Победа
 
