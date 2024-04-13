@@ -1184,6 +1184,9 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="texno-24" group-title="", Техно 24
 
 
+#EXTINF:-1 tvg-id="tolk" group-title="", Толк HD
+http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="tochka-tv" group-title="", Точка
 https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
 
