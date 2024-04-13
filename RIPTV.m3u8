@@ -794,7 +794,7 @@ http://livetv.mylifeisgood.net.ru/channels/kinomix.m3u8
 
 
 #EXTINF:-1 tvg-id="kinopremiera-hd" group-title="Movies", Кинопремьера
-
+http://stream02.vnet.am/Kinopremera/mono.m3u8
 
 #EXTINF:-1 tvg-id="kinosvidanie" group-title="Movies", Киносвидание
 
@@ -824,7 +824,7 @@ http://45.159.74.13:80/Kinokhit/tracks-v1a1/mono.m3u8
 http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="kuxnia-tv" group-title="", Кухня ТВ
-
+http://stream01.vnet.am/KukhnyaTv/mono.m3u8
 
 # Л
 
