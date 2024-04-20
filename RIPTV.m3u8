@@ -12,7 +12,7 @@ http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 https://livetv.mylifeisgood.net.ru/channels/1hdmusic.m3u8
 
 #EXTINF:-1 tvg-id="2na2" group-title="Entertainment", 2x2
-https://bl.uma.media/live/317805/HLS/4614144_3,2883584/2/1/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="312-kino" group-title="Movies", 312 Кино
 
@@ -73,7 +73,7 @@ http://ott-cdn.ucom.am/s94/04.m3u8
 # B
 
 #EXTINF:-1 tvg-id="baby-time" group-title="Kids", Baby Time
-https://livetv.mylifeisgood.net.ru/channels/babytime.m3u8
+http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
 
 #EXTINF:-1 tvg-id="baby-tv" group-title="Kids", Baby TV
 
