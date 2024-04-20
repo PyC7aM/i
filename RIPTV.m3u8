@@ -333,7 +333,7 @@ https://livetv.mylifeisgood.net.ru/channels/discoveryxtra
 # K
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Kronehit
-
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
 # L
 
@@ -346,10 +346,10 @@ https://livetv.mylifeisgood.net.ru/channels/discoveryxtra
 
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", MTV Biggest Pop
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", MTV Block Party
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
 
 #EXTINF:-1 tvg-id="mtv-dance" group-title="Music", MTV Dance
 
@@ -367,16 +367,16 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", MTV Spanking New
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", MTV Yo!
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Music Plus
 
 
 #EXTINF:-1 tvg-id="musicbox" group-title="Music", MusicBox Gold
-
+https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
 
 # N
 
@@ -439,8 +439,11 @@ https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 #EXTINF:-1 tvg-id="rtvi" group-title="", RTVi
 
 
-#EXTINF:-1 tvg-id="russian-musicbox" group-title="Music", Russian MusicBox
+#EXTINF:-1 tvg-id="rutv" group-title="Music", RU.TV
+https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
 
+#EXTINF:-1 tvg-id="russian-musicbox" group-title="Music", Russian MusicBox
+https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
 
 # S
 
