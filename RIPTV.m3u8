@@ -542,6 +542,9 @@ http://88.216.83.245/travel/index.m3u8
 #EXTINF:-1 tvg-id="tvmchannel" group-title="", TVMChannel
 http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 tvg-id="sovsec" group-title="", Top Secret
+https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
+
 # U
 
 #EXTINF:-1 tvg-id="ufc" group-title="Sport", UFC ТВ
