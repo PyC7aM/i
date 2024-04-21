@@ -454,10 +454,10 @@ https://livetv.mylifeisgood.net.ru/channels/setantahd
 https://livetv.mylifeisgood.net.ru/channels/setantaplus
 
 #EXTINF:-1 tvg-id="sony-scifi" group-title="", Sony Sci-Fi
-http://93.125.34.51:30002/Sony_Sci-Fi/index.m3u8
+
 
 #EXTINF:-1 tvg-id="sony-turbo" group-title="Movies", Sony Turbo
-http://edge05.beetv.kz:80/btv/SWM/Black/Black.m3u8
+
 
 #EXTINF:-1 tvg-id="sony-tv" group-title="", Sony ТВ HD
 
@@ -466,31 +466,31 @@ http://edge05.beetv.kz:80/btv/SWM/Black/Black.m3u8
 
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Alternative HD
-https://stirr.ott-channels.stingray.com/102/master.m3u8
+
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Classic Rock HD
-https://stirr.ott-channels.stingray.com/101/master.m3u8
+
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Classica HD
 
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Exitos Del Momento HD
-https://stirr.ott-channels.stingray.com/190/master.m3u8
+
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Flashback 70S HD
-https://stirr.ott-channels.stingray.com/115/master.m3u8
+
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Greatest Hits HD
-https://stirr.ott-channels.stingray.com/155/master.m3u8
+
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Hip-Hop/R&B HD
-https://stirr.ott-channels.stingray.com/133/master.m3u8
+
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Hit List HD
-https://stirr.ott-channels.stingray.com/107/master.m3u8
+
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Hot Country HD
-https://stirr.ott-channels.stingray.com/108/master.m3u8
+
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Jazz HD
 
@@ -499,16 +499,16 @@ https://stirr.ott-channels.stingray.com/108/master.m3u8
 
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Pop Adult HD
-https://stirr.ott-channels.stingray.com/104/master.m3u8
+
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Qello TV HD
 
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Remember The 80S HD
-https://stirr.ott-channels.stingray.com/128/master.m3u8
+
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Soul Storm STORM HD
-https://stirr.ott-channels.stingray.com/134/master.m3u8
+
 
 # T
 
@@ -565,43 +565,43 @@ https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
 
 
 #EXTINF:-1 tvg-id="viasat-explore" group-title="", Viju Explore
-https://edge02.odtv.az/o5/viasatexporer/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="viasat-history" group-title="", Viju History
-https://edge02.odtv.az/o5/viasathistory/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="viasat-nature" group-title="Nature", Viju Nature
-https://edge02.odtv.az/o5/viasatnature/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="tv1000" group-title="Movies", Viju TV1000
-http://82.209.197.187:8080/udp/239.0.100.141:1234
+
 
 #EXTINF:-1 tvg-id="tv1000-action" group-title="Movies", Viju TV1000 Action
-https://woobl.ru/hls987/TV1000_action_hd.m3u8
+
 
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Movies", Viju TV1000 Русское
-http://82.209.197.187:8080/udp/239.0.100.82:1234
+
 
 #EXTINF:-1 tvg-id="vip-comedy" group-title="Movies", Viju+ Comedy
-https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="vip-megahit" group-title="Movies", Viju+ Megahit
-https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" group-title="Nature", Viju+ Planet
 https://livetv.mylifeisgood.net.ru/channels/viasatnaturehistory.m3u8
 
 #EXTINF:-1 tvg-id="vip-premiere" group-title="Movies", Viju+ Premiere
-https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="vip-serial" group-title="Movies", Viju+ Serial
-https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="viasat-sport" group-title="Sport", Viju+ Sport
-https://edge02.odtv.az/o7/viasatsport/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="viva-rus" group-title="Music", VIVA Russia
-https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+
 
 # W
 
