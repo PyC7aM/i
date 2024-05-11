@@ -47,7 +47,7 @@ http://ott-cdn.ucom.am/s33/index.m3u8
 https://hls.goodgame.ru/hls/5346.m3u8
 
 #EXTINF:-1 tvg-id="amedia-hit" group-title="Movies", Amedia Hit
-
+http://stream01.vnet.am/Nauka/mono.m3u8
 
 #EXTINF:-1 tvg-id="amedia-premium" group-title="Movies", Amedia Premium
 http://stream01.vnet.am/AmediaPremium/mono.m3u8
@@ -247,6 +247,9 @@ https://livetv.mylifeisgood.net.ru/channels/eurosport2
 #EXTINF:-1 tvg-id="fanhd" group-title="Movies", FAN HD
 
 
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", FX
+https://stream01.vnet.am/Fox/mono.m3u8
+
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", FantasticMystiC 
 https://hls.goodgame.ru/hls/187741.m3u8
 
@@ -255,6 +258,9 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="fastfunbox-hd" group-title="Sport", Fast&FunBox
 http://ott-cdn.ucom.am/s79/index.m3u8
+
+#EXTINF:-1 tvg-id="fightbox-hd" group-title="", Fightbox HD
+http://stream01.vnet.am/Fightbox/mono.m3u8
 
 #EXTINF:-1 tvg-id="filmbox-arthouse" group-title="", FilmBox ArtHouse
 
@@ -396,7 +402,7 @@ https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
 https://livetv.mylifeisgood.net.ru/channels/nickelodeon-hd.m3u8
 
 #EXTINF:-1 tvg-id="nicktoons" group-title="Kids", Nicktoons
-
+https://stream01.vnet.am/Boomerang/mono.m3u8
 
 # O
 
@@ -1023,7 +1029,7 @@ http://rtmp.one.by:2200
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 
 #EXTINF:-1 tvg-id="eureka-hd" group-title="", Первый космический
-https://livetv.mylifeisgood.net.ru/channels/firstspace
+http://stream01.vnet.am/Evrika/mono.m3u8
 
 #EXTINF:-1 tvg-id="onemuz" group-title="Music", Первый музыкальный
 http://rtmp.one.by:1200
@@ -1059,7 +1065,7 @@ https://livetv.mylifeisgood.net.ru/channels/adventureshd.m3u8
 https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
 
 #EXTINF:-1 tvg-id="piatnica-int" group-title="Entertainment", Пятница International
-http://ott-cdn.ucom.am/s50/index.m3u8
+https://stream01.vnet.am/Pyatnica/mono.m3u8
 
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="Movies", Пятый канал
 https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
