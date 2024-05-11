@@ -247,7 +247,7 @@ https://livetv.mylifeisgood.net.ru/channels/eurosport2
 #EXTINF:-1 tvg-id="fanhd" group-title="Movies", FAN HD
 
 
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", FX
+#EXTINF:-1 tvg-id="fox" group-title="Movies", FX
 https://stream01.vnet.am/Fox/mono.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", FantasticMystiC 
