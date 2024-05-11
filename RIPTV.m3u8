@@ -211,7 +211,7 @@ https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="discovery-channel-ce" group-title="", Discovery Channel
-
+http://edge02.odtv.az/o5/discovery/playlist.m3u8
 
 #EXTINF:-1 tvg-id="discovery-science" group-title="", Discovery Science
 
@@ -332,7 +332,7 @@ https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
 # I
 
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="", ID Xtra EU
-https://livetv.mylifeisgood.net.ru/channels/discoveryxtra
+http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 
 # J
 
@@ -387,7 +387,7 @@ https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
 # N
 
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="", Nat Geo Wild
-
+http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="national-geographic" group-title="", National Geographic
 
@@ -669,7 +669,7 @@ http://ott-cdn.ucom.am/s58/index.m3u8
 https://v2.catcast.tv/content/38720/index.m3u8
 
 #EXTINF:-1 tvg-id="dialogi-o-rybalke" group-title="Sport", Диалоги о рыбалке
-
+https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
 
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="Sport", Дикая охота HD
 
