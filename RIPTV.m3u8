@@ -68,7 +68,7 @@ http://ott-cdn.ucom.am/s66/04.m3u8
 http://ott-cdn.ucom.am/s48/04.m3u8
 
 #EXTINF:-1 tvg-id="atv-kinoman" group-title="Movies", ATV Kinoman
-http://ott-cdn.ucom.am/s94/04.m3u8
+http://stream02.vnet.am/Kinoman/mono.m3u8
 
 # B
 
@@ -313,6 +313,9 @@ http://170.254.18.106/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", HBO Plus
 http://170.254.18.106/HBO_PLUS/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", HBO Signature
+http://170.254.18.106/HBO_SIG/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", HBO Xtreme
 http://170.254.18.106/HBO_XTREME/index.m3u8
