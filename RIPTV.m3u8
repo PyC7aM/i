@@ -1193,6 +1193,9 @@ https://bl.uma.media/live/317849/HLS/4614144_3,2883584/2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="tvoyo-tv-hd" group-title="Entertainment", Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 
+#EXTINF:-1 tvg-id="tvoyo-tv-humor" group-title="Entertainment", Твоё ТВ Юмор
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+
 #EXTINF:-1 tvg-id="texno-24" group-title="", Техно 24
 
 
