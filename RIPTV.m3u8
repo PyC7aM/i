@@ -1059,7 +1059,7 @@ https://livetv.mylifeisgood.net.ru/channels/adventureshd.m3u8
 
 
 #EXTINF:-1 tvg-id="prodvizhenie" group-title="Entertainment", Продвижение
-
+http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 
 #EXTINF:-1 tvg-id="piatnica" group-title="Entertainment", Пятница
 https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
@@ -1082,13 +1082,13 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 
 #EXTINF:-1 tvg-id="rentv-int" group-title="General", Рен ТВ International
-
+http://45.159.74.14:80/RenTv/index.m3u8
 
 #EXTINF:-1 tvg-id="retro-tv" group-title="Movies", Ретро ТВ
 
 
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="Movies", Родное кино
-https://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
+http://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
 
 #EXTINF:-1 tvg-id="romantichnoe-hd" group-title="", Романтичное HD
 
@@ -1204,6 +1204,9 @@ https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
 
 # У
 
+#EXTINF:-1 tvg-id="udar" group-title="Sport", Удар
+https://strm.yandex.ru/kal/udar/udar0.m3u8
+
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Ужас
 
 
@@ -1251,7 +1254,7 @@ https://livetv.mylifeisgood.net.ru/channels/che.m3u8
 # Ю
 
 #EXTINF:-1 tvg-id="yu" group-title="Entertainment", Ю
-
+https://strm.yandex.ru/kal/utv/utv0.m3u8
 
 #EXTINF:-1 tvg-id="yurgan" group-title="Regional", Юрган
 
