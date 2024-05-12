@@ -309,13 +309,13 @@ http://170.254.18.106/HBO2/index.m3u8
 
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", HBO Family
-
+http://170.254.18.106/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", HBO Plus
-
+http://170.254.18.106/HBO_PLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", HBO Xtreme
-
+http://170.254.18.106/HBO_XTREME/index.m3u8
 
 #EXTINF:-1 tvg-id="hd-life" group-title="", HD Life
 https://livetv.mylifeisgood.net.ru/channels/hdlife.m3u8
