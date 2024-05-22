@@ -191,7 +191,7 @@ http://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
 #EXTINF:-1 tvg-id="cineman-uzhasy" group-title="Movies", CineMan Ужасы
 
 
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Cinemax
+#EXTINF:-1 tvg-id="cinemax" group-title="Movies", Cinemax
 http://170.254.18.106/CINEMAX/index.m3u8
 
 #EXTINF:-1 tvg-id="clubbing-tv" group-title="Music", Clubbing TV
