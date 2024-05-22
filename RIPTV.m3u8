@@ -1109,7 +1109,7 @@ https://edge02.odtv.az/o1/rtrkultura/playlist.m3u8
 http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="russky-bestseller" group-title="Movies", Русский бестселлер
-
+http://streaming.tv-teleport.ru/Russkiy_Bestseller/index.m3u8
 
 #EXTINF:-1 tvg-id="russky-detektiv" group-title="Movies", Русский детектив
 
@@ -1172,7 +1172,10 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="tvcentr" group-title="Entertainment", ТВ Центр
 http://ott-cdn.ucom.am/s54/index.m3u8
 
-#EXTINF:-1 tvg-id="tv3-ru" group-title="Entertainment", ТВ3
+#EXTINF:-1 tvg-id="tv3-ru" group-title="Entertainment", ТВ3 
+http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv3-by" group-title="Entertainment", ТВ3 Беларусь
 http://strm.yandex.ru/kal/tv3_belarus/tv3_belarus0.m3u8
 
 #EXTINF:-1 tvg-id="tv3-int" group-title="Entertainment", ТВ3 International
@@ -1188,7 +1191,7 @@ http://ott-cdn.ucom.am/s19/index.m3u8
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdlow.m3u8
 
 #EXTINF:-1 tvg-id="tnt4" group-title="Entertainment", ТНТ4
-
+https://edge02.odtv.az/o7/tnt4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tayna" group-title="", Тайна
 
