@@ -330,7 +330,7 @@ http://170.254.18.106/HBO_XTREME/index.m3u8
 https://livetv.mylifeisgood.net.ru/channels/hdlife.m3u8
 
 #EXTINF:-1 tvg-id="history-ru" group-title="", History
-
+http://170.254.18.106/HISTORY/index.m3u8
 
 #EXTINF:-1 tvg-id="hollywood" group-title="", Hollywood
 
