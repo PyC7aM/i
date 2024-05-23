@@ -357,6 +357,9 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
 # M
 
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", MTV
+http://170.254.18.106/MTV/index.m3u8
+
 #EXTINF:-1 tvg-id="vh1-european" group-title="Music", MTV 00s
 
 
@@ -572,6 +575,9 @@ https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
 
 
 # V
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", VH1
+http://170.254.18.106/VH1/index.m3u8
 
 #EXTINF:-1 tvg-id="vip-comedy-cee" group-title="Movies", ViP Comedy CEE
 
