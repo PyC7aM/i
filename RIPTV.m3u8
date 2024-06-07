@@ -532,6 +532,8 @@ https://livetv.mylifeisgood.net.ru/channels/setantaplus
 
 
 # T
+#EXTINF:-1 tvg-id="tbs" group-title="Entertainment", TBS
+http://143.244.60.30/TBS/index.m3u8
 
 #EXTINF:-1 tvg-id="tiji" group-title="Kids", TiJi
 https://livetv.mylifeisgood.net.ru/channels/tiji.m3u8
