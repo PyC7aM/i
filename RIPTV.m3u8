@@ -188,6 +188,9 @@ http://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
 #EXTINF:-1 tvg-id="cinemax" group-title="Movies", Cinemax
 http://170.254.18.106/CINEMAX/index.m3u8
 
+#EXTINF:-1 tvg-id="clarity" group-title="Movies", Clarity
+https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
+
 #EXTINF:-1 tvg-id="clubbing-tv" group-title="Music", Clubbing TV
 https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
 
