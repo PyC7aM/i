@@ -56,7 +56,7 @@ http://170.254.18.106/AMC/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="animal-planet-eu" group-title="", Animal Planet
-https://livetv.mylifeisgood.net.ru/channels/animalplanethd.m3u8
+
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", ATV Cineman
 http://ott-cdn.ucom.am/s66/04.m3u8
@@ -78,11 +78,11 @@ http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
 #EXTINF:-1 tvg-id="backustv" group-title="Movies", BackusTV
 http://stream.backustv.ru/live/btv/index.m3u8
 
+#EXTINF:-1 tvg-id="backustv-horror" group-title="Movies", BackusTV Dark
+http://stream.backustv.ru/live/btv2/index.m3u8
+
 #EXTINF:-1 tvg-id="backustv-music" group-title="Music", BackusTV Music
 http://stream.backustv.ru/live/btv3/index.m3u8
-
-#EXTINF:-1 tvg-id="backustv-horror" group-title="Movies", BackusTV Страшное
-http://stream.backustv.ru/live/btv2/index.m3u8
 
 #EXTINF:-1 tvg-id="bbc" group-title="News", BBC
 
@@ -105,13 +105,13 @@ https://livetv.mylifeisgood.net.ru/channels/bridgetv24h
 #EXTINF:-1 tvg-id="bridge-tv-classic" group-title="Music", Bridge TV Classic
 https://livetv.mylifeisgood.net.ru/channels/bridgeclassictv
 
-#EXTINF:-1 tvg-id="bridge-tv-dance" group-title="Music", Bridge TV Dance
-https://livetv.mylifeisgood.net.ru/channels/bridgehitstv
-
 #EXTINF:-1 tvg-id="bridge-hd" group-title="Music", Bridge TV Deluxe
 https://livetv.mylifeisgood.net.ru/channels/bridgedeluxetv
 
-#EXTINF:-1 tvg-id="bridge-tv-fresh" group-title="Music", Bridge TV Fresh
+#EXTINF:-1 tvg-id="bridge-tv-dance" group-title="Music", Bridge TV Hits
+https://livetv.mylifeisgood.net.ru/channels/bridgehitstv
+
+#EXTINF:-1 tvg-id="bridge-tv-fresh" group-title="Music", Bridge TV Rock
 https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
 
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Music", Bridge TV Русский хит
@@ -208,7 +208,7 @@ https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="discovery-channel-ce" group-title="", Discovery Channel
-http://edge02.odtv.az/o5/discovery/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="discovery-science" group-title="", Discovery Science
 
@@ -220,7 +220,7 @@ http://edge02.odtv.az/o5/discovery/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="dtx" group-title="", DTX
-https://livetv.mylifeisgood.net.ru/channels/discoverydtx.m3u8
+
 
 # E
 
@@ -231,7 +231,7 @@ https://livetv.mylifeisgood.net.ru/channels/discoverydtx.m3u8
 
 
 #EXTINF:-1 tvg-id="euronews" group-title="News", EuroNews
-https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="eurosport1" group-title="Sport", Eurosport 1
 https://livetv.mylifeisgood.net.ru/channels/eurosport1ru
@@ -251,7 +251,7 @@ https://stream01.vnet.am/Fox/mono.m3u8
 https://hls.goodgame.ru/hls/187741.m3u8
 
 #EXTINF:-1 tvg-id="fashion-tv" group-title="Lifestyle", Fashion TV
-https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="fastfunbox-hd" group-title="Sport", Fast&FunBox
 http://ott-cdn.ucom.am/s79/index.m3u8
@@ -289,7 +289,7 @@ http://stream01.vnet.am/Fightbox/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="gulli-girl" group-title="Kids", Gulli
-https://livetv.mylifeisgood.net.ru/channels/gulli.m3u8
+
 
 # H
 
@@ -405,7 +405,7 @@ http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="nickelodeon-hd" group-title="Kids", Nickelodeon HD
-https://livetv.mylifeisgood.net.ru/channels/nickelodeon-hd.m3u8
+
 
 #EXTINF:-1 tvg-id="nicktoons" group-title="Kids", Nicktoons
 https://stream01.vnet.am/Boomerang/mono.m3u8
@@ -424,7 +424,7 @@ https://stream01.vnet.am/Boomerang/mono.m3u8
 http://170.254.18.106/PARAMOUNT/index.m3u8
 
 #EXTINF:-1 tvg-id="paramount-comedy" group-title="", Paramount Comedy
-https://livetv.mylifeisgood.net.ru/channels/paramount_comedy
+
 
 #EXTINF:-1 tvg-id="plan-b" group-title="", Plan B
 
@@ -460,10 +460,10 @@ https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
 # S
 
 #EXTINF:-1 tvg-id="setanta-sports" group-title="Sport", Setanta Sports
-https://livetv.mylifeisgood.net.ru/channels/setantahd
+
 
 #EXTINF:-1 tvg-id="setanta-sports-plus" group-title="Sport", Setanta Sports+
-https://livetv.mylifeisgood.net.ru/channels/setantaplus
+
 
 #EXTINF:-1 tvg-id="sony-scifi" group-title="", Sony Sci-Fi
 
@@ -527,7 +527,7 @@ https://livetv.mylifeisgood.net.ru/channels/setantaplus
 http://143.244.60.30/TBS/index.m3u8
 
 #EXTINF:-1 tvg-id="tiji" group-title="Kids", TiJi
-https://livetv.mylifeisgood.net.ru/channels/tiji.m3u8
+
 
 #EXTINF:-1 tvg-id="tlc" group-title="", TLC
 
@@ -536,7 +536,7 @@ https://livetv.mylifeisgood.net.ru/channels/tiji.m3u8
 https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 
 #EXTINF:-1 tvg-id="travel-channel" group-title="Travel & Tourism", Travel Channel
-http://88.216.83.245/travel/index.m3u8
+
 
 #EXTINF:-1 tvg-id="travel-adventure" group-title="Travel & Tourism", Travel+Adventure
 
@@ -554,10 +554,10 @@ http://88.216.83.245/travel/index.m3u8
 
 
 #EXTINF:-1 tvg-id="tvmchannel" group-title="", TVMChannel
-http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
+
 
 #EXTINF:-1 tvg-id="sovsec" group-title="", Top Secret
-https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
+
 
 # U
 
@@ -582,13 +582,13 @@ http://170.254.18.106/VH1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="viasat-explore" group-title="", Viju Explore
-https://edge02.odtv.az/o5/viasatexporer/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="viasat-history" group-title="", Viju History
-https://edge02.odtv.az/o5/viasathistory/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="viasat-nature" group-title="Nature", Viju Nature
-https://edge02.odtv.az/o5/viasatnature/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="tv1000" group-title="Movies", Viju TV1000
 
@@ -615,7 +615,7 @@ https://livetv.mylifeisgood.net.ru/channels/viasatnaturehistory.m3u8
 
 
 #EXTINF:-1 tvg-id="viasat-sport" group-title="Sport", Viju+ Sport
-https://edge02.odtv.az/o7/viasatsport/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="viva-rus" group-title="Music", VIVA Russia
 
