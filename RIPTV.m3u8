@@ -56,7 +56,7 @@ http://170.254.18.106/AMC/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="animal-planet-eu" group-title="", Animal Planet
-
+http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", ATV Cineman
 http://ott-cdn.ucom.am/s66/04.m3u8
@@ -256,6 +256,9 @@ https://hls.goodgame.ru/hls/187741.m3u8
 #EXTINF:-1 tvg-id="fashion-tv" group-title="Lifestyle", Fashion TV
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 
+#EXTINF:-1 tvg-id="fashionbox-hd" group-title="Lifestyle", FashionBOX
+http://146.158.0.56:80/FashionBox/index.m3u8
+
 #EXTINF:-1 tvg-id="fastfunbox-hd" group-title="Sport", Fast&FunBox
 http://ott-cdn.ucom.am/s79/index.m3u8
 
@@ -399,7 +402,7 @@ https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="national-geographic" group-title="", National Geographic
-
+http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="nick-jr" group-title="Kids", Nick Jr
 
