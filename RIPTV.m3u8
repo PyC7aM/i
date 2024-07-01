@@ -32,7 +32,7 @@ http://146.158.0.56/365dney/mono.m3u8
 # A
 
 #EXTINF:-1 tvg-id="amedia1" group-title="Movies", A1
-http://streaming.tv-teleport.ru/A1/index.m3u8
+http://31.148.48.15/A1/index.m3u8
 
 #EXTINF:-1 tvg-id="amedia2" group-title="Movies", A2
 http://ott-cdn.ucom.am/s33/index.m3u8
